@@ -1,0 +1,506 @@
+[
+  {
+    "Latitude": "50.405389", 
+    "ParkName": "Crantock Beach", 
+    "AddressOneLine": "Crantock, Cornwall, TR8 5RH", 
+    "Longitude": "-5.1090412", 
+    "ItemUrl": "/parkdean-resorts/shared/locations/cornwall/crantock-beach/"
+  }, 
+  {
+    "Latitude": "50.3842589", 
+    "ParkName": "Holywell Bay", 
+    "AddressOneLine": "Near Newquay, Cornwall, TR8 5PR", 
+    "Longitude": "-5.1399552", 
+    "ItemUrl": "/parkdean-resorts/shared/locations/cornwall/holywell-bay/"
+  }, 
+  {
+    "Latitude": "50.3744143", 
+    "ParkName": "Looe Bay", 
+    "AddressOneLine": "East Looe, Cornwall, PL13 1NX", 
+    "Longitude": "-4.44281", 
+    "ItemUrl": "/parkdean-resorts/shared/locations/cornwall/looe-bay/"
+  }, 
+  {
+    "Latitude": "50.0216034", 
+    "ParkName": "Mullion", 
+    "AddressOneLine": "Lizard Peninsula, Cornwall, TR12 7LJ", 
+    "Longitude": "-5.2164234", 
+    "ItemUrl": "/parkdean-resorts/shared/locations/cornwall/mullion/"
+  }, 
+  {
+    "Latitude": "50.4135814", 
+    "ParkName": "Newquay", 
+    "AddressOneLine": "Newquay, Cornwall, TR8 4HS", 
+    "Longitude": "-5.0563147", 
+    "ItemUrl": "/parkdean-resorts/shared/locations/cornwall/newquay/"
+  }, 
+  {
+    "Latitude": "50.004243", 
+    "ParkName": "Sea Acres", 
+    "AddressOneLine": "Near Helston, Cornwall, TR12 7LT", 
+    "Longitude": "-5.1727157", 
+    "ItemUrl": "/parkdean-resorts/shared/locations/cornwall/sea-acres/"
+  }, 
+  {
+    "Latitude": "50.5558854", 
+    "ParkName": "St Minver", 
+    "AddressOneLine": "Wadebridge, Cornwall, PL27 6RR", 
+    "Longitude": "-4.876108", 
+    "ItemUrl": "/parkdean-resorts/shared/locations/cornwall/st-minver/"
+  }, 
+  {
+    "Latitude": "50.4031844", 
+    "ParkName": "White Acres", 
+    "AddressOneLine": "Near Newquay, Cornwall, TR8 4LW", 
+    "Longitude": "-4.9771775", 
+    "ItemUrl": "/parkdean-resorts/shared/locations/cornwall/white-acres/"
+  }, 
+  {
+    "Latitude": "50.9866056", 
+    "ParkName": "Bideford Bay", 
+    "AddressOneLine": "Nr Bideford, Devon, EX39\u00a0 5DU", 
+    "Longitude": "-4.3591974", 
+    "ItemUrl": "/parkdean-resorts/shared/locations/devon/bideford-bay/"
+  }, 
+  {
+    "Latitude": "50.2894994", 
+    "ParkName": "Challaborough Bay", 
+    "AddressOneLine": "Near Bigbury, South Devon, TQ7 4HU", 
+    "Longitude": "-3.8987886", 
+    "ItemUrl": "/parkdean-resorts/shared/locations/devon/challaborough-bay/"
+  }, 
+  {
+    "Latitude": "51.135196", 
+    "ParkName": "Ruda", 
+    "AddressOneLine": "Croyde Bay, Devon, EX33 1NP", 
+    "Longitude": "-4.234697", 
+    "ItemUrl": "/parkdean-resorts/shared/locations/devon/ruda/"
+  }, 
+  {
+    "Latitude": "50.4944751", 
+    "ParkName": "Torquay", 
+    "AddressOneLine": "Torquay, Devon, TQ2 8JU", 
+    "Longitude": "-3.5511433", 
+    "ItemUrl": "/parkdean-resorts/shared/locations/devon/torquay/"
+  }, 
+  {
+    "Latitude": "50.7201684", 
+    "ParkName": "Sandford", 
+    "AddressOneLine": "Poole, Dorset, BH16 6JZ", 
+    "Longitude": "-2.0881927", 
+    "ItemUrl": "/parkdean-resorts/shared/locations/dorset/sandford/"
+  }, 
+  {
+    "Latitude": "50.689711", 
+    "ParkName": "Warmwell", 
+    "AddressOneLine": "Near Weymouth, Dorset, DT2 8JE", 
+    "Longitude": "-2.3422008", 
+    "ItemUrl": "/parkdean-resorts/shared/locations/dorset/warmwell/"
+  }, 
+  {
+    "Latitude": "50.7136599", 
+    "ParkName": "West Bay", 
+    "AddressOneLine": "Bridport, Dorset, DT6 4HB", 
+    "Longitude": "-2.7674118", 
+    "ItemUrl": "/parkdean-resorts/shared/locations/dorset/west-bay/"
+  }, 
+  {
+    "Latitude": "52.5768235", 
+    "ParkName": "Breydon Water", 
+    "AddressOneLine": "Burgh Castle, Norfolk, NR31 9QB", 
+    "Longitude": "1.66262", 
+    "ItemUrl": "/parkdean-resorts/shared/locations/east-anglia-and-lincolnshire/breydon-water/"
+  }, 
+  {
+    "Latitude": "52.6761744", 
+    "ParkName": "California Cliffs", 
+    "AddressOneLine": "Norfolk, NR29 3QU", 
+    "Longitude": "1.716822", 
+    "ItemUrl": "/parkdean-resorts/shared/locations/east-anglia-and-lincolnshire/california-cliffs/"
+  }, 
+  {
+    "Latitude": "52.5808977", 
+    "ParkName": "Cherry Tree", 
+    "AddressOneLine": "Great Yarmouth, Norfolk, NR31 9QR", 
+    "Longitude": "1.6718873", 
+    "ItemUrl": "/parkdean-resorts/shared/locations/east-anglia-and-lincolnshire/cherry-tree/"
+  }, 
+  {
+    "Latitude": "52.9062999", 
+    "ParkName": "Heacham Beach", 
+    "AddressOneLine": "Heacham, Norfolk, PE31 7BD", 
+    "Longitude": "0.4712833", 
+    "ItemUrl": "/parkdean-resorts/shared/locations/east-anglia-and-lincolnshire/heacham-beach/"
+  }, 
+  {
+    "Latitude": "52.4097173", 
+    "ParkName": "Kessingland Beach", 
+    "AddressOneLine": "Kessingland, Suffolk, NR33 7RW", 
+    "Longitude": "1.7249229", 
+    "ItemUrl": "/parkdean-resorts/shared/locations/east-anglia-and-lincolnshire/kessingland-beach/"
+  }, 
+  {
+    "Latitude": "52.9309792", 
+    "ParkName": "Manor Park", 
+    "AddressOneLine": "Hunstanton, Norfolk, PE36 5AZ", 
+    "Longitude": "0.4838272", 
+    "ItemUrl": "/parkdean-resorts/shared/locations/east-anglia-and-lincolnshire/manor-park/"
+  }, 
+  {
+    "Latitude": "53.1598065", 
+    "ParkName": "Southview", 
+    "AddressOneLine": "Skegness, Lincolnshire, PE25 2LA", 
+    "Longitude": "0.304716", 
+    "ItemUrl": "/parkdean-resorts/shared/locations/east-anglia-and-lincolnshire/southview/"
+  }, 
+  {
+    "Latitude": "52.6771587", 
+    "ParkName": "Summerfields", 
+    "AddressOneLine": "Scratby, Norfolk, NR29 3NW", 
+    "Longitude": "1.710278", 
+    "ItemUrl": "/parkdean-resorts/shared/locations/east-anglia-and-lincolnshire/summerfields/"
+  }, 
+  {
+    "Latitude": "53.4254174", 
+    "ParkName": "Sunnydale", 
+    "AddressOneLine": "Saltfleet, Lincolnshire, LN11 7RP", 
+    "Longitude": "0.1866972", 
+    "ItemUrl": "/parkdean-resorts/shared/locations/east-anglia-and-lincolnshire/sunnydale/"
+  }, 
+  {
+    "Latitude": "52.618967", 
+    "ParkName": "Vauxhall", 
+    "AddressOneLine": "Acle New Road, Great Yarmouth NR30 1TB", 
+    "Longitude": "1.7130233", 
+    "ItemUrl": "/parkdean-resorts/shared/locations/east-anglia-and-lincolnshire/vauxhall/"
+  }, 
+  {
+    "Latitude": "51.7879031", 
+    "ParkName": "Coopers Beach", 
+    "AddressOneLine": "Mersea Island, Essex, CO5 8TN", 
+    "Longitude": "0.9702009", 
+    "ItemUrl": "/parkdean-resorts/shared/locations/essex/coopers-beach/"
+  }, 
+  {
+    "Latitude": "51.8147048", 
+    "ParkName": "Highfield Grange", 
+    "AddressOneLine": "Clacton on Sea, Essex, CO16 9QY", 
+    "Longitude": "1.1488428", 
+    "ItemUrl": "/parkdean-resorts/shared/locations/essex/highfield-grange/"
+  }, 
+  {
+    "Latitude": "51.7753171", 
+    "ParkName": "Martello Beach", 
+    "AddressOneLine": "Clacton-on-sea, Essex, CO15 2LF", 
+    "Longitude": "1.0937026", 
+    "ItemUrl": "/parkdean-resorts/shared/locations/essex/martello-beach/"
+  }, 
+  {
+    "Latitude": "51.8555674", 
+    "ParkName": "Naze Marine", 
+    "AddressOneLine": "Walton-on-the-Naze, Essex, CO14 8HL", 
+    "Longitude": "1.2753576", 
+    "ItemUrl": "/parkdean-resorts/shared/locations/essex/naze-marine/"
+  }, 
+  {
+    "Latitude": "51.799205", 
+    "ParkName": "Valley Farm", 
+    "AddressOneLine": "Clacton on Sea, Essex, CO15 6LY", 
+    "Longitude": "1.1671842", 
+    "ItemUrl": "/parkdean-resorts/shared/locations/essex/valley-farm/"
+  }, 
+  {
+    "Latitude": "51.8532286", 
+    "ParkName": "Weeley Bridge", 
+    "AddressOneLine": "Weeley, Nr Clacton on Sea, Essex, CO16 9DH", 
+    "Longitude": "1.1082698", 
+    "ItemUrl": "/parkdean-resorts/shared/locations/essex/weeley-bridge/"
+  }, 
+  {
+    "Latitude": "50.796317", 
+    "ParkName": "Hayling Island", 
+    "AddressOneLine": "Hayling Island, Hampshire, PO11 0QS", 
+    "Longitude": "-0.984924", 
+    "ItemUrl": "/parkdean-resorts/shared/locations/hampshire/hayling-island/"
+  }, 
+  {
+    "Latitude": "50.6397371", 
+    "ParkName": "Landguard", 
+    "AddressOneLine": "Shanklin, Isle of Wight, PO37 7PJ", 
+    "Longitude": "-1.1848074", 
+    "ItemUrl": "/parkdean-resorts/shared/locations/isle-of-wight/landguard/"
+  }, 
+  {
+    "Latitude": "50.6326024", 
+    "ParkName": "Lower Hyde", 
+    "AddressOneLine": "Shanklin, Isle of Wight, PO37 7LL", 
+    "Longitude": "-1.1870917", 
+    "ItemUrl": "/parkdean-resorts/shared/locations/isle-of-wight/lower-hyde/"
+  }, 
+  {
+    "Latitude": "50.7044612", 
+    "ParkName": "Nodes Point", 
+    "AddressOneLine": "St Helens, Ryde, Isle of Wight, PO33 1YA", 
+    "Longitude": "-1.103531", 
+    "ItemUrl": "/parkdean-resorts/shared/locations/isle-of-wight/nodes-point/"
+  }, 
+  {
+    "Latitude": "50.7339412", 
+    "ParkName": "Thorness Bay", 
+    "AddressOneLine": "Thorness, Nr Cowes, Isle of Wight, PO31 8NJ", 
+    "Longitude": "-1.3646659", 
+    "ItemUrl": "/parkdean-resorts/shared/locations/isle-of-wight/thorness-bay/"
+  }, 
+  {
+    "Latitude": "51.42102", 
+    "ParkName": "Ashcroft Coast", 
+    "AddressOneLine": "Minster on Sea, Kent, ME12 4JH", 
+    "Longitude": "0.8477554", 
+    "ItemUrl": "/parkdean-resorts/shared/locations/kent-and-sussex/ashcroft-coast/"
+  }, 
+  {
+    "Latitude": "50.9319365", 
+    "ParkName": "Camber Sands", 
+    "AddressOneLine": "Camber, East Sussex, TN31 7RT", 
+    "Longitude": "0.8031669", 
+    "ItemUrl": "/parkdean-resorts/shared/locations/kent-and-sussex/camber-sands/"
+  }, 
+  {
+    "Latitude": "50.9583994", 
+    "ParkName": "Romney Sands", 
+    "AddressOneLine": "Greatstone, Kent, TN28 8RN", 
+    "Longitude": "0.9590593", 
+    "ItemUrl": "/parkdean-resorts/shared/locations/kent-and-sussex/romney-sands/"
+  }, 
+  {
+    "Latitude": "51.4127354", 
+    "ParkName": "Shurland Dale", 
+    "AddressOneLine": "Eastchurch, Kent, ME12 4EN", 
+    "Longitude": "0.864217", 
+    "ItemUrl": "/parkdean-resorts/shared/locations/kent-and-sussex/shurland-dale/"
+  }, 
+  {
+    "Latitude": "51.150609", 
+    "ParkName": "St. Margaret's Bay", 
+    "AddressOneLine": "St Margarets-at-Cliffe, Kent, CT15 6AG", 
+    "Longitude": "1.3643611", 
+    "ItemUrl": "/parkdean-resorts/shared/locations/kent-and-sussex/st-margarets-bay/"
+  }, 
+  {
+    "Latitude": "54.3669168", 
+    "ParkName": "Fallbarrow", 
+    "AddressOneLine": "Windermere, Cumbria, LA23 3DL", 
+    "Longitude": "-2.9236524", 
+    "ItemUrl": "/parkdean-resorts/shared/locations/lake-district/fallbarrow/"
+  }, 
+  {
+    "Latitude": "54.2637293", 
+    "ParkName": "Gatebeck", 
+    "AddressOneLine": "Kendal, Cumbria, LA8 0HL", 
+    "Longitude": "-2.7021172", 
+    "ItemUrl": "/parkdean-resorts/shared/locations/lake-district/gatebeck/"
+  }, 
+  {
+    "Latitude": "54.4193891", 
+    "ParkName": "Limefitt Park", 
+    "AddressOneLine": "Windermere, Cumbria, LA23 1PA", 
+    "Longitude": "-2.9047183", 
+    "ItemUrl": "/parkdean-resorts/shared/locations/lake-district/limefitt-park/"
+  }, 
+  {
+    "Latitude": "54.3954482", 
+    "ParkName": "White Cross Bay", 
+    "AddressOneLine": "Windermere, Cumbria, LA23 1LF", 
+    "Longitude": "-2.9352488", 
+    "ItemUrl": "/parkdean-resorts/shared/locations/lake-district/white-cross-bay/"
+  }, 
+  {
+    "Latitude": "55.186755", 
+    "ParkName": "Church Point", 
+    "AddressOneLine": "Newbiggin-by-the-Sea, Northumberland, NE64 6DP", 
+    "Longitude": "-1.5048945", 
+    "ItemUrl": "/parkdean-resorts/shared/locations/northumberland-and-county-durham/church-point/"
+  }, 
+  {
+    "Latitude": "55.232445", 
+    "ParkName": "Cresswell Towers", 
+    "AddressOneLine": "Cresswell, Northumberland, NE61 5JT", 
+    "Longitude": "-1.5453621", 
+    "ItemUrl": "/parkdean-resorts/shared/locations/northumberland-and-county-durham/cresswell-towers/"
+  }, 
+  {
+    "Latitude": "54.7330391", 
+    "ParkName": "Crimdon Dene", 
+    "AddressOneLine": "North Hartlepool, Durham, TS27 4BN", 
+    "Longitude": "-1.2621897", 
+    "ItemUrl": "/parkdean-resorts/shared/locations/northumberland-and-county-durham/crimdon-dene/"
+  }, 
+  {
+    "Latitude": "55.1666085", 
+    "ParkName": "Sandy Bay", 
+    "AddressOneLine": "Ashington, Northumberland, NE63 9YD", 
+    "Longitude": "-1.5283939", 
+    "ItemUrl": "/parkdean-resorts/shared/locations/northumberland-and-county-durham/sandy-bay/"
+  }, 
+  {
+    "Latitude": "55.06509", 
+    "ParkName": "Whitley Bay", 
+    "AddressOneLine": "Whitley Bay, Tyne & Wear, NE26 4RR", 
+    "Longitude": "-1.4646984", 
+    "ItemUrl": "/parkdean-resorts/shared/locations/northumberland-and-county-durham/whitley-bay/"
+  }, 
+  {
+    "Latitude": "53.9958421", 
+    "ParkName": "Glasson Marina", 
+    "AddressOneLine": "Lancaster, Lancashire, LA2 0BP", 
+    "Longitude": "-2.8383406", 
+    "ItemUrl": "/parkdean-resorts/shared/locations/lancashire/glasson-marina/"
+  }, 
+  {
+    "Latitude": "54.008916", 
+    "ParkName": "Hawthorne Sands", 
+    "AddressOneLine": "Morecambe, Lancashire, LA3 3LL", 
+    "Longitude": "-2.8969352", 
+    "ItemUrl": "/parkdean-resorts/shared/locations/lancashire/hawthorne-sands/"
+  }, 
+  {
+    "Latitude": "54.0242819", 
+    "ParkName": "Ocean Edge", 
+    "AddressOneLine": "Heysham, Lancashire, LA3 2XA", 
+    "Longitude": "-2.9080395", 
+    "ItemUrl": "/parkdean-resorts/shared/locations/lancashire/ocean-edge/"
+  }, 
+  {
+    "Latitude": "54.06002", 
+    "ParkName": "Regent Bay", 
+    "AddressOneLine": "Morecambe, Lancashire, LA3 3DF", 
+    "Longitude": "-2.8725219", 
+    "ItemUrl": "/parkdean-resorts/shared/locations/lancashire/regent-bay/"
+  }, 
+  {
+    "Latitude": "53.9154687", 
+    "ParkName": "Todber Valley", 
+    "AddressOneLine": "Gisburn, Clitheroe, BB7 4JJ", 
+    "Longitude": "-2.2596561", 
+    "ItemUrl": "/parkdean-resorts/shared/locations/lancashire/todber-valley/"
+  }, 
+  {
+    "Latitude": "55.8753091", 
+    "ParkName": "Eyemouth", 
+    "AddressOneLine": "Eyemouth, Berwickshire, TD14 5BE", 
+    "Longitude": "-2.09739", 
+    "ItemUrl": "/parkdean-resorts/shared/locations/scotland/eyemouth/"
+  }, 
+  {
+    "Latitude": "57.9074571", 
+    "ParkName": "Grannie's Heilan' Hame", 
+    "AddressOneLine": "Dornoch, Sutherland, IV25 3QD", 
+    "Longitude": "-3.9986044", 
+    "ItemUrl": "/parkdean-resorts/shared/locations/scotland/grannies-heilan-hame/"
+  }, 
+  {
+    "Latitude": "57.5906361", 
+    "ParkName": "Nairn Lochloy", 
+    "AddressOneLine": "Nairn, Inverness, IV12 5DE", 
+    "Longitude": "-3.8611364", 
+    "ItemUrl": "/parkdean-resorts/shared/locations/scotland/nairn-lochloy/"
+  }, 
+  {
+    "Latitude": "55.633592", 
+    "ParkName": "Sandylands", 
+    "AddressOneLine": "Auchenharvie Park, Ayrshire, KA21 5JN", 
+    "Longitude": "-4.7703247", 
+    "ItemUrl": "/parkdean-resorts/shared/locations/scotland/sandylands/"
+  }, 
+  {
+    "Latitude": "54.8758999", 
+    "ParkName": "Southerness", 
+    "AddressOneLine": "Southerness, Dumfries, DG28AZ", 
+    "Longitude": "-3.6025705", 
+    "ItemUrl": "/parkdean-resorts/shared/locations/scotland/southerness/"
+  }, 
+  {
+    "Latitude": "55.4532075", 
+    "ParkName": "Sundrum Castle", 
+    "AddressOneLine": "Coylton, By Ayr, Ayrshire, KA6 5JH", 
+    "Longitude": "-4.5264207", 
+    "ItemUrl": "/parkdean-resorts/shared/locations/scotland/sundrum-castle/"
+  }, 
+  {
+    "Latitude": "56.7082539", 
+    "ParkName": "Tummel Valley", 
+    "AddressOneLine": "Near Pitlochry, Perthshire, PH16 5SA", 
+    "Longitude": "-4.0219077", 
+    "ItemUrl": "/parkdean-resorts/shared/locations/scotland/tummel-valley/"
+  }, 
+  {
+    "Latitude": "55.8773928", 
+    "ParkName": "Wemyss Bay", 
+    "AddressOneLine": "Renfrewshire, Scotland, PA18 6BA", 
+    "Longitude": "-4.8844617", 
+    "ItemUrl": "/parkdean-resorts/shared/locations/scotland/wemyss-bay/"
+  }, 
+  {
+    "Latitude": "52.4794591", 
+    "ParkName": "Brynowen", 
+    "AddressOneLine": "Borth, Wales, SY24 5LS", 
+    "Longitude": "-4.05111", 
+    "ItemUrl": "/parkdean-resorts/shared/locations/wales/brynowen/"
+  }, 
+  {
+    "Latitude": "51.7377051", 
+    "ParkName": "Carmarthen Bay", 
+    "AddressOneLine": "Kidwelly, Carmarthenshire, SA17 5HQ", 
+    "Longitude": "-4.3540124", 
+    "ItemUrl": "/parkdean-resorts/shared/locations/wales/carmarthen-bay/"
+  }, 
+  {
+    "Latitude": "51.745472", 
+    "ParkName": "Pendine Sands", 
+    "AddressOneLine": "Carmarthenshire, South Wales, SA33 4NZ", 
+    "Longitude": "-4.549716", 
+    "ItemUrl": "/parkdean-resorts/shared/locations/wales/pendine-sands/"
+  }, 
+  {
+    "Latitude": "51.4825299", 
+    "ParkName": "Trecco Bay", 
+    "AddressOneLine": "Porthcawl, Mid Glamorgan, CF36 5PW", 
+    "Longitude": "-3.6841025", 
+    "ItemUrl": "/parkdean-resorts/shared/locations/wales/trecco-bay/"
+  }, 
+  {
+    "Latitude": "53.2986566", 
+    "ParkName": "Ty Mawr", 
+    "AddressOneLine": "Towyn, Conwy, LL22 9HG", 
+    "Longitude": "-3.5544898", 
+    "ItemUrl": "/parkdean-resorts/shared/locations/wales/ty-mawr/"
+  }, 
+  {
+    "Latitude": "54.0171681", 
+    "ParkName": "Barmston Beach", 
+    "AddressOneLine": "Barmston, Yorkshire, YO25 8PJ", 
+    "Longitude": "-0.218105", 
+    "ItemUrl": "/parkdean-resorts/shared/locations/yorkshire/barmston-beach/"
+  }, 
+  {
+    "Latitude": "54.2386008", 
+    "ParkName": "Cayton Bay", 
+    "AddressOneLine": "Cayton Bay, North Yorkshire, YO11 3NJ", 
+    "Longitude": "-0.3676782", 
+    "ItemUrl": "/parkdean-resorts/shared/locations/yorkshire/cayton-bay/"
+  }, 
+  {
+    "Latitude": "53.9889619", 
+    "ParkName": "Skipsea Sands", 
+    "AddressOneLine": "Skipsea, East Yorkshire, YO25 8TZ", 
+    "Longitude": "-0.2095065", 
+    "ItemUrl": "/parkdean-resorts/shared/locations/yorkshire/skipsea-sands/"
+  }, 
+  {
+    "Latitude": "53.736811", 
+    "ParkName": "Withernsea Sands", 
+    "AddressOneLine": "Withernsea, Humberside, HU19 2BS", 
+    "Longitude": "0.017928", 
+    "ItemUrl": "/parkdean-resorts/shared/locations/yorkshire/withernsea-sands/"
+  }
+]
