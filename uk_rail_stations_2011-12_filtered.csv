@@ -1,1156 +1,1156 @@
 Origin TLC,NLC,long_lati,Location for map,Station Name,County or Unitary Authority
-ABW,5131,?,"SE2 9RH, UK",Abbey Wood,Greater London
-ABE,3813,?,"CF83 1AQ, UK",Aber,Caerphilly - Caerffili
-ACY,3801,?,"CF45 4SE, UK",Abercynon,Rhondda Cynon Taff - Rhondda Cynon Taf
+ABW,5131,"0.121113891517,51.4903014834","SE2 9RH, UK",Abbey Wood,Greater London
+ABE,3813,"-3.22933785764,51.5760175553","CF83 1AQ, UK",Aber,Caerphilly - Caerffili
+ACY,3801,"-3.32975518165,51.6429459316","CF45 4SE, UK",Abercynon,Rhondda Cynon Taff - Rhondda Cynon Taf
 ABA,3982,?,"CF44 0PU, UK",Aberdare,Rhondda Cynon Taff - Rhondda Cynon Taf
-ABD,8976,?,"AB11 6LX, UK",Aberdeen,Aberdeen City
-AUR,9090,?,"KY3 0SN, UK",Aberdour,Fife
-AVY,4435,?,"LL35 0NR, UK",Aberdovey,Gwynedd - Gwynedd
-ABH,4440,?,"LL53 6PJ, UK",Abererch,Gwynedd - Gwynedd
-AGV,3602,?,"NP7 5HS, UK",Abergavenny,Monmouthshire - Sir Fynwy
-AGL,2448,?,"LL22 7PR, UK",Abergele & Pensarn,Conwy - Conwy
-AYW,4303,?,"SY23 1LH, UK",Aberystwyth,Ceredigion - Sir Ceredigion
-ACR,2552,?,"BB5 1QQ, UK",Accrington,Lancashire
+ABD,8976,"-2.09876919918,57.1441461975","AB11 6LX, UK",Aberdeen,Aberdeen City
+AUR,9090,"-3.30134083092,56.0543989087","KY3 0SN, UK",Aberdour,Fife
+AVY,4435,"-4.05180500291,52.5446375618","LL35 0NR, UK",Aberdovey,Gwynedd - Gwynedd
+ABH,4440,"-4.37773663173,52.8973485848","LL53 6PJ, UK",Abererch,Gwynedd - Gwynedd
+AGV,3602,"-3.00914192767,51.8171078414","NP7 5HS, UK",Abergavenny,Monmouthshire - Sir Fynwy
+AGL,2448,"-3.58017429351,53.2940974731","LL22 7PR, UK",Abergele & Pensarn,Conwy - Conwy
+AYW,4303,"-4.08181676198,52.4139615938","SY23 1LH, UK",Aberystwyth,Ceredigion - Sir Ceredigion
+ACR,2552,"-2.37055076331,53.7531682694","BB5 1QQ, UK",Accrington,Lancashire
 AAT,8600,?,"57.6097, -4.9137, UK",Achanalt,Highland
-ACN,8601,?,"IV22 2EJ, UK",Achnasheen,Highland
-ACH,8602,?,"IV54 8YH, UK",Achnashellach,Highland
+ACN,8601,"-5.08163901187,57.5740726496","IV22 2EJ, UK",Achnasheen,Highland
+ACH,8602,"-5.52027816781,57.3833702411","IV54 8YH, UK",Achnashellach,Highland
 ACK,7662,?,"NE65 4DE, UK",Acklington,Northumberland
-ACL,7286,?,"NR13 3BZ, UK",Acle,Norfolk
-ACG,4529,?,"B27 6EB, UK",Acocks Green,West Midlands
+ACL,7286,"1.54153843295,52.6341735251","NR13 3BZ, UK",Acle,Norfolk
+ACG,4529,"-1.8192426858,52.4499342896","B27 6EB, UK",Acocks Green,West Midlands
 ACB,2287,?,"CW8 2RE, UK",Acton Bridge,Cheshire
 ACC,1404,?,"W3 0BH, UK",Acton Central,Greater London
-AML,3000,?,"W3 9EH, UK",Acton Main Line,Greater London
-ADD,1036,?,"B9 4TG, UK",Adderley Park,West Midlands
-ADW,9310,?,"EH55 8NQ, UK",Addiewell,West Lothian
-ASN,5550,?,"KT15 2PB, UK",Addlestone,Surrey
-ADM,5160,?,"CT3 3JE, UK",Adisham,Kent
-ADC,2939,?,"SK10 4NA, UK",Adlington (Cheshire),Cheshire
+AML,3000,"-0.266895632014,51.5169293956","W3 9EH, UK",Acton Main Line,Greater London
+ADD,1036,"-1.85905935345,52.4806729911","B9 4TG, UK",Adderley Park,West Midlands
+ADW,9310,"-3.60474668641,55.8440027082","EH55 8NQ, UK",Addiewell,West Lothian
+ASN,5550,"-0.484380832719,51.373169905","KT15 2PB, UK",Addlestone,Surrey
+ADM,5160,"1.19966671553,51.240849431","CT3 3JE, UK",Adisham,Kent
+ADC,2939,"-2.1343503,53.3209144","SK10 4NA, UK",Adlington (Cheshire),Cheshire
 ADL,2641,?,"PR8 9RS, UK",Adlington (Lancashire),Lancashire
 AWK,8353,?,"DN6 7AJ, UK",Adwick,South Yorkshire
-AIG,2255,?,"L17 6AG, UK",Aigburth,Merseyside
-ANS,2350,?,"PR8 3HJ, UK",Ainsdale,Merseyside
-AIN,2125,?,"L9 5BE, UK",Aintree,Merseyside
-AIR,9695,?,"ML1 2SX, UK",Airbles,North Lanarkshire
-ADR,9759,?,"ML6 9EX, UK",Airdrie,North Lanarkshire
-AYP,5132,?,"DA5 3HP, UK",Albany Park,Greater London
-ALB,4614,?,"WV7 3DS, UK",Albrighton,Shropshire
-ALD,2760,?,"SK9 7QA, UK",Alderley Edge,Cheshire
-AMT,3145,?,"RG7 6PU, UK",Aldermaston,West Berkshire
-AHT,5623,?,"GU11 1HN, UK",Aldershot,Hampshire
-AGT,5280,?,"BN3 5AE, UK",Aldrington,Brighton And Hove
-AAP,6025,?,"N22 7ST, UK",Alexandra Palace,Greater London
-AXP,9905,?,"G31 3JN, UK",Alexandra Parade,Glasgow City
-ALX,9861,?,"G83 0UL, UK",Alexandria,West Dunbartonshire
+AIG,2255,"-2.92593463456,53.3657912416","L17 6AG, UK",Aigburth,Merseyside
+ANS,2350,"-3.04234992026,53.6020204367","PR8 3HJ, UK",Ainsdale,Merseyside
+AIN,2125,"-2.95619903288,53.4736260198","L9 5BE, UK",Aintree,Merseyside
+AIR,9695,"-3.9934527744,55.7820772299","ML1 2SX, UK",Airbles,North Lanarkshire
+ADR,9759,"-3.98031197304,55.8634325283","ML6 9EX, UK",Airdrie,North Lanarkshire
+AYP,5132,"0.125666061235,51.4360907713","DA5 3HP, UK",Albany Park,Greater London
+ALB,4614,"-2.27079464469,52.6360253857","WV7 3DS, UK",Albrighton,Shropshire
+ALD,2760,"-2.2368290888,53.3037283641","SK9 7QA, UK",Alderley Edge,Cheshire
+AMT,3145,"-1.17728531851,51.4237300906","RG7 6PU, UK",Aldermaston,West Berkshire
+AHT,5623,"-0.760826393018,51.2467071532","GU11 1HN, UK",Aldershot,Hampshire
+AGT,5280,"-0.180185747714,50.8356514931","BN3 5AE, UK",Aldrington,Brighton And Hove
+AAP,6025,"-0.117829164204,51.5959932204","N22 7ST, UK",Alexandra Palace,Greater London
+AXP,9905,"-4.2113526493,55.8668394198","G31 3JN, UK",Alexandra Parade,Glasgow City
+ALX,9861,"-4.57515555231,55.9852545859","G83 0UL, UK",Alexandria,West Dunbartonshire
 ALF,1805,?,"DE5 7QJ, UK",Alfreton,Derbyshire
-ALW,7520,?,"TS16 0PF, UK",Allen's West,Stockton-On-Tees
-ALO,9883,?,"FK10 1BA , UK",Alloa,Clackmannan
-ASS,8605,?,"IV17 0SE, UK",Alness,Highland
-ALM,7787,?,"NE66 2ST, UK",Alnmouth,Northumberland
-ALR,6847,?,"CO7 8AA, UK",Alresford,Essex
-ASG,1223,?,"ST7 2XW, UK",Alsager,Cheshire
-ALN,6869,?,"CM3 6DG, UK",Althorne,Essex
+ALW,7520,"-1.36093411603,54.5244519009","TS16 0PF, UK",Allen's West,Stockton-On-Tees
+ALO,9883,"-3.78856400078,56.1178694043","FK10 1BA , UK",Alloa,Clackmannan
+ASS,8605,"-4.25252529639,57.6953019117","IV17 0SE, UK",Alness,Highland
+ALM,7787,"-1.63642252196,55.3921582475","NE66 2ST, UK",Alnmouth,Northumberland
+ALR,6847,"0.997721589476,51.8534534437","CO7 8AA, UK",Alresford,Essex
+ASG,1223,"-2.29882974204,53.0930327356","ST7 2XW, UK",Alsager,Cheshire
+ALN,6869,"0.75349640856,51.6481228114","CM3 6DG, UK",Althorne,Essex
 ALP,6532,?,"DN17 3HL, UK",Althorpe,North Lincolnshire
-ABC,8606,?,"KW12 6UR, UK",Altnabreac,Highland
-AON,5544,?,"GU34 2PZ, UK",Alton,Hampshire
-ALT,2806,?,"WA14 1EN, UK",Altrincham,Greater Manchester
-ALV,1198,?,"B48 7SE, UK",Alvechurch,Worcestershire
-AMB,1678,?,"DE56 2EN, UK",Ambergate,Derbyshire
-AMY,5250,?,"BN18 9LR, UK",Amberley,West Sussex
-AMR,506,?,"HP6 5AZ, UK",Amersham,Buckinghamshire
-AMF,4236,?,"SA18 2DD, UK",Ammanford,Carmarthenshire - Sir Gaerfyrddin
-ANC,6358,?,"NG32 3RA, UK",Ancaster,Lincolnshire
-AND,9965,?,"G3 8RR, UK",Anderston,Glasgow City
-ADV,5510,?,"SP10 3HN, UK",Andover,Hampshire
-ANY,5397,?,"SE20 8AG , UK",Anerley,Greater London
-AGR,6909,?,"N18 3AY, UK",Angel Road,Greater London
+ABC,8606,"-3.69231213974,58.3750881653","KW12 6UR, UK",Altnabreac,Highland
+AON,5544,"-0.967121016692,51.152157518","GU34 2PZ, UK",Alton,Hampshire
+ALT,2806,"-2.34769698552,53.3872222469","WA14 1EN, UK",Altrincham,Greater Manchester
+ALV,1198,"-1.96620645879,52.3474025014","B48 7SE, UK",Alvechurch,Worcestershire
+AMB,1678,"-1.4807895,53.0604123","DE56 2EN, UK",Ambergate,Derbyshire
+AMY,5250,"-0.542224902577,50.8967486561","BN18 9LR, UK",Amberley,West Sussex
+AMR,506,"-0.608188182205,51.674706909","HP6 5AZ, UK",Amersham,Buckinghamshire
+AMF,4236,"-3.99574202999,51.7958078302","SA18 2DD, UK",Ammanford,Carmarthenshire - Sir Gaerfyrddin
+ANC,6358,"-0.534402607644,52.9889933152","NG32 3RA, UK",Ancaster,Lincolnshire
+AND,9965,"-4.26866253161,55.8601698302","G3 8RR, UK",Anderston,Glasgow City
+ADV,5510,"-1.49061355334,51.2117116696","SP10 3HN, UK",Andover,Hampshire
+ANY,5397,"-0.0663298407115,51.4125366516","SE20 8AG , UK",Anerley,Greater London
+AGR,6909,"-0.0490485625227,51.6126656309","N18 3AY, UK",Angel Road,Greater London
 ANG,5267,?,"BN16 3RE, UK",Angmering,West Sussex
 ANN,9451,?,"DS12 6AR, UK",Annan,Dumfries And Galloway
-ANL,9972,?,"G12 0AY, UK",Anniesland,Glasgow City
-AFV,2662,?,"FY8 1AG, UK",Ansdell & Fairhaven,Lancashire
-APP,2052,?,"CA16 6TT, UK",Appleby,Cumbria
-APD,5003,?,"TN26 2DF, UK",Appledore,Kent
-APF,3109,?,"OX14 4PJ, UK",Appleford,Oxfordshire
-APB,2396,?,"WN6 9AE, UK",Appley Bridge,Lancashire
-APS,1430,?,"HP3 9SX, UK",Apsley,Hertfordshire
-ARB,9079,?,"DD11 1RQ, UK",Arbroath,Angus
-ARD,8613,?,"IV24 3AQ, UK",Ardgay,Highland
+ANL,9972,"-4.32131556139,55.8890443295","G12 0AY, UK",Anniesland,Glasgow City
+AFV,2662,"-2.99741269612,53.7409228403","FY8 1AG, UK",Ansdell & Fairhaven,Lancashire
+APP,2052,"-2.48679553566,54.5798993125","CA16 6TT, UK",Appleby,Cumbria
+APD,5003,"0.813679834697,51.0340361523","TN26 2DF, UK",Appledore,Kent
+APF,3109,"-1.247047784,51.6260962858","OX14 4PJ, UK",Appleford,Oxfordshire
+APB,2396,"-2.72094770017,53.5806589892","WN6 9AE, UK",Appley Bridge,Lancashire
+APS,1430,"-0.4604761,51.731284","HP3 9SX, UK",Apsley,Hertfordshire
+ARB,9079,"-2.58844647738,56.5587074045","DD11 1RQ, UK",Arbroath,Angus
+ARD,8613,"-4.35215782966,57.8905377231","IV24 3AQ, UK",Ardgay,Highland
 AUI,9962,?,"GH3 7EB, UK",Ardlui,Argyll And Bute
-ADS,9453,?,"KA22 8BH, UK",Ardrossan Harbour,North Ayrshire
-ASB,9569,?,"KA22 8AU, UK",Ardrossan South Beach,North Ayrshire
-ADN,9455,?,"KA22 8DU, UK",Ardrossan Town,North Ayrshire
+ADS,9453,"-4.8169730563,55.6417804596","KA22 8BH, UK",Ardrossan Harbour,North Ayrshire
+ASB,9569,"-4.80190011832,55.6414786061","KA22 8AU, UK",Ardrossan South Beach,North Ayrshire
+ADN,9455,"-4.80700204569,55.6408135778","KA22 8DU, UK",Ardrossan Town,North Ayrshire
 ADK,2960,?,"M12 6LY, UK",Ardwick,Greater Manchester
-AGS,9961,?,"G2 8DL, UK",Argyle Street,Glasgow City
-ARG,8821,?,"PH39 4NJ, UK",Arisaig,Highland
-ARL,6171,?,"SG15 6XA, UK",Arlesey,Bedfordshire
-ARM,990,?,"EH48 3LP, UK",Armadale,West Lothian
-AWT,2054,?,"CA8 1HW, UK",Armathwaite,Cumbria
-ARN,1963,?,"LA5 0HQ, UK",Arnside,Cumbria
-ARR,8045,?,"HU17 7NR, UK",Arram,East Riding Of Yorkshire
-ART,9963,?,"G83 7DB, UK",Arrochar & Tarbet,Argyll And Bute
-ARU,5251,?,"BN18 9PH, UK",Arundel,West Sussex
-ACT,5666,?,"SL5 9EG, UK",Ascot,Windsor And Maidenhead
+AGS,9961,"-4.25833133446,55.8583826756","G2 8DL, UK",Argyle Street,Glasgow City
+ARG,8821,"-5.8369152,56.9116454","PH39 4NJ, UK",Arisaig,Highland
+ARL,6171,"-0.265422572475,52.0254865434","SG15 6XA, UK",Arlesey,Bedfordshire
+ARM,990,"-3.69583064634,55.8868498001","EH48 3LP, UK",Armadale,West Lothian
+AWT,2054,"-2.70127950318,54.9333914146","CA8 1HW, UK",Armathwaite,Cumbria
+ARN,1963,"-2.82520757203,54.2020155942","LA5 0HQ, UK",Arnside,Cumbria
+ARR,8045,"-0.423183637433,53.8841727369","HU17 7NR, UK",Arram,East Riding Of Yorkshire
+ART,9963,"-4.71763529542,56.2040899153","G83 7DB, UK",Arrochar & Tarbet,Argyll And Bute
+ARU,5251,"-0.545801798918,50.8478588712","BN18 9PH, UK",Arundel,West Sussex
+ACT,5666,"-0.675964850926,51.406340224","SL5 9EG, UK",Ascot,Windsor And Maidenhead
 AUW,3003,?,"OX3 5LP, UK",Ascott-Under-Wychwood,Oxfordshire
-ASH,5641,?,"GU12 6BE, UK",Ash,Surrey
-AHV,5547,?,"GU12 5LP, UK",Ash Vale,Surrey
+ASH,5641,"-0.711865111189,51.2499193896","GU12 6BE, UK",Ash,Surrey
+AHV,5547,"-0.721266392456,51.2720716294","GU12 5LP, UK",Ash Vale,Surrey
 ABY,2941,?,"M12 5BY, UK",Ashburys,Greater Manchester
-ASC,4700,?,"GL20 8HG, UK",Ashchurch,Gloucestershire
-ASF,9953,?,"G22 6LR, UK",Ashfield,Glasgow City
-AFS,5667,?,"TW15 2QN, UK",Ashford (Middlesex),Surrey
-AFK,5004,?,"TN23 1EZ, UK",Ashford International,Kent
-ASY,2850,?,"WA14 3QE, UK",Ashley,Cheshire
-AHD,5347,?,"KT21 2DR, UK",Ashtead,Surrey
+ASC,4700,"-2.13144776451,52.0018588162","GL20 8HG, UK",Ashchurch,Gloucestershire
+ASF,9953,"-4.25378552503,55.8913510677","G22 6LR, UK",Ashfield,Glasgow City
+AFS,5667,"-0.467959191834,51.4364165536","TW15 2QN, UK",Ashford (Middlesex),Surrey
+AFK,5004,"0.876165984268,51.1433225222","TN23 1EZ, UK",Ashford International,Kent
+ASY,2850,"-2.34291655915,53.3555331198","WA14 3QE, UK",Ashley,Cheshire
+AHD,5347,"-0.3073912,51.3179225","KT21 2DR, UK",Ashtead,Surrey
 AHN,2790,?,"OL7 5LP, UK",Ashton-Under-Lyne,Greater Manchester
-AHS,5398,?,"TN3 9TL, UK",Ashurst,Kent
-ANF,5906,?,"SO40 7AA, UK",Ashurst New Forest,Hampshire
-AWM,6083,?,"SG7 5RT, UK",Ashwell & Morden,Cambridgeshire
-ASK,1953,?,"LA16 7EN, UK",Askam,Cumbria
-ALK,6233,?,"NG13 9AA, UK",Aslockton,Nottinghamshire
-ASP,2095,?,"CA7 2AW, UK",Aspatria,Cumbria
-APG,1380,?,"MK17 8HZ, UK",Aspley Guise,Bedfordshire
-AST,1004,?,"B6 7PR, UK",Aston,West Midlands
+AHS,5398,"0.15255615,51.12865575","TN3 9TL, UK",Ashurst,Kent
+ANF,5906,"-1.5265272728,50.8898553196","SO40 7AA, UK",Ashurst New Forest,Hampshire
+AWM,6083,"-0.1097499,52.0306568","SG7 5RT, UK",Ashwell & Morden,Cambridgeshire
+ASK,1953,"-3.20270856274,54.1891132191","LA16 7EN, UK",Askam,Cumbria
+ALK,6233,"-0.898314405181,52.9512192146","NG13 9AA, UK",Aslockton,Nottinghamshire
+ASP,2095,"-3.33449879106,54.7579606864","CA7 2AW, UK",Aspatria,Cumbria
+APG,1380,"-0.631117252574,52.0200534381","MK17 8HZ, UK",Aspley Guise,Bedfordshire
+AST,1004,"-1.87200750618,52.504205393","B6 7PR, UK",Aston,West Midlands
 ATH,1074,?,"CV9 1BH, UK",Atherstone,Warwickshire
-ATN,2584,?,"M46 9RH, UK",Atherton,Greater Manchester
-ATT,8608,?,"IV54 8YX, UK",Attadale,Highland
-ATB,1624,?,"NG9 6AL, UK",Attenborough,Nottinghamshire
-ATL,7367,?,"NR17 2AS, UK",Attleborough,Norfolk
-AUK,9457,?,"KA18 2BH, UK",Auchinleck,East Ayrshire
-AUD,7017,?,"CB11 4LB, UK",Audley End,Essex
-AUG,2215,?,"L39 5BT, UK",Aughton Park,Lancashire
-AVM,8610,?,"PH22 1PD, UK",Aviemore,Highland
-AVF,3265,?,"BA15 2HD, UK",Avoncliff,Wiltshire
-AVN,3200,?,"BS11 9JB, UK",Avonmouth,Bristol City Of
-AXM,5714,?,"EX13 5PF, UK",Axminster,Devon
-AYS,1492,?,"HP20 1RU, UK",Aylesbury,Buckinghamshire
-AVP,1090,?,"HP18 0PS , UK",Aylesbury Vale Parkway,Buckinghamshire
-AYL,5162,?,"ME20 7LL, UK",Aylesford,Kent
-AYH,5197,?,"TN23 1EZ, UK",Aylesham,Kent
-AYR,9463,?,"KA7 1TH, UK",Ayr,South Ayrshire
-BAC,2187,?,"CH2 1BS, UK",Bache,Cheshire
-BAJ,4186,?,"SA12 8ES, UK",Baglan,Neath Port Talbot - Castell-Nedd Port Talbot
-BAG,5681,?,"GU19 5AS, UK",Bagshot,Surrey
-BLD,8552,?,"BD17 6HS, UK",Baildon,West Yorkshire
-BIO,9763,?,"G69 7RN, UK",Baillieston,Glasgow City
-BAB,5492,?,"RH17 6JQ, UK",Balcombe,West Sussex
-BDK,6084,?,"SG7 5BU, UK",Baldock,Hertfordshire
-BAL,5399,?,"SW12 9SG, UK",Balham,Greater London
-BHC,9862,?,"G83 8SS, UK",Balloch,West Dunbartonshire
-BSI,9013,?,"DD5 4QH, UK",Balmossie,Angus
-BMB,2561,?,"PR5 6EA, UK",Bamber Bridge,Lancashire
-BAM,2820,?,"S32 1EG, UK",Bamford,Derbyshire
-BNV,8839,?,"PH33 7JF, UK",Banavie,Highland
-BAN,4502,?,"OX16 5AB, UK",Banbury,Oxfordshire
-BNG,2471,?,"LL57 1LZ, UK",Bangor (Gwynedd),Gwynedd - Gwynedd
-BAH,2238,?,"L20 8BX, UK",Bank Hall,Merseyside
-BAD,5348,?,"SM7 1PZ, UK",Banstead,Surrey
-BSS,9466,?,"KA10 6SA, UK",Barassie,South Ayrshire
-BLL,7563,?,"NE47 7HY, UK",Bardon Mill,Northumberland
-BAR,2690,?,"LA4 6LL, UK",Bare Lane,Lancashire
-BGI,9764,?,"G69 7TS, UK",Bargeddie,North Lanarkshire
-BGD,4011,?,"CF81 9AL, UK",Bargoed,Caerphilly - Caerffili
-BKG,7492,?,"IG11 8TU, UK",Barking,Greater London
-BMG,5133,?,"ME16 9NS, UK",Barming,Kent
-BRM,4445,?,"LL42 1LS, UK",Barmouth,Gwynedd - Gwynedd
-BNH,5089,?,"DA7 6HQ, UK",Barnehurst,Greater London
-BNS,5551,?,"SW13 0HT, UK",Barnes,Greater London
-BNI,5580,?,"SW13 0NP, UK",Barnes Bridge,Greater London
-BTB,6406,?,"DN38 6DG, UK",Barnetby,North Lincolnshire
-BAA,5252,?,"PO22 0ES, UK",Barnham,West Sussex
-BNL,9973,?,"G21 4NB, UK",Barnhill,Glasgow City
-BNY,6774,?,"S70 1SE, UK",Barnsley,South Yorkshire
-BNP,5725,?,"EX31 2AU, UK",Barnstaple,Devon
-BTG,1096,?,"B45 8PA, UK",Barnt Green,Worcestershire
-BRR,9674,?,"G78 1AA, UK",Barrhead,East Renfrewshire
-BRL,9467,?,"KA26 0QF, UK",Barrhill,South Ayrshire
-BAV,6212,?,"DN19 7ET, UK",Barrow Haven,North Lincolnshire
-BIF,1954,?,"LA14 5QZ, UK",Barrow-In-Furness,Cumbria
-BWS,1903,?,"LE12 8US, UK",Barrow-Upon-Soar,Leicestershire
-BRY,3805,?,"CF62 8AF, UK",Barry,The Vale Of Glamorgan - Bro Morgannwg
-BYD,3806,?,"CF63 4LE, UK",Barry Docks,The Vale Of Glamorgan - Bro Morgannwg
-BYI,3807,?,"CF62 5TH, UK",Barry Island,The Vale Of Glamorgan - Bro Morgannwg
+ATN,2584,"-2.47797857852,53.5306515481","M46 9RH, UK",Atherton,Greater Manchester
+ATT,8608,"-5.4284371,57.4183017","IV54 8YX, UK",Attadale,Highland
+ATB,1624,"-1.23105877004,52.9058766531","NG9 6AL, UK",Attenborough,Nottinghamshire
+ATL,7367,"1.02035421504,52.5162535698","NR17 2AS, UK",Attleborough,Norfolk
+AUK,9457,"-4.29732257763,55.4715449797","KA18 2BH, UK",Auchinleck,East Ayrshire
+AUD,7017,"0.208326501327,52.0056418722","CB11 4LB, UK",Audley End,Essex
+AUG,2215,"-2.89700488225,53.5543631784","L39 5BT, UK",Aughton Park,Lancashire
+AVM,8610,"-3.829154,57.1871047","PH22 1PD, UK",Aviemore,Highland
+AVF,3265,"-2.2834115317,51.3380295771","BA15 2HD, UK",Avoncliff,Wiltshire
+AVN,3200,"-2.69871168758,51.4999919646","BS11 9JB, UK",Avonmouth,Bristol City Of
+AXM,5714,"-3.00418594538,50.7786263839","EX13 5PF, UK",Axminster,Devon
+AYS,1492,"-0.814736962418,51.8137519772","HP20 1RU, UK",Aylesbury,Buckinghamshire
+AVP,1090,"-0.852793538868,51.8318154449","HP18 0PS , UK",Aylesbury Vale Parkway,Buckinghamshire
+AYL,5162,"0.46773232632,51.2996728338","ME20 7LL, UK",Aylesford,Kent
+AYH,5197,"0.876165984268,51.1433225222","TN23 1EZ, UK",Aylesham,Kent
+AYR,9463,"-4.62543081599,55.4607193884","KA7 1TH, UK",Ayr,South Ayrshire
+BAC,2187,"-2.89028792738,53.2114331004","CH2 1BS, UK",Bache,Cheshire
+BAJ,4186,"-3.80751084973,51.6151229835","SA12 8ES, UK",Baglan,Neath Port Talbot - Castell-Nedd Port Talbot
+BAG,5681,"-0.689625390889,51.363829441","GU19 5AS, UK",Bagshot,Surrey
+BLD,8552,"-1.75680024271,53.849863701","BD17 6HS, UK",Baildon,West Yorkshire
+BIO,9763,"-4.10732458503,55.8462512099","G69 7RN, UK",Baillieston,Glasgow City
+BAB,5492,"-0.136874546302,51.0555734189","RH17 6JQ, UK",Balcombe,West Sussex
+BDK,6084,"-0.188135033328,51.9924292806","SG7 5BU, UK",Baldock,Hertfordshire
+BAL,5399,"-0.151447,51.4432996","SW12 9SG, UK",Balham,Greater London
+BHC,9862,"-4.5832873,56.0024704","G83 8SS, UK",Balloch,West Dunbartonshire
+BSI,9013,"-2.83615312475,56.476285767","DD5 4QH, UK",Balmossie,Angus
+BMB,2561,"-2.6606747,53.7266754","PR5 6EA, UK",Bamber Bridge,Lancashire
+BAM,2820,"-1.67723560096,53.3346011442","S32 1EG, UK",Bamford,Derbyshire
+BNV,8839,"-5.0959006,56.8437975","PH33 7JF, UK",Banavie,Highland
+BAN,4502,"-1.3275625,52.0604392","OX16 5AB, UK",Banbury,Oxfordshire
+BNG,2471,"-4.13458815126,53.2231021803","LL57 1LZ, UK",Bangor (Gwynedd),Gwynedd - Gwynedd
+BAH,2238,"-2.98740531015,53.4374437455","L20 8BX, UK",Bank Hall,Merseyside
+BAD,5348,"-0.214077396114,51.3293527474","SM7 1PZ, UK",Banstead,Surrey
+BSS,9466,"-4.65230746561,55.5581540288","KA10 6SA, UK",Barassie,South Ayrshire
+BLL,7563,"-2.34710399167,54.9751413424","NE47 7HY, UK",Bardon Mill,Northumberland
+BAR,2690,"-2.83650904069,54.0753722758","LA4 6LL, UK",Bare Lane,Lancashire
+BGI,9764,"-4.07267783457,55.8498685389","G69 7TS, UK",Bargeddie,North Lanarkshire
+BGD,4011,"-3.23020044286,51.6933595811","CF81 9AL, UK",Bargoed,Caerphilly - Caerffili
+BKG,7492,"0.0797951371763,51.5400725935","IG11 8TU, UK",Barking,Greater London
+BMG,5133,"0.478398849242,51.2840953555","ME16 9NS, UK",Barming,Kent
+BRM,4445,"-4.05611347128,52.7220679231","LL42 1LS, UK",Barmouth,Gwynedd - Gwynedd
+BNH,5089,"0.159511245161,51.464842983","DA7 6HQ, UK",Barnehurst,Greater London
+BNS,5551,"-0.24201866807,51.4671278019","SW13 0HT, UK",Barnes,Greater London
+BNI,5580,"-0.252272798709,51.4726945657","SW13 0NP, UK",Barnes Bridge,Greater London
+BTB,6406,"-0.410026236842,53.5751428837","DN38 6DG, UK",Barnetby,North Lincolnshire
+BAA,5252,"-0.639806343478,50.8312433513","PO22 0ES, UK",Barnham,West Sussex
+BNL,9973,"-4.22230463385,55.8778133838","G21 4NB, UK",Barnhill,Glasgow City
+BNY,6774,"-1.47810685186,53.5538025618","S70 1SE, UK",Barnsley,South Yorkshire
+BNP,5725,"-4.06347743617,51.0740142709","EX31 2AU, UK",Barnstaple,Devon
+BTG,1096,"-1.99051068854,52.3618204961","B45 8PA, UK",Barnt Green,Worcestershire
+BRR,9674,"-4.39645994942,55.8038465792","G78 1AA, UK",Barrhead,East Renfrewshire
+BRL,9467,"-4.78009645467,55.096662825","KA26 0QF, UK",Barrhill,South Ayrshire
+BAV,6212,"-0.393085346734,53.6959926677","DN19 7ET, UK",Barrow Haven,North Lincolnshire
+BIF,1954,"-3.22608826394,54.1188851204","LA14 5QZ, UK",Barrow-In-Furness,Cumbria
+BWS,1903,"-1.14654551327,52.749402304","LE12 8US, UK",Barrow-Upon-Soar,Leicestershire
+BRY,3805,"-3.29330791839,51.4156413303","CF62 8AF, UK",Barry,The Vale Of Glamorgan - Bro Morgannwg
+BYD,3806,"-3.26272321454,51.4026845572","CF63 4LE, UK",Barry Docks,The Vale Of Glamorgan - Bro Morgannwg
+BYI,3807,"-3.2752557093,51.3922169016","CF62 5TH, UK",Barry Island,The Vale Of Glamorgan - Bro Morgannwg
 BYL,9020,?,"DD7 7IG, UK",Barry Links,Angus
-BAU,6207,?,"DN18 5SJ, UK",Barton-On-Humber,North Lincolnshire
-BSO,7494,?,"SS16 5XY, UK",Basildon,Essex
-BSK,5520,?,"RG21 5NE, UK",Basingstoke,Hampshire
-BBL,5090,?,"TN14 5AP, UK",Bat & Ball,Kent
-BTH,3271,?,"BA1 1SU, UK",Bath Spa,Bath And North East Somerset
-BHG,9311,?,"EH48 1AZ, UK",Bathgate,West Lothian
-BTL,8484,?,"WF17 5TA, UK",Batley,West Yorkshire
-BTT,7909,?,"TS9 6LT, UK",Battersby,North Yorkshire
+BAU,6207,"-0.455121709426,53.6824712908","DN18 5SJ, UK",Barton-On-Humber,North Lincolnshire
+BSO,7494,"0.456836464568,51.568184217","SS16 5XY, UK",Basildon,Essex
+BSK,5520,"-1.08788116884,51.2683080878","RG21 5NE, UK",Basingstoke,Hampshire
+BBL,5090,"0.194589970716,51.2892395819","TN14 5AP, UK",Bat & Ball,Kent
+BTH,3271,"-2.357017125,51.37757235","BA1 1SU, UK",Bath Spa,Bath And North East Somerset
+BHG,9311,"-3.63975419737,55.8993096004","EH48 1AZ, UK",Bathgate,West Lothian
+BTL,8484,"-1.62431107522,53.7105131118","WF17 5TA, UK",Batley,West Yorkshire
+BTT,7909,"-1.09359195958,54.4575412801","TS9 6LT, UK",Battersby,North Yorkshire
 BAK,5420,?,"SW8 4LJ, UK",Battersea Park,Greater London
-BAT,5215,?,"TN33 0DE, UK",Battle,East Sussex
-BLB,6870,?,"SS11 7RG, UK",Battlesbridge,Essex
+BAT,5215,"0.494891371379,50.9129811881","TN33 0DE, UK",Battle,East Sussex
+BLB,6870,"0.5653804,51.6248813","SS11 7RG, UK",Battlesbridge,Essex
 BAY,6006,?,"SG13 8PH, UK",Bayford,Hertfordshire
-BCF,3047,?,"HP9 2PJ, UK",Beaconsfield,Buckinghamshire
-BER,2420,?,"CV37 0EU, UK",Bearley,Warwickshire
-BRN,9966,?,"G61 4AN, UK",Bearsden,East Dunbartonshire
-BSD,5091,?,"ME14 4PH, UK",Bearsted,Kent
+BCF,3047,"-0.643628702469,51.6114864226","HP9 2PJ, UK",Beaconsfield,Buckinghamshire
+BER,2420,"-1.74954697563,52.2453902885","CV37 0EU, UK",Bearley,Warwickshire
+BRN,9966,"-4.33259701842,55.9168632931","G61 4AN, UK",Bearsden,East Dunbartonshire
+BSD,5091,"0.577743,51.2758943","ME14 4PH, UK",Bearsted,Kent
 BSL,8822,?,"PH39 0AA, UK",Beasdale,Highland
-BEU,5890,?,"SO42 7YQ, UK",Beaulieu Road,Hampshire
-BEL,8877,?,"IV4 7EF, UK",Beauly,Highland
-BEB,2188,?,"CH63 7LA, UK",Bebington,Merseyside
-BCC,7258,?,"NR34 9QJ, UK",Beccles,Suffolk
+BEU,5890,"-1.50418980508,50.8548049628","SO42 7YQ, UK",Beaulieu Road,Hampshire
+BEL,8877,"-4.46293601178,57.4856036376","IV4 7EF, UK",Beauly,Highland
+BEB,2188,"-3.0032204,53.356766","CH63 7LA, UK",Bebington,Merseyside
+BCC,7258,"1.56770034785,52.458014935","NR34 9QJ, UK",Beccles,Suffolk
 BEC,5076,?,"SE6 3RE, UK",Beckenham Hill,Greater London
-BKJ,5046,?,"BR3 1HY, UK",Beckenham Junction,Greater London
+BKJ,5046,"-0.0256873627109,51.410941644","BR3 1HY, UK",Beckenham Junction,Greater London
 BDM,1512,?,"MK40 1DR, UK",Bedford Midland,Bedfordshire
-BSJ,1510,?,"MK42 9BT, UK",Bedford St.Johns,Bedfordshire
-BDH,5538,?,"PO9 1LL, UK",Bedhampton,Hampshire
-BMT,3245,?,"BS3 4LU, UK",Bedminster,Bristol City Of
-BEH,1165,?,"CV12 8JG, UK",Bedworth,Warwickshire
+BSJ,1510,"-0.467441181076,52.1299442528","MK42 9BT, UK",Bedford St.Johns,Bedfordshire
+BDH,5538,"-0.996169719551,50.8539418289","PO9 1LL, UK",Bedhampton,Hampshire
+BMT,3245,"-2.59458664874,51.4396296098","BS3 4LU, UK",Bedminster,Bristol City Of
+BEH,1165,"-1.46869383972,52.480031715","CV12 8JG, UK",Bedworth,Warwickshire
 BDW,3070,?,"SN8 5RD, UK",Bedwyn,Wiltshire
-BEE,1625,?,"NG9 1JU, UK",Beeston,Nottinghamshire
-BKS,5198,?,"CT4 5EP, UK",Bekesbourne,Kent
-BLV,2785,?,"M18 1AA, UK",Belle Vue,Greater Manchester
-BLG,9895,?,"G31 1SG, UK",Bellgrove,Glasgow City
-BGM,5062,?,"SE6 3BT, UK",Bellingham,Greater London
-BLH,9714,?,"ML4 1RJ, UK",Bellshill,North Lanarkshire
-BLM,5350,?,"SM2 6BH, UK",Belmont,Greater London
-BLP,1679,?,"DE56 1DA, UK",Belper,Derbyshire
-BEG,5227,?,"TN12 6QH, UK",Beltring,Kent
-BVD,5092,?,"DA17 6JJ, UK",Belvedere,Greater London
+BEE,1625,"-1.20517207487,52.9195620714","NG9 1JU, UK",Beeston,Nottinghamshire
+BKS,5198,"1.13902410328,51.2606354156","CT4 5EP, UK",Bekesbourne,Kent
+BLV,2785,"-0.9876355,53.6109343","M18 1AA, UK",Belle Vue,Greater Manchester
+BLG,9895,"-4.22209993756,55.8571640986","G31 1SG, UK",Bellgrove,Glasgow City
+BGM,5062,"-0.0202458415315,51.4327112625","SE6 3BT, UK",Bellingham,Greater London
+BLH,9714,"-4.02256891227,55.8183045397","ML4 1RJ, UK",Bellshill,North Lanarkshire
+BLM,5350,"-0.19992840745,51.3436398031","SM2 6BH, UK",Belmont,Greater London
+BLP,1679,"-1.48116372289,53.0241760262","DE56 1DA, UK",Belper,Derbyshire
+BEG,5227,"0.399914684067,51.2041235785","TN12 6QH, UK",Beltring,Kent
+BVD,5092,"0.151654077571,51.4915435514","DA17 6JJ, UK",Belvedere,Greater London
 BEM,8047,?,"YO16 5XG, UK",Bempton,East Riding Of Yorkshire
-BEY,8564,?,"LS29 8ET, UK",Ben Rhydding,West Yorkshire
-BEF,7439,?,"SS7 1NF, UK",Benfleet,Essex
+BEY,8564,"-1.79579982608,53.9259285345","LS29 8ET, UK",Ben Rhydding,West Yorkshire
+BEF,7439,"0.561980502751,51.5438199266","SS7 1NF, UK",Benfleet,Essex
 BEN,2676,?,"LH2 7LJ, UK",Bentham,North Yorkshire
-BTY,5624,?,"GU10 5JZ, UK",Bentley,Hampshire
-BYK,8352,?,"DN5 0BE, UK",Bentley (S. Yorks),South Yorkshire
-BAS,3549,?,"PL20 7EP, UK",Bere Alston,Devon
-BFE,3550,?,"PL20 7JS, UK",Bere Ferrers,Devon
-BKM,1390,?,"HP4 2AJ, UK",Berkhamsted,Hertfordshire
-BKW,1045,?,"CV7 7EF, UK",Berkswell,West Midlands
-BYA,7330,?,"NR30 1SB, UK",Berney Arms,Norfolk
-BBW,8431,?,"HD4 7LP, UK",Berry Brow,West Yorkshire
-BRS,5581,?,"KT5 8LS, UK",Berrylands,Greater London
-BRK,5323,?,"BN26 6TB, UK",Berwick (Sussex),East Sussex
-BWK,7791,?,"TD15 1NF, UK",Berwick-Upon-Tweed,Northumberland
+BTY,5624,"-0.8708577975,51.1807198858","GU10 5JZ, UK",Bentley,Hampshire
+BYK,8352,"-1.1507819,53.5438085","DN5 0BE, UK",Bentley (S. Yorks),South Yorkshire
+BAS,3549,"-4.19758092372,50.482314599","PL20 7EP, UK",Bere Alston,Devon
+BFE,3550,"-4.17750994951,50.4510860363","PL20 7JS, UK",Bere Ferrers,Devon
+BKM,1390,"-0.561998666667,51.7632801","HP4 2AJ, UK",Berkhamsted,Hertfordshire
+BKW,1045,"-1.64235857096,52.3955031377","CV7 7EF, UK",Berkswell,West Midlands
+BYA,7330,"1.64147896032,52.5886861374","NR30 1SB, UK",Berney Arms,Norfolk
+BBW,8431,"-1.79203153523,53.6214911718","HD4 7LP, UK",Berry Brow,West Yorkshire
+BRS,5581,"-0.280590114984,51.3980615794","KT5 8LS, UK",Berrylands,Greater London
+BRK,5323,"0.166548766959,50.8420305143","BN26 6TB, UK",Berwick (Sussex),East Sussex
+BWK,7791,"-2.0106093,55.7737856","TD15 1NF, UK",Berwick-Upon-Tweed,Northumberland
 BES,2351,?,"L40 9QP, UK",Bescar Lane,Lancashire
-BSC,1003,?,"WS1 4NH, UK",Bescot Stadium,West Midlands
-BTO,5472,?,"RH3 2AD, UK",Betchworth,Surrey
-BET,6961,?,"E2 6JL, UK",Bethnal Green,Greater London
-BYC,2449,?,"LL24 0AE, UK",Betws-y-Coed,Conwy - Conwy
-BEV,8048,?,"HU17 0AS, UK",Beverley,East Riding Of Yorkshire
-BEX,5211,?,"TN40 1EB, UK",Bexhill,East Sussex
-BXY,5093,?,"DA5 1AQ, UK",Bexley,Greater London
-BXH,5094,?,"DA7 4AA, UK",Bexleyheath,Greater London
+BSC,1003,"-1.99100246951,52.5630769682","WS1 4NH, UK",Bescot Stadium,West Midlands
+BTO,5472,"-0.249460632552,51.26580895","RH3 2AD, UK",Betchworth,Surrey
+BET,6961,"-0.0588741697716,51.5243000997","E2 6JL, UK",Bethnal Green,Greater London
+BYC,2449,"-3.801046,53.0918089","LL24 0AE, UK",Betws-y-Coed,Conwy - Conwy
+BEV,8048,"-0.423112800469,53.8423824553","HU17 0AS, UK",Beverley,East Riding Of Yorkshire
+BEX,5211,"0.476986099907,50.8409925734","TN40 1EB, UK",Bexhill,East Sussex
+BXY,5093,"0.147849631635,51.4403176634","DA5 1AQ, UK",Bexley,Greater London
+BXH,5094,"0.133797944811,51.4634407744","DA7 4AA, UK",Bexleyheath,Greater London
 BCS,3048,?,"OX26 6EF, UK",Bicester North,Oxfordshire
-BIT,3104,?,"OX26 6HU, UK",Bicester Town,Oxfordshire
-BKL,5063,?,"BR1 2EB, UK",Bickley,Greater London
-BID,2136,?,"CH43 7RF, UK",Bidston,Merseyside
-BIW,6170,?,"SG18 8AL, UK",Biggleswade,Bedfordshire
-BBK,4618,?,"WV8 1LE, UK",Bilbrook,Staffordshire
-BIC,6871,?,"CM12 0BP, UK",Billericay,Essex
-BIL,7910,?,"TS23 3TG, UK",Billingham,Stockton-On-Tees
-BIG,5464,?,"RH14 9SE, UK",Billingshurst,West Sussex
-BIN,6235,?,"NG13 8TF, UK",Bingham,Nottinghamshire
-BIY,8553,?,"BD16 2NA, UK",Bingley,West Yorkshire
-BCG,3907,?,"CF14 4SY, UK",Birchgrove,Cardiff - Caerdydd
-BCH,5163,?,"CT7 9RD, UK",Birchington-On-Sea,Kent
-BWD,2304,?,"WA3 6NZ, UK",Birchwood,Warrington
-BIK,5401,?,"BR3 4TA, UK",Birkbeck,Greater London
-BDL,2352,?,"PR8 4AF, UK",Birkdale,Merseyside
-BKC,2217,?,"CH41 9DB, UK",Birkenhead Central,Merseyside
-BKQ,2219,?,"CH41 1AL, UK",Birkenhead Hamilton Square,Merseyside
-BKN,2145,?,"CH41 7AZ, UK",Birkenhead North,Merseyside
-BKP,2220,?,"CH41 8BT, UK",Birkenhead Park,Merseyside
-BBS,4513,?,"B9 4HF, UK",Birmingham Bordesley,West Midlands
-BHI,1215,?,"B40 1PA, UK",Birmingham International,West Midlands
-BMO,4515,?,"B4 7UL, UK",Birmingham Moor Street,West Midlands
-BHM,1127,?,"B2 4ND, UK",Birmingham New Street,West Midlands
-BSW,1006,?,"B3 2BJ, UK",Birmingham Snow Hill,West Midlands
-BIA,7835,?,"DL14 7EJ, UK",Bishop Auckland,Durham
-BBG,9940,?,"G64 2LX, UK",Bishopbriggs,East Dunbartonshire
-BIS,6800,?,"CM23 3BL, UK",Bishops Stortford,Hertfordshire
-BIP,5402,?,"BN25 2RB, UK",Bishopstone,East Sussex
-BPT,9620,?,"PA7 5AD, UK",Bishopton,Renfrewshire
-BTE,5945,?,"SO18 1GG, UK",Bitterne,Southampton
-BBN,2737,?,"BB1 1EX, UK",Blackburn,Blackburn With Darwen
-BFR,5112,?,"EC4V 4DY, UK",Blackfriars,Greater London
-BKH,5095,?,"SE3 9LE, UK",Blackheath,Greater London
-BHO,7400,?,"E17 6NH, UK",Blackhorse Road,Greater London
-BPN,2739,?,"FY1 2AB, UK",Blackpool North,Blackpool
-BPB,2738,?,"FY4 1NY, UK",Blackpool Pleasure Beach,Blackpool
-BPS,2740,?,"FY4 2FA, UK",Blackpool South,Blackpool
+BIT,3104,"-1.1493729,51.8924363","OX26 6HU, UK",Bicester Town,Oxfordshire
+BKL,5063,"0.04538046187,51.3993718095","BR1 2EB, UK",Bickley,Greater London
+BID,2136,"-3.07894168072,53.4093164524","CH43 7RF, UK",Bidston,Merseyside
+BIW,6170,"-0.262264103426,52.0851353126","SG18 8AL, UK",Biggleswade,Bedfordshire
+BBK,4618,"-2.18053464353,52.6239623016","WV8 1LE, UK",Bilbrook,Staffordshire
+BIC,6871,"0.418176711359,51.6293315094","CM12 0BP, UK",Billericay,Essex
+BIL,7910,"-1.2795366,54.6057149","TS23 3TG, UK",Billingham,Stockton-On-Tees
+BIG,5464,"-0.4508568,51.0150973","RH14 9SE, UK",Billingshurst,West Sussex
+BIN,6235,"-0.952042720406,52.95385361","NG13 8TF, UK",Bingham,Nottinghamshire
+BIY,8553,"-1.83725478037,53.848615415","BD16 2NA, UK",Bingley,West Yorkshire
+BCG,3907,"-3.2029060119,51.5221066783","CF14 4SY, UK",Birchgrove,Cardiff - Caerdydd
+BCH,5163,"1.3022046,51.37688535","CT7 9RD, UK",Birchington-On-Sea,Kent
+BWD,2304,"-2.51800201183,53.418109983","WA3 6NZ, UK",Birchwood,Warrington
+BIK,5401,"-0.0568616481948,51.4052128035","BR3 4TA, UK",Birkbeck,Greater London
+BDL,2352,"-3.01423523875,53.6332908468","PR8 4AF, UK",Birkdale,Merseyside
+BKC,2217,"-3.02086950484,53.388451299","CH41 9DB, UK",Birkenhead Central,Merseyside
+BKQ,2219,"-3.01437659512,53.3942595906","CH41 1AL, UK",Birkenhead Hamilton Square,Merseyside
+BKN,2145,"-3.05818213085,53.4045043532","CH41 7AZ, UK",Birkenhead North,Merseyside
+BKP,2220,"-3.03940958381,53.3969897091","CH41 8BT, UK",Birkenhead Park,Merseyside
+BBS,4513,"-1.876812046,52.4791397796","B9 4HF, UK",Birmingham Bordesley,West Midlands
+BHI,1215,"-1.72239788409,52.4520864041","B40 1PA, UK",Birmingham International,West Midlands
+BMO,4515,"-1.89259053056,52.4790809789","B4 7UL, UK",Birmingham Moor Street,West Midlands
+BHM,1127,"-1.89864418433,52.4781333799","B2 4ND, UK",Birmingham New Street,West Midlands
+BSW,1006,"-1.89812567285,52.4827591647","B3 2BJ, UK",Birmingham Snow Hill,West Midlands
+BIA,7835,"-1.67645130886,54.658670535","DL14 7EJ, UK",Bishop Auckland,Durham
+BBG,9940,"-4.22341614655,55.9061933145","G64 2LX, UK",Bishopbriggs,East Dunbartonshire
+BIS,6800,"0.161759357717,51.8676555616","CM23 3BL, UK",Bishops Stortford,Hertfordshire
+BIP,5402,"0.0832279,50.7804634","BN25 2RB, UK",Bishopstone,East Sussex
+BPT,9620,"-4.50108942944,55.9034169702","PA7 5AD, UK",Bishopton,Renfrewshire
+BTE,5945,"-1.37681762665,50.9182342325","SO18 1GG, UK",Bitterne,Southampton
+BBN,2737,"-2.47948560628,53.7464543286","BB1 1EX, UK",Blackburn,Blackburn With Darwen
+BFR,5112,"-0.103274793554,51.5099788225","EC4V 4DY, UK",Blackfriars,Greater London
+BKH,5095,"0.00876604181892,51.4656796729","SE3 9LE, UK",Blackheath,Greater London
+BHO,7400,"-0.0391427219437,51.5859306679","E17 6NH, UK",Blackhorse Road,Greater London
+BPN,2739,"-3.0491169,53.8216464","FY1 2AB, UK",Blackpool North,Blackpool
+BPB,2738,"-3.05462647728,53.7875986294","FY4 1NY, UK",Blackpool Pleasure Beach,Blackpool
+BPS,2740,"-3.04696568342,53.7987484834","FY4 2FA, UK",Blackpool South,Blackpool
 BKR,991,?,"EH48 3BW , UK",Blackridge,West Lothian
-BLK,2732,?,"BL6 5JH, UK",Blackrod,Greater Manchester
-BAW,5625,?,"GU17 9AB, UK",Blackwater,Hampshire
-BFF,2450,?,"LL41 3HE, UK",Blaenau Ffestiniog,Gwynedd - Gwynedd
-BLA,8750,?,"PH18 5SL, UK",Blair Atholl,Perth And Kinross
-BAI,9760,?,"ML5 1NP, UK",Blairhill,North Lanarkshire
-BKT,1176,?,"B74 4EB, UK",Blake Street,West Midlands
-BKD,4574,?,"DY10 3LF, UK",Blakedown,Worcestershire
-BLT,9716,?,"G72 9BB, UK",Blantyre,South Lanarkshire
-BLO,7503,?,"NE21 4JB, UK",Blaydon,Tyne And Wear
-BSB,6204,?,"NG14 7GD, UK",Bleasby,Nottinghamshire
-BLY,1360,?,"MK3 6DS, UK",Bletchley,Milton Keynes
-BLX,1141,?,"WS3 2NY, UK",Bloxwich,West Midlands
-BWN,1018,?,"WS3 2NR, UK",Bloxwich North,West Midlands
-BLN,2123,?,"L23 8SE, UK",Blundellsands & Crosby,Merseyside
-BYB,1282,?,"ST11 9JF, UK",Blythe Bridge,Staffordshire
-BOD,3501,?,"PL30 4BB, UK",Bodmin Parkway,Cornwall And Isles Of Scilly
-BOR,2435,?,"LL62 5BL, UK",Bodorgan,Isle Of Anglesey - Sir Ynys Mon
-BOG,5253,?,"PO21 1QF, UK",Bognor Regis,West Sussex
-BGS,9668,?,"PA15 2TF, UK",Bogston,Inverclyde
-BON,2599,?,"BL2 1BE, UK",Bolton,Greater Manchester
+BLK,2732,"-2.57517289026,53.5925044241","BL6 5JH, UK",Blackrod,Greater Manchester
+BAW,5625,"-0.777722356114,51.3330034052","GU17 9AB, UK",Blackwater,Hampshire
+BFF,2450,"-3.9379224,52.9945942","LL41 3HE, UK",Blaenau Ffestiniog,Gwynedd - Gwynedd
+BLA,8750,"-3.849846149,56.76409178","PH18 5SL, UK",Blair Atholl,Perth And Kinross
+BAI,9760,"-4.04057837833,55.8656201781","ML5 1NP, UK",Blairhill,North Lanarkshire
+BKT,1176,"-1.84493371436,52.6036547456","B74 4EB, UK",Blake Street,West Midlands
+BKD,4574,"-2.17717223501,52.4058720336","DY10 3LF, UK",Blakedown,Worcestershire
+BLT,9716,"-4.08553751226,55.797660641","G72 9BB, UK",Blantyre,South Lanarkshire
+BLO,7503,"-1.7151784,54.9659634","NE21 4JB, UK",Blaydon,Tyne And Wear
+BSB,6204,"-0.943926306295,53.0402893758","NG14 7GD, UK",Bleasby,Nottinghamshire
+BLY,1360,"-0.737148821255,51.99488455","MK3 6DS, UK",Bletchley,Milton Keynes
+BLX,1141,"-2.01252666038,52.6177794992","WS3 2NY, UK",Bloxwich,West Midlands
+BWN,1018,"-2.0138857148,52.6183636804","WS3 2NR, UK",Bloxwich North,West Midlands
+BLN,2123,"-3.04014792335,53.4877383816","L23 8SE, UK",Blundellsands & Crosby,Merseyside
+BYB,1282,"-2.08158884714,52.9713442176","ST11 9JF, UK",Blythe Bridge,Staffordshire
+BOD,3501,"-4.65871459222,50.4463161501","PL30 4BB, UK",Bodmin Parkway,Cornwall And Isles Of Scilly
+BOR,2435,"-4.41485252275,53.2041827858","LL62 5BL, UK",Bodorgan,Isle Of Anglesey - Sir Ynys Mon
+BOG,5253,"-0.676047382482,50.7861704954","PO21 1QF, UK",Bognor Regis,West Sussex
+BGS,9668,"-4.7317233583,55.9411287056","PA15 2TF, UK",Bogston,Inverclyde
+BON,2599,"-2.42686400172,53.5744371586","BL2 1BE, UK",Bolton,Greater Manchester
 BTD,8536,?,"S36 8JB, UK",Bolton-On-Dearne,South Yorkshire
-BKA,5626,?,"KT23 3JG, UK",Bookham,Surrey
-BOC,1993,?,"LA19 5TA, UK",Bootle (Cumbria),Cumbria
-BNW,2195,?,"L20 5BW, UK",Bootle New Strand,Merseyside
-BOT,2239,?,"L20 7AD, UK",Bootle Oriel Road,Merseyside
-BRG,5130,?,"TN15 8BG, UK",Borough Green & Wrotham,Kent
-BRH,4304,?,"SY24 5HT, UK",Borth,Ceredigion - Sir Ceredigion
-BOH,5254,?,"PO18 8NG, UK",Bosham,West Sussex
+BKA,5626,"-0.384137563359,51.2886764867","KT23 3JG, UK",Bookham,Surrey
+BOC,1993,"-3.39128195166,54.290419102","LA19 5TA, UK",Bootle (Cumbria),Cumbria
+BNW,2195,"-2.99284797512,53.4539381645","L20 5BW, UK",Bootle New Strand,Merseyside
+BOT,2239,"-2.99546428127,53.4473275478","L20 7AD, UK",Bootle Oriel Road,Merseyside
+BRG,5130,"0.306719817039,51.2938194594","TN15 8BG, UK",Borough Green & Wrotham,Kent
+BRH,4304,"-4.04990214956,52.4908211098","SY24 5HT, UK",Borth,Ceredigion - Sir Ceredigion
+BOH,5254,"-0.84805488,50.84171206","PO18 8NG, UK",Bosham,West Sussex
 BSN,6216,?,"PE21 3RN, UK",Boston,Lincolnshire
-BOE,5894,?,"SO30 2DY, UK",Botley,Hampshire
-BTF,6237,?,"NG13 0GT, UK",Bottesford,Leicestershire
-BNE,3018,?,"SL8 5QH, UK",Bourne End,Buckinghamshire
-BMH,5876,?,"BH8 8HX, UK",Bournemouth,Bournemouth
-BRV,1112,?,"B30 1LG, UK",Bournville,West Midlands
-BWB,1381,?,"MK7 8LA, UK",Bow Brickhill,Milton Keynes
+BOE,5894,"-1.2590525,50.9163612","SO30 2DY, UK",Botley,Hampshire
+BTF,6237,"-0.793820493318,52.9439118324","NG13 0GT, UK",Bottesford,Leicestershire
+BNE,3018,"-0.710859698053,51.5777512825","SL8 5QH, UK",Bourne End,Buckinghamshire
+BMH,5876,"-1.8643406142,50.7274867682","BH8 8HX, UK",Bournemouth,Bournemouth
+BRV,1112,"-1.93644136502,52.4254153562","B30 1LG, UK",Bournville,West Midlands
+BWB,1381,"-0.6962191,52.0042858","MK7 8LA, UK",Bow Brickhill,Milton Keynes
 BOP,6027,?,"N22 4NT, UK",Bowes Park,Greater London
-BWG,9968,?,"G60 5AH, UK",Bowling,West Dunbartonshire
-BXW,5403,?,"RH5 6BT, UK",Boxhill & Westhumble,Surrey
-BCE,5693,?,"RG12 1HX, UK",Bracknell,Bracknell Forest
+BWG,9968,"-4.486339377,55.9311739843","G60 5AH, UK",Bowling,West Dunbartonshire
+BXW,5403,"-0.3286022,51.2539739","RH5 6BT, UK",Boxhill & Westhumble,Surrey
+BCE,5693,"-0.751833028375,51.4130930368","RG12 1HX, UK",Bracknell,Bracknell Forest
 BDQ,8346,?,"BD1 4HY, UK",Bradford Forster Square,West Yorkshire
-BDI,8345,?,"BD1 1TU, UK",Bradford Interchange,West Yorkshire
-BOA,3341,?,"BA15 1DF, UK",Bradford-On-Avon,Wiltshire
-BDN,5530,?,"PO36 0EB, UK",Brading,Isle Of Wight
+BDI,8345,"-1.75023044571,53.7915813553","BD1 1TU, UK",Bradford Interchange,West Yorkshire
+BOA,3341,"-2.25329231675,51.3455347496","BA15 1DF, UK",Bradford-On-Avon,Wiltshire
+BDN,5530,"-1.13859788598,50.6789919061","PO36 0EB, UK",Brading,Isle Of Wight
 BTR,6801,?,"CM7 6QL, UK",Braintree,Essex
-BTP,2053,?,"CM77 8YH, UK",Braintree Freeport,Essex
-BML,2944,?,"SK7 2DU, UK",Bramhall,Greater Manchester
-BMY,5500,?,"RG26 5AG, UK",Bramley (Hampshire),Hampshire
-BLE,8496,?,"LS13 4DU, UK",Bramley (West Yorkshire),West Yorkshire
-BMP,7565,?,"CA8 1HW, UK",Brampton (Cumbria),Cumbria
-BRP,7259,?,"NR34 8EF, UK",Brampton (Suffolk),Suffolk
-BCN,9938,?,"PA16 9HA, UK",Branchton,Inverclyde
-BND,7200,?,"IP27 0BA, UK",Brandon,Norfolk
-BSM,5875,?,"BH12 1DF, UK",Branksome,Poole
-BYS,2045,?,"CA21 2YW, UK",Braystones,Cumbria
-BDY,2779,?,"SK6 2AA, UK",Bredbury,Greater Manchester
-BRC,9251,?,"EH55 8JH, UK",Breich,West Lothian
-BFD,5552,?,"TW8 8DT, UK",Brentford,Greater London
-BRE,6872,?,"CM14 4EW, UK",Brentwood,Essex
+BTP,2053,"0.571514858652,51.8688366428","CM77 8YH, UK",Braintree Freeport,Essex
+BML,2944,"-2.16483767452,53.3600018314","SK7 2DU, UK",Bramhall,Greater Manchester
+BMY,5500,"-1.05795965851,51.3296036779","RG26 5AG, UK",Bramley (Hampshire),Hampshire
+BLE,8496,"-1.63831878952,53.8031243448","LS13 4DU, UK",Bramley (West Yorkshire),West Yorkshire
+BMP,7565,"-2.70127950318,54.9333914146","CA8 1HW, UK",Brampton (Cumbria),Cumbria
+BRP,7259,"1.54332672745,52.3952656489","NR34 8EF, UK",Brampton (Suffolk),Suffolk
+BCN,9938,"-4.79945375971,55.9382231373","PA16 9HA, UK",Branchton,Inverclyde
+BND,7200,"0.624537442285,52.4539553386","IP27 0BA, UK",Brandon,Norfolk
+BSM,5875,"-1.9196847,50.7269847","BH12 1DF, UK",Branksome,Poole
+BYS,2045,"-3.53965093427,54.4400696272","CA21 2YW, UK",Braystones,Cumbria
+BDY,2779,"-2.1079479,53.4241637","SK6 2AA, UK",Bredbury,Greater Manchester
+BRC,9251,"-3.66499723002,55.8277006163","EH55 8JH, UK",Breich,West Lothian
+BFD,5552,"-0.30960813639,51.4875363446","TW8 8DT, UK",Brentford,Greater London
+BRE,6872,"0.299479053201,51.6138055023","CM14 4EW, UK",Brentwood,Essex
 BWO,1560,?,"AL3 0OO, UK",Bricket Wood,Hertfordshire
-BEA,9889,?,"FK9 4PH, UK",Bridge Of Allan,Stirling
-BRO,8823,?,"PA36 4AD, UK",Bridge Of Orchy,Argyll And Bute
-BGN,3809,?,"CF31 1BN, UK",Bridgend,Bridgend - Pen-Y-Bont Ar Ogwr
-BDG,9789,?,"G40 1BN, UK",Bridgeton,Glasgow City
-BWT,3449,?,"TA6 5HB, UK",Bridgwater,Somerset
-BDT,8049,?,"YO15 3EP, UK",Bridlington,East Riding Of Yorkshire
-BRF,2554,?,"BB9 5PU, UK",Brierfield,Lancashire
-BGG,6464,?,"DN20 8HX, UK",Brigg,North Lincolnshire
-BGH,8514,?,"HD6 1LE, UK",Brighouse,West Yorkshire
-BTN,5268,?,"BN1 3XP, UK",Brighton,Brighton And Hove
-BMD,6810,?,"EN3 7SH, UK",Brimsdown,Greater London
-BNT,2603,?,"SK5 8JE, UK",Brinnington,Greater Manchester
-BPW,3230,?,"BS34 8PU, UK",Bristol Parkway,South Gloucestershire
-BRI,3231,?,"BS1 6QF, UK",Bristol Temple Meads,Bristol City Of
-BHD,4012,?,"NP24 6XY, UK",Brithdir,Caerphilly - Caerffili
-RBS,7932,?,"54.6096, -1.113, UK",British Steel Redcar,Redcar And Cleveland
-BNF,4187,?,"SA11 2NE, UK",Briton Ferry,Neath Port Talbot - Castell-Nedd Port Talbot
-BRX,5081,?,"SW9 8JB, UK",Brixton,Greater London
-BGE,2240,?,"L14 3NG, UK",Broad Green,Merseyside
-BDB,2892,?,"SK14 6AX, UK",Broadbottom,Greater Manchester
-BSR,5006,?,"CT10 1HZ, UK",Broadstairs,Kent
-BCU,5886,?,"SO42 7TW, UK",Brockenhurst,Hampshire
-BHS,8429,?,"HD9 7EB, UK",Brockholes,West Yorkshire
-BCY,5404,?,"SE4 2RW, UK",Brockley,Greater London
-BOM,2190,?,"CH63 0JG, UK",Bromborough,Merseyside
-BMR,2191,?,"CH62 7AL, UK",Bromborough Rake,Merseyside
-BMC,2697,?,"BL7 9PZ, UK",Bromley Cross,Greater Manchester
-BMN,5096,?,"BR1 3NN, UK",Bromley North,Greater London
-BMS,5064,?,"BR1 1LX, UK",Bromley South,Greater London
-BMV,4715,?,"B60 2LX, UK",Bromsgrove,Worcestershire
-BSY,1437,?,"NW6 7QB, UK",Brondesbury,Greater London
-BSP,1438,?,"NW6 6RP, UK",Brondesbury Park,Greater London
-BPK,6074,?,"AL9 7SS, UK",Brookman's Park,Hertfordshire
-BKO,5687,?,"GU24 0ER, UK",Brookwood,Surrey
-BME,4175,?,"SY7 0NT, UK",Broome,Shropshire
-BMF,8050,?,"HU15 1RQ, UK",Broomfleet,East Riding Of Yorkshire
-BRA,8618,?,"KW9 6PY, UK",Brora,Highland
-BUH,8051,?,"HU15 1DZ, UK",Brough,East Riding Of Yorkshire
-BYF,9023,?,"DD5 2DX, UK",Broughty Ferry,Dundee City
-BXB,6812,?,"EN10 7AW, UK",Broxbourne,Hertfordshire
-BCV,6958,?,"N17 6QA, UK",Bruce Grove,Greater London
-BDA,7289,?,"NR13 5LA, UK",Brundall,Norfolk
-BGA,7006,?,"NR13 5RG, UK",Brundall Gardens,Norfolk
-BSU,8807,?,"EH15 2NG, UK",Brunstane,Edinburgh City Of
-BRW,3623,?,"L8 6XP, UK",Brunswick,Merseyside
-BRU,5702,?,"BA10 0EH, UK",Bruton,Somerset
-BYN,2222,?,"WN4 0AR, UK",Bryn,Greater Manchester
-BUC,7290,?,"NR13 4HW, UK",Buckenham,Norfolk
-BCK,2422,?,"CH7 3AY, UK",Buckley,Flintshire - Sir Y Fflint
-BUK,4182,?,"SY7 0AD, UK",Bucknell,Shropshire
+BEA,9889,"-3.95261979434,56.1603614866","FK9 4PH, UK",Bridge Of Allan,Stirling
+BRO,8823,"-4.76718086774,56.517550521","PA36 4AD, UK",Bridge Of Orchy,Argyll And Bute
+BGN,3809,"-3.57580293467,51.5063683421","CF31 1BN, UK",Bridgend,Bridgend - Pen-Y-Bont Ar Ogwr
+BDG,9789,"-4.22612834747,55.848813871","G40 1BN, UK",Bridgeton,Glasgow City
+BWT,3449,"-2.99049133487,51.1278410633","TA6 5HB, UK",Bridgwater,Somerset
+BDT,8049,"-0.19693203165,54.084231836","YO15 3EP, UK",Bridlington,East Riding Of Yorkshire
+BRF,2554,"-2.24078634339,53.8234617725","BB9 5PU, UK",Brierfield,Lancashire
+BGG,6464,"-0.486727606284,53.5491701292","DN20 8HX, UK",Brigg,North Lincolnshire
+BGH,8514,"-1.77896506333,53.6990517953","HD6 1LE, UK",Brighouse,West Yorkshire
+BTN,5268,"-0.141303385684,50.8293662049","BN1 3XP, UK",Brighton,Brighton And Hove
+BMD,6810,"-0.03155223095,51.6553065271","EN3 7SH, UK",Brimsdown,Greater London
+BNT,2603,"-2.13491124461,53.4326850423","SK5 8JE, UK",Brinnington,Greater Manchester
+BPW,3230,"-2.54318395,51.51416095","BS34 8PU, UK",Bristol Parkway,South Gloucestershire
+BRI,3231,"-2.58074539995,51.4493412574","BS1 6QF, UK",Bristol Temple Meads,Bristol City Of
+BHD,4012,"-3.2282991,51.7102669","NP24 6XY, UK",Brithdir,Caerphilly - Caerffili
+RBS,7932,"-1.18793934309,54.6352618","54.6096, -1.113, UK",British Steel Redcar,Redcar And Cleveland
+BNF,4187,"-3.8199666,51.6381644","SA11 2NE, UK",Briton Ferry,Neath Port Talbot - Castell-Nedd Port Talbot
+BRX,5081,"-0.11300790525,51.4628291044","SW9 8JB, UK",Brixton,Greater London
+BGE,2240,"-2.89351221737,53.4063984965","L14 3NG, UK",Broad Green,Merseyside
+BDB,2892,"-2.0142855,53.4409778","SK14 6AX, UK",Broadbottom,Greater Manchester
+BSR,5006,"1.43425756515,51.3605784407","CT10 1HZ, UK",Broadstairs,Kent
+BCU,5886,"-1.57397154822,50.8163462298","SO42 7TW, UK",Brockenhurst,Hampshire
+BHS,8429,"-1.77050654714,53.5953057786","HD9 7EB, UK",Brockholes,West Yorkshire
+BCY,5404,"-0.0366455886282,51.4637459718","SE4 2RW, UK",Brockley,Greater London
+BOM,2190,"-2.98832422098,53.3206424195","CH63 0JG, UK",Bromborough,Merseyside
+BMR,2191,"-2.98809906111,53.3303884165","CH62 7AL, UK",Bromborough Rake,Merseyside
+BMC,2697,"-2.4210425,53.62219","BL7 9PZ, UK",Bromley Cross,Greater Manchester
+BMN,5096,"0.0171487180414,51.4082785793","BR1 3NN, UK",Bromley North,Greater London
+BMS,5064,"0.0174058484661,51.4000726796","BR1 1LX, UK",Bromley South,Greater London
+BMV,4715,"-2.0480053712,52.3221890659","B60 2LX, UK",Bromsgrove,Worcestershire
+BSY,1437,"-0.202374999694,51.5454800911","NW6 7QB, UK",Brondesbury,Greater London
+BSP,1438,"-0.21003625145,51.5408225069","NW6 6RP, UK",Brondesbury Park,Greater London
+BPK,6074,"-0.205036994766,51.7215267103","AL9 7SS, UK",Brookman's Park,Hertfordshire
+BKO,5687,"-0.636677905073,51.3038402735","GU24 0ER, UK",Brookwood,Surrey
+BME,4175,"-2.88311514452,52.4240131777","SY7 0NT, UK",Broome,Shropshire
+BMF,8050,"-0.670964609403,53.739712982","HU15 1RQ, UK",Broomfleet,East Riding Of Yorkshire
+BRA,8618,"-3.84563855748,58.0130964296","KW9 6PY, UK",Brora,Highland
+BUH,8051,"-0.580436093563,53.7279725551","HU15 1DZ, UK",Brough,East Riding Of Yorkshire
+BYF,9023,"-2.86807286568,56.4664624055","DD5 2DX, UK",Broughty Ferry,Dundee City
+BXB,6812,"-0.0110502655063,51.7470792037","EN10 7AW, UK",Broxbourne,Hertfordshire
+BCV,6958,"-0.0699643914598,51.5930241646","N17 6QA, UK",Bruce Grove,Greater London
+BDA,7289,"1.44029745344,52.6209076897","NR13 5LA, UK",Brundall,Norfolk
+BGA,7006,"1.41851564106,52.621493959","NR13 5RG, UK",Brundall Gardens,Norfolk
+BSU,8807,"-3.10009294773,55.9420550864","EH15 2NG, UK",Brunstane,Edinburgh City Of
+BRW,3623,"-2.9761815711,53.3831979964","L8 6XP, UK",Brunswick,Merseyside
+BRU,5702,"-2.44883319258,51.1118775136","BA10 0EH, UK",Bruton,Somerset
+BYN,2222,"-2.64738050582,53.5009022016","WN4 0AR, UK",Bryn,Greater Manchester
+BUC,7290,"1.47029435282,52.5977174535","NR13 4HW, UK",Buckenham,Norfolk
+BCK,2422,"-3.05534207229,53.1623972865","CH7 3AY, UK",Buckley,Flintshire - Sir Y Fflint
+BUK,4182,"-2.94739090399,52.3572832897","SY7 0AD, UK",Bucknell,Shropshire
 BSV,7501,?,"PR7 7EY, UK",Buckshaw Parkway,
-BGL,3502,?,"PL26 8QP, UK",Bugle,Cornwall And Isles Of Scilly
-BHR,4317,?,"LD2 3PY, UK",Builth Road,Powys - Powys
-BLW,1865,?,"NG6 9AA, UK",Bulwell,Nottingham
-BUE,7085,?,"CO8 5HS, UK",Bures,Essex
-BUG,5483,?,"RH15 9DG, UK",Burgess Hill,West Sussex
-BUY,8500,?,"LS6 1NA, UK",Burley Park,West Yorkshire
+BGL,3502,"-4.7894299762,50.401354691","PL26 8QP, UK",Bugle,Cornwall And Isles Of Scilly
+BHR,4317,"-3.42703837737,52.1690295658","LD2 3PY, UK",Builth Road,Powys - Powys
+BLW,1865,"-1.19598329089,52.9998474059","NG6 9AA, UK",Bulwell,Nottingham
+BUE,7085,"0.745579523273,51.9858397421","CO8 5HS, UK",Bures,Essex
+BUG,5483,"-0.1274798,50.9535655","RH15 9DG, UK",Burgess Hill,West Sussex
+BUY,8500,"-1.57687233022,53.8119652901","LS6 1NA, UK",Burley Park,West Yorkshire
 BUW,8565,?,"LS29 4BE, UK",Burley-In-Wharfedale,West Yorkshire
-BNA,2945,?,"M20 6FJ, UK",Burnage,Greater Manchester
-BUD,1975,?,"LA9 6RD, UK",Burneside,Cumbria
-BNM,3176,?,"SL1 6JT, UK",Burnham,Slough
-BUU,6873,?,"CM0 8BQ, UK",Burnham-On-Crouch,Essex
-BUB,2743,?,"BB12 0HG, UK",Burnley Barracks,Lancashire
-BNC,2550,?,"BB11 1DA, UK",Burnley Central,Lancashire
-BYM,2549,?,"BB11 1JZ, UK",Burnley Manchester Road,Lancashire
-BUI,9767,?,"G73 3SA, UK",Burnside,South Lanarkshire
-BTS,9107,?,"KY3 9DR, UK",Burntisland,Fife
-BCB,2279,?,"L40 0RY, UK",Burscough Bridge,Lancashire
-BCJ,2280,?,"L40 5SP, UK",Burscough Junction,Lancashire
-BUO,5927,?,"SO31 8AA, UK",Bursledon,Hampshire
-BUJ,6200,?,"NG14 5AA, UK",Burton Joyce,Nottinghamshire
-BUT,1658,?,"DE14 2DA, UK",Burton-On-Trent,Staffordshire
-BSE,7008,?,"IP32 6AD, UK",Bury St.Edmunds,Suffolk
-BUS,9791,?,"G76 8JB, UK",Busby,East Renfrewshire
-BHK,6913,?,"EN1 1BA, UK",Bush Hill Park,Greater London
-BSH,1395,?,"WD19 4EA, UK",Bushey,Hertfordshire
-BUL,1179,?,"B74 4RT, UK",Butlers Lane,West Midlands
-BPC,4409,?,"LL53 6HJ, UK",Butlins Penychain,Gwynedd - Gwynedd
-BXD,5324,?,"TN22 4LA, UK",Buxted,East Sussex
-BUX,2946,?,"SK17 6AQ, UK",Buxton,Derbyshire
-BFN,5689,?,"KT15 3LQ, UK",Byfleet & New Haw,Surrey
-BYE,4124,?,"SA14 9TL, UK",Bynea,Carmarthenshire - Sir Gaerfyrddin
-CAD,3811,?,"CF63 2JP, UK",Cadoxton,The Vale Of Glamorgan - Bro Morgannwg
-CGW,2536,?,"LL12 9DU, UK",Caergwrle,Flintshire - Sir Y Fflint
-CPH,3812,?,"CF83 1JR, UK",Caerphilly,Caerphilly - Caerffili
-CWS,4412,?,"SY17 5HH, UK",Caersws,Powys - Powys
+BNA,2945,"-2.21691388276,53.4214813725","M20 6FJ, UK",Burnage,Greater Manchester
+BUD,1975,"-2.767351,54.3555182","LA9 6RD, UK",Burneside,Cumbria
+BNM,3176,"-0.646710303701,51.5233381591","SL1 6JT, UK",Burnham,Slough
+BUU,6873,"0.81513508918,51.6322254861","CM0 8BQ, UK",Burnham-On-Crouch,Essex
+BUB,2743,"-2.26639825362,53.7923272207","BB12 0HG, UK",Burnley Barracks,Lancashire
+BNC,2550,"-2.24466804132,53.7935689374","BB11 1DA, UK",Burnley Central,Lancashire
+BYM,2549,"-2.24650726823,53.7862219805","BB11 1JZ, UK",Burnley Manchester Road,Lancashire
+BUI,9767,"-4.20239784318,55.8183579732","G73 3SA, UK",Burnside,South Lanarkshire
+BTS,9107,"-3.23511156828,56.0571551907","KY3 9DR, UK",Burntisland,Fife
+BCB,2279,"-2.86618012524,53.6104544451","L40 0RY, UK",Burscough Bridge,Lancashire
+BCJ,2280,"-2.83917467682,53.5969842997","L40 5SP, UK",Burscough Junction,Lancashire
+BUO,5927,"-1.30590870459,50.8840267932","SO31 8AA, UK",Bursledon,Hampshire
+BUJ,6200,"-1.04400267141,52.9829009618","NG14 5AA, UK",Burton Joyce,Nottinghamshire
+BUT,1658,"-1.64384600473,52.8071200289","DE14 2DA, UK",Burton-On-Trent,Staffordshire
+BSE,7008,"0.712311257471,52.2516163565","IP32 6AD, UK",Bury St.Edmunds,Suffolk
+BUS,9791,"-4.26058603581,55.7780557368","G76 8JB, UK",Busby,East Renfrewshire
+BHK,6913,"-0.06892875,51.6416334","EN1 1BA, UK",Bush Hill Park,Greater London
+BSH,1395,"-0.384015257727,51.6454897264","WD19 4EA, UK",Bushey,Hertfordshire
+BUL,1179,"-1.8381527532,52.5925882418","B74 4RT, UK",Butlers Lane,West Midlands
+BPC,4409,"-4.33962346985,52.9055326149","LL53 6HJ, UK",Butlins Penychain,Gwynedd - Gwynedd
+BXD,5324,"0.132064525,50.9899526","TN22 4LA, UK",Buxted,East Sussex
+BUX,2946,"-1.91023770906,53.2619165155","SK17 6AQ, UK",Buxton,Derbyshire
+BFN,5689,"-0.481122983317,51.3496126657","KT15 3LQ, UK",Byfleet & New Haw,Surrey
+BYE,4124,"-4.09913076063,51.6724191594","SA14 9TL, UK",Bynea,Carmarthenshire - Sir Gaerfyrddin
+CAD,3811,"-3.24903563333,51.4126595927","CF63 2JP, UK",Cadoxton,The Vale Of Glamorgan - Bro Morgannwg
+CGW,2536,"-3.03306580895,53.1086204442","LL12 9DU, UK",Caergwrle,Flintshire - Sir Y Fflint
+CPH,3812,"-3.219637919,51.5726402868","CF83 1JR, UK",Caerphilly,Caerphilly - Caerffili
+CWS,4412,"-3.43433742666,52.5155664461","SY17 5HH, UK",Caersws,Powys - Powys
 CAC,992,?,"MI6 7RJ , UK",Caldercruix,North Lanarkshire
 CDT,3680,?,"NP6 4BU, UK",Caldicot,Monmouthshire - Sir Fynwy
-CIR,1439,?,"N1 1DF, UK",Caledonian Road & Barnsbury,Greater London
-CSK,3562,?,"PL18 9QY, UK",Calstock,Cornwall And Isles Of Scilly
-CDU,3238,?,"GL11 5DJ, UK",Cam & Dursley,Gloucestershire
-CAM,5682,?,"GU15 3RR, UK",Camberley,Surrey
-CBN,3504,?,"TR14 8SR, UK",Camborne,Cornwall And Isles Of Scilly
-CBG,7022,?,"CB1 2JW, UK",Cambridge,Cambridgeshire
-CBH,6962,?,"E2 9EG, UK",Cambridge Heath,Greater London
-CBL,9768,?,"G72 7EL, UK",Cambuslang,South Lanarkshire
-CMD,1440,?,"NW1 9LS, UK",Camden Road,Greater London
-CMO,9878,?,"FK1 4JW, UK",Camelon,Falkirk
+CIR,1439,"-0.113803236408,51.5431631927","N1 1DF, UK",Caledonian Road & Barnsbury,Greater London
+CSK,3562,"-4.2127654,50.4984019","PL18 9QY, UK",Calstock,Cornwall And Isles Of Scilly
+CDU,3238,"-2.3593185,51.7176425","GL11 5DJ, UK",Cam & Dursley,Gloucestershire
+CAM,5682,"-0.74393770828,51.3364676664","GU15 3RR, UK",Camberley,Surrey
+CBN,3504,"-5.29735585,50.2106763","TR14 8SR, UK",Camborne,Cornwall And Isles Of Scilly
+CBG,7022,"0.1367545,52.1949136","CB1 2JW, UK",Cambridge,Cambridgeshire
+CBH,6962,"-0.0585129698008,51.5321660355","E2 9EG, UK",Cambridge Heath,Greater London
+CBL,9768,"-4.16861069414,55.8188801388","G72 7EL, UK",Cambuslang,South Lanarkshire
+CMD,1440,"-0.139067934069,51.541832175","NW1 9LS, UK",Camden Road,Greater London
+CMO,9878,"-3.82939439265,56.0066422203","FK1 4JW, UK",Camelon,Falkirk
 CAW,1659,?,"SE16 2YS , UK",Canada Water,Greater London
-CNL,1129,?,"CV5 6BH, UK",Canley,West Midlands
-CAO,1016,?,"WS11 8NQ, UK",Cannock,Staffordshire
-CST,5142,?,"EC4N 6AP, UK",Cannon Street,Greater London
-CNN,1441,?,"N1 2PG, UK",Canonbury,Greater London
-CBE,5164,?,"CT1 2RB, UK",Canterbury East,Kent
-CBW,5007,?,"CT2 8AN, UK",Canterbury West,Kent
-CNY,7292,?,"NR13 3SQ, UK",Cantley,Norfolk
-CPU,2186,?,"CH1 6HE, UK",Capenhurst,Cheshire
-CBB,3542,?,"TR26 2NN, UK",Carbis Bay,Cornwall And Isles Of Scilly
-CDD,9112,?,"KY5 0BP, UK",Cardenden,Fife
-CDB,3815,?,"CF10 5LE, UK",Cardiff Bay,Cardiff - Caerdydd
-CDF,3899,?,"CF10 1EP, UK",Cardiff Central,Cardiff - Caerdydd
+CNL,1129,"-1.54583333173,52.4005647917","CV5 6BH, UK",Canley,West Midlands
+CAO,1016,"-2.01171768919,52.684285355","WS11 8NQ, UK",Cannock,Staffordshire
+CST,5142,"-0.0898168185952,51.5109981225","EC4N 6AP, UK",Cannon Street,Greater London
+CNN,1441,"-0.0925614320746,51.5480581405","N1 2PG, UK",Canonbury,Greater London
+CBE,5164,"1.07685957115,51.2744132562","CT1 2RB, UK",Canterbury East,Kent
+CBW,5007,"1.07591023754,51.2842216959","CT2 8AN, UK",Canterbury West,Kent
+CNY,7292,"1.51451638393,52.5799975362","NR13 3SQ, UK",Cantley,Norfolk
+CPU,2186,"-2.94996000317,53.2576934549","CH1 6HE, UK",Capenhurst,Cheshire
+CBB,3542,"-5.46313134735,50.1975377324","TR26 2NN, UK",Carbis Bay,Cornwall And Isles Of Scilly
+CDD,9112,"-3.26046740639,56.1427268824","KY5 0BP, UK",Cardenden,Fife
+CDB,3815,"-3.16671047571,51.4667315629","CF10 5LE, UK",Cardiff Bay,Cardiff - Caerdydd
+CDF,3899,"-3.17940350983,51.4759871811","CF10 1EP, UK",Cardiff Central,Cardiff - Caerdydd
 CDQ,3900,?,"CF10 4EY, UK",Cardiff Queen Street,Cardiff - Caerdydd
-CDO,9624,?,"G52 2DE, UK",Cardonald,Glasgow City
-CDR,9969,?,"G82 5NL, UK",Cardross,Argyll And Bute
-CRF,9877,?,"ML1 5AU, UK",Carfin,North Lanarkshire
-CAK,1964,?,"LA11 7NL, UK",Cark & Cartmel,Cumbria
-CAR,2118,?,"CA1 1QZ, UK",Carlisle,Cumbria
-CTO,6201,?,"NG4 2FD, UK",Carlton,Nottinghamshire
-CLU,9702,?,"ML8 5AA, UK",Carluke,South Lanarkshire
-CMN,4068,?,"SA31 2BE, UK",Carmarthen,Carmarthenshire - Sir Gaerfyrddin
-CML,9769,?,"G32 8YS, UK",Carmyle,Glasgow City
-CNF,2640,?,"LA5 9ET, UK",Carnforth,Lancashire
-CAN,9028,?,"DD7 6AY, UK",Carnoustie,Angus
-CAY,9897,?,"G32 6AW, UK",Carntyne,Glasgow City
-CPK,1442,?,"WD19 7DT, UK",Carpenders Park,Hertfordshire
-CAG,8621,?,"PH23 3AJ, UK",Carrbridge,Highland
-CSH,5405,?,"SM5 2HW, UK",Carshalton,Greater London
-CSB,5406,?,"SM5 3RF, UK",Carshalton Beeches,Greater London
-CRS,9704,?,"ML11 8PR, UK",Carstairs,South Lanarkshire
-CDY,9680,?,"PA15 2TG, UK",Cartsdyke,Inverclyde
-CBP,3098,?,"W13 0DH, UK",Castle Bar Park,Greater London
-CLC,5703,?,"BA7 7PE, UK",Castle Cary,Somerset
-CFD,8359,?,"WF10 5DN, UK",Castleford,West Yorkshire
-CAS,2919,?,"OL11 3EB, UK",Castleton,Greater Manchester
-CSM,7914,?,"YO21 2EU, UK",Castleton Moor,North Yorkshire
-CAT,5351,?,"CR3 6LB, UK",Caterham,Surrey
-CTF,5077,?,"SE6 4XT, UK",Catford,Greater London
-CFB,5047,?,"SE6 4RH, UK",Catford Bridge,Greater London
-CYS,3820,?,"CF10 3LU, UK",Cathays,Cardiff - Caerdydd
-CCT,9795,?,"G44 4ED, UK",Cathcart,Glasgow City
+CDO,9624,"-4.34172438934,55.8495254613","G52 2DE, UK",Cardonald,Glasgow City
+CDR,9969,"-4.65192843534,55.9614339901","G82 5NL, UK",Cardross,Argyll And Bute
+CRF,9877,"-3.95946503991,55.8108966212","ML1 5AU, UK",Carfin,North Lanarkshire
+CAK,1964,"-2.97271637707,54.1818967507","LA11 7NL, UK",Cark & Cartmel,Cumbria
+CAR,2118,"-2.93323347633,54.8906188","CA1 1QZ, UK",Carlisle,Cumbria
+CTO,6201,"-1.0785687,52.9651863","NG4 2FD, UK",Carlton,Nottinghamshire
+CLU,9702,"-3.84880323724,55.7312077424","ML8 5AA, UK",Carluke,South Lanarkshire
+CMN,4068,"-4.3066614841,51.8534073537","SA31 2BE, UK",Carmarthen,Carmarthenshire - Sir Gaerfyrddin
+CML,9769,"-4.15314051175,55.8373332656","G32 8YS, UK",Carmyle,Glasgow City
+CNF,2640,"-2.77186080583,54.1288861099","LA5 9ET, UK",Carnforth,Lancashire
+CAN,9028,"-2.69969393993,56.5012882615","DD7 6AY, UK",Carnoustie,Angus
+CAY,9897,"-4.18003285209,55.8584020806","G32 6AW, UK",Carntyne,Glasgow City
+CPK,1442,"-0.385522923906,51.6278604667","WD19 7DT, UK",Carpenders Park,Hertfordshire
+CAG,8621,"-3.81149066857,57.2779959944","PH23 3AJ, UK",Carrbridge,Highland
+CSH,5405,"-0.16495326257,51.3679183771","SM5 2HW, UK",Carshalton,Greater London
+CSB,5406,"-0.169481966516,51.357386861","SM5 3RF, UK",Carshalton Beeches,Greater London
+CRS,9704,"-3.67005939375,55.6924131995","ML11 8PR, UK",Carstairs,South Lanarkshire
+CDY,9680,"-4.73060011458,55.9426906648","PA15 2TG, UK",Cartsdyke,Inverclyde
+CBP,3098,"-0.328858727398,51.522783382","W13 0DH, UK",Castle Bar Park,Greater London
+CLC,5703,"-2.52278367717,51.1001052509","BA7 7PE, UK",Castle Cary,Somerset
+CFD,8359,"-1.3633584422,53.7206371667","WF10 5DN, UK",Castleford,West Yorkshire
+CAS,2919,"-2.17910162829,53.5933305084","OL11 3EB, UK",Castleton,Greater Manchester
+CSM,7914,"-0.945311591434,54.4668052782","YO21 2EU, UK",Castleton Moor,North Yorkshire
+CAT,5351,"-0.0782873319151,51.2820637687","CR3 6LB, UK",Caterham,Surrey
+CTF,5077,"-0.0270044640821,51.4441381108","SE6 4XT, UK",Catford,Greater London
+CFB,5047,"-0.0258021675836,51.4456556232","SE6 4RH, UK",Catford Bridge,Greater London
+CYS,3820,"-3.17829699747,51.488421105","CF10 3LU, UK",Cathays,Cardiff - Caerdydd
+CCT,9795,"-4.26066309231,55.8176444622","G44 4ED, UK",Cathcart,Glasgow City
 CTL,8232,?,"YO5 8EB, UK",Cattal,North Yorkshire
-CAU,3568,?,"PL14 4ST, UK",Causeland,Cornwall And Isles Of Scilly
-CYB,2425,?,"LL12 9UU, UK",Cefn-Y-Bedd,Flintshire - Sir Y Fflint
-CTH,6874,?,"RM6 4BU, UK",Chadwell Heath,Greater London
-CFH,7447,?,"RM16 6QQ, UK",Chafford Hundred,Thurrock
-CFO,539,?,"HP7 9PR, UK",Chalfont & Latimer,Buckinghamshire
-CHW,7469,?,"SS0 8PX, UK",Chalkwell,Southend-On-Sea
-CFR,5836,?,"SO53 4DE, UK",Chandlers Ford,Hampshire
-CEF,2762,?,"SK23 0XT, UK",Chapel-En-Le-Frith,Derbyshire
-CPN,5820,?,"EX37 9DZ, UK",Chapelton,Devon
-CLN,6664,?,"S35 2UU, UK",Chapeltown,South Yorkshire
-CWC,7051,?,"CO6 2DS, UK",Chappel & Wakes Colne,Essex
-CHG,5097,?,"TN27 0JA, UK",Charing,Kent
-CHX,5143,?,"WC2N 5HF, UK",Charing Cross,Greater London
-CHC,9911,?,"G2 3HW, UK",Charing Cross (Glasgow),Glasgow City
-CBY,3004,?,"OX7 3HH, UK",Charlbury,Oxfordshire
-CTN,5144,?,"SE7 7QG, UK",Charlton,Greater London
-CRT,5008,?,"CT4 7HT, UK",Chartham,Kent
-CSR,2947,?,"M41 9DY, UK",Chassen Road,Greater Manchester
-CTE,9707,?,"ML3 7UD, UK",Chatelherault,South Lanarkshire
-CTM,5199,?,"ME4 6PN, UK",Chatham,Medway
-CHT,7792,?,"NE67 5DE, UK",Chathill,Northumberland
-CHU,2870,?,"SK8 5AF, UK",Cheadle Hulme,Greater Manchester
-CHE,5352,?,"SM2 7AJ, UK",Cheam,Greater London
-CED,1372,?,"LU7 0SQ, UK",Cheddington,Buckinghamshire
-CEL,2764,?,"SK11 9AX, UK",Chelford,Cheshire
-CHM,6836,?,"CM1 1HT, UK",Chelmsford,Essex
-CLD,5098,?,"BR6 6EU, UK",Chelsfield,Greater London
-CNM,4731,?,"GL51 8NP, UK",Cheltenham Spa,Gloucestershire
-CPW,3774,?,"NP16 5PD, UK",Chepstow,Monmouthshire - Sir Fynwy
-CYT,2573,?,"BB2 2TZ, UK",Cherry Tree,Blackburn With Darwen
-CHY,5553,?,"KT16 9BG, UK",Chertsey,Surrey
-CHN,6814,?,"EN8 9AQ, UK",Cheshunt,Hertfordshire
-CSN,5582,?,"KT9 2RT, UK",Chessington North,Greater London
-CSS,5554,?,"KT9 2JR, UK",Chessington South,Greater London
-CTR,2412,?,"CH1 3NS, UK",Chester,Cheshire
-CRD,1130,?,"B73 5JS, UK",Chester Road,West Midlands
-CLS,7736,?,"DH3 3EE, UK",Chester-Le-Street,Durham
-CHD,6615,?,"S41 7UB, UK",Chesterfield,Derbyshire
-CSW,5200,?,"CT5 3JB, UK",Chestfield & Swalecliffe,Kent
-CNO,5840,?,"DT9 6EP, UK",Chetnole,Dorset
-CCH,5255,?,"PO19 8DL, UK",Chichester,West Sussex
-CIL,5009,?,"CT4 8EG, UK",Chilham,Kent
+CAU,3568,"-4.45623472619,50.4125684613","PL14 4ST, UK",Causeland,Cornwall And Isles Of Scilly
+CYB,2425,"-3.03041751725,53.0984494069","LL12 9UU, UK",Cefn-Y-Bedd,Flintshire - Sir Y Fflint
+CTH,6874,"0.128152867094,51.5679208396","RM6 4BU, UK",Chadwell Heath,Greater London
+CFH,7447,"0.28762455855,51.4856507603","RM16 6QQ, UK",Chafford Hundred,Thurrock
+CFO,539,"-0.561041671429,51.6679374714","HP7 9PR, UK",Chalfont & Latimer,Buckinghamshire
+CHW,7469,"0.670991239086,51.5391211785","SS0 8PX, UK",Chalkwell,Southend-On-Sea
+CFR,5836,"-1.38470225469,50.9818329095","SO53 4DE, UK",Chandlers Ford,Hampshire
+CEF,2762,"-1.91548495019,53.3151426078","SK23 0XT, UK",Chapel-En-Le-Frith,Derbyshire
+CPN,5820,"-4.02392370987,51.0142338938","EX37 9DZ, UK",Chapelton,Devon
+CLN,6664,"-1.46546908655,53.4617763511","S35 2UU, UK",Chapeltown,South Yorkshire
+CWC,7051,"0.759900947193,51.9255637748","CO6 2DS, UK",Chappel & Wakes Colne,Essex
+CHG,5097,"0.792103029089,51.2087467819","TN27 0JA, UK",Charing,Kent
+CHX,5143,"-0.124107702246,51.5077401072","WC2N 5HF, UK",Charing Cross,Greater London
+CHC,9911,"-4.26513501953,55.8654565556","G2 3HW, UK",Charing Cross (Glasgow),Glasgow City
+CBY,3004,"-1.49092758674,51.8725147894","OX7 3HH, UK",Charlbury,Oxfordshire
+CTN,5144,"0.0309560450846,51.4868349839","SE7 7QG, UK",Charlton,Greater London
+CRT,5008,"1.01742075451,51.2574495448","CT4 7HT, UK",Chartham,Kent
+CSR,2947,"-2.36813206682,53.4449126412","M41 9DY, UK",Chassen Road,Greater Manchester
+CTE,9707,"-4.00346270509,55.7655131384","ML3 7UD, UK",Chatelherault,South Lanarkshire
+CTM,5199,"0.5212375,51.3804043","ME4 6PN, UK",Chatham,Medway
+CHT,7792,"-1.70620579789,55.5360959056","NE67 5DE, UK",Chathill,Northumberland
+CHU,2870,"-2.18916424031,53.3769362555","SK8 5AF, UK",Cheadle Hulme,Greater Manchester
+CHE,5352,"-0.21216915,51.3551897","SM2 7AJ, UK",Cheam,Greater London
+CED,1372,"-0.662012720578,51.8572239558","LU7 0SQ, UK",Cheddington,Buckinghamshire
+CEL,2764,"-2.28199066857,53.2709020602","SK11 9AX, UK",Chelford,Cheshire
+CHM,6836,"0.468707688188,51.7364665024","CM1 1HT, UK",Chelmsford,Essex
+CLD,5098,"0.107600713001,51.3564785846","BR6 6EU, UK",Chelsfield,Greater London
+CNM,4731,"-2.09983115207,51.8970437333","GL51 8NP, UK",Cheltenham Spa,Gloucestershire
+CPW,3774,"-2.67184370818,51.6399037683","NP16 5PD, UK",Chepstow,Monmouthshire - Sir Fynwy
+CYT,2573,"-2.51533419897,53.7355017857","BB2 2TZ, UK",Cherry Tree,Blackburn With Darwen
+CHY,5553,"-0.509453272879,51.3872857851","KT16 9BG, UK",Chertsey,Surrey
+CHN,6814,"-0.0239960561051,51.7030372513","EN8 9AQ, UK",Cheshunt,Hertfordshire
+CSN,5582,"-0.29899629629,51.3638625064","KT9 2RT, UK",Chessington North,Greater London
+CSS,5554,"-0.308031796594,51.3565635068","KT9 2JR, UK",Chessington South,Greater London
+CTR,2412,"-2.8807969,53.1967267","CH1 3NS, UK",Chester,Cheshire
+CRD,1130,"-1.83317644387,52.5356631639","B73 5JS, UK",Chester Road,West Midlands
+CLS,7736,"-1.57803147375,54.8545507438","DH3 3EE, UK",Chester-Le-Street,Durham
+CHD,6615,"-1.41995056551,53.2382651977","S41 7UB, UK",Chesterfield,Derbyshire
+CSW,5200,"1.06757143652,51.359537152","CT5 3JB, UK",Chestfield & Swalecliffe,Kent
+CNO,5840,"-2.51502839901,50.8980823914","DT9 6EP, UK",Chetnole,Dorset
+CCH,5255,"-0.781683533333,50.8320248","PO19 8DL, UK",Chichester,West Sussex
+CIL,5009,"0.975697400732,51.2447797298","CT4 8EG, UK",Chilham,Kent
 CHL,5296,?,"GU4 6TT, UK",Chilworth,Surrey
-CHI,6914,?,"E4 6AL, UK",Chingford,Greater London
+CHI,6914,"0.00943094190735,51.6325450463","E4 6AL, UK",Chingford,Greater London
 CLY,2823,?,"SK12 6AA, UK",Chinley,Derbyshire
-CPM,3267,?,"SN15 3QE, UK",Chippenham,Wiltshire
+CPM,3267,"-2.11552114195,51.4624295299","SN15 3QE, UK",Chippenham,Wiltshire
 CHP,5353,?,"CR3 3TD, UK",Chipstead,Surrey
-CRK,4449,?,"LL14 5LU, UK",Chirk,Wrexham - Wrecsam
-CIT,5099,?,"BR7 5NN, UK",Chislehurst,Greater London
-CHK,5583,?,"W4 3HB, UK",Chiswick,Greater London
-CHO,3031,?,"OX10 9QD, UK",Cholsey,Oxfordshire
-CRL,2745,?,"PR7 1BS, UK",Chorley,Lancashire
-CLW,546,?,"WD3 5ND, UK",Chorleywood,Hertfordshire
-CHH,5319,?,"RH13 0ND, UK",Christ's Hospital,West Sussex
-CHR,5879,?,"BH23 1PL, UK",Christchurch,Dorset
-CTW,2556,?,"BB5 0DP, UK",Church & Oswaldtwistle,Lancashire
-CHF,8233,?,"LS24 9RA, UK",Church Fenton,North Yorkshire
-CTT,4365,?,"SY6 6PG, UK",Church Stretton,Shropshire
-CIM,3785,?,"LD2 3NU, UK",Cilmeri,Powys - Powys
-CTK,5121,?,"EC4M 7JH, UK",City Thameslink,Greater London
-CLT,6850,?,"CO15 6PU, UK",Clacton,Essex
-CLA,5555,?,"GU4 7TE, UK",Clandon,Surrey
-CPY,2653,?,"LA2 8DX, UK",Clapham (North Yorkshire),North Yorkshire
-CLP,5301,?,"SW4 6EU, UK",Clapham High Street,Greater London
+CRK,4449,"-3.06167945914,52.932820576","LL14 5LU, UK",Chirk,Wrexham - Wrecsam
+CIT,5099,"0.0581567812806,51.4051719289","BR7 5NN, UK",Chislehurst,Greater London
+CHK,5583,"-0.267907510229,51.4811276716","W4 3HB, UK",Chiswick,Greater London
+CHO,3031,"-1.15683755768,51.5695468553","OX10 9QD, UK",Cholsey,Oxfordshire
+CRL,2745,"-2.62821374322,53.6522620818","PR7 1BS, UK",Chorley,Lancashire
+CLW,546,"-0.518319473853,51.6542659897","WD3 5ND, UK",Chorleywood,Hertfordshire
+CHH,5319,"-0.365276019177,51.0480383038","RH13 0ND, UK",Christ's Hospital,West Sussex
+CHR,5879,"-1.78366734162,50.7382589425","BH23 1PL, UK",Christchurch,Dorset
+CTW,2556,"-2.39174989967,53.751267282","BB5 0DP, UK",Church & Oswaldtwistle,Lancashire
+CHF,8233,"-1.22738017116,53.8263610374","LS24 9RA, UK",Church Fenton,North Yorkshire
+CTT,4365,"-2.8023663558,52.5372655617","SY6 6PG, UK",Church Stretton,Shropshire
+CIM,3785,"-3.45841731537,52.151571512","LD2 3NU, UK",Cilmeri,Powys - Powys
+CTK,5121,"-0.1033662,51.5139473","EC4M 7JH, UK",City Thameslink,Greater London
+CLT,6850,"1.154003,51.7938957","CO15 6PU, UK",Clacton,Essex
+CLA,5555,"-0.503376661906,51.2611751743","GU4 7TE, UK",Clandon,Surrey
+CPY,2653,"-2.39272078834,54.1257500985","LA2 8DX, UK",Clapham (North Yorkshire),North Yorkshire
+CLP,5301,"-0.13401185242,51.4660069756","SW4 6EU, UK",Clapham High Street,Greater London
 CLJ,5595,?,"SW11 1SP, UK",Clapham Junction,Greater London
-CPT,6926,?,"E5 9JP, UK",Clapton,Greater London
-CLR,4069,?,"SA63 4UH, UK",Clarbeston Road,Pembrokeshire - Sir Benfro
-CKS,9792,?,"G44 3BP, UK",Clarkston,East Renfrewshire
-CLV,4593,?,"CV35 8PE, UK",Claverdon,Warwickshire
-CLG,5556,?,"KT10 0PB, UK",Claygate,Surrey
-CLE,6274,?,"DN35 8AX, UK",Cleethorpes,North East Lincolnshire
-CEA,9718,?,"ML1 5RR, UK",Cleland,North Lanarkshire
-CLI,2795,?,"M27 8LL, UK",Clifton,Greater Manchester
-CFN,3202,?,"BS8 2PN, UK",Clifton Down,Bristol City Of
-CLH,2574,?,"BB7 2ED, UK",Clitheroe,Lancashire
-CLK,5048,?,"BR3 4HJ, UK",Clock House,Greater London
-CUW,4070,?,"SA66 7NG, UK",Clunderwen,Pembrokeshire - Sir Benfro
-CYK,9855,?,"G81 1RT, UK",Clydebank,West Dunbartonshire
-CBC,9747,?,"ML5 1RL, UK",Coatbridge Central,North Lanarkshire
-CBS,9752,?,"ML5 2DF, UK",Coatbridge Sunnyside,North Lanarkshire
-COA,9762,?,"ML6 0LZ, UK",Coatdyke,North Lanarkshire
-CSD,5557,?,"KT11 3BW, UK",Cobham & Stoke D'abernon,Surrey
-CSL,4616,?,"WV8 1BY, UK",Codsall,Staffordshire
-CGN,3828,?,"CF64 2NS, UK",Cogan,The Vale Of Glamorgan - Bro Morgannwg
-COL,6861,?,"CO1 1XD, UK",Colchester,Essex
-CET,6853,?,"CO2 7EF, UK",Colchester Town,Essex
-CEH,9882,?,"B46 1DA, UK",Coleshill Parkway,Warwickshire
-CLM,6349,?,"NG23 7RB, UK",Collingham,Nottinghamshire
-CLL,5457,?,"TN39 3EW, UK",Collington,East Sussex
-CNE,2562,?,"BB8 9NX, UK",Colne,Lancashire
-CWL,4876,?,"WR13 6RN, UK",Colwall,Herefordshire County Of
-CWB,2451,?,"LL29 8DF, UK",Colwyn Bay,Conwy - Conwy
+CPT,6926,"-0.0569094515126,51.5612989447","E5 9JP, UK",Clapton,Greater London
+CLR,4069,"-4.88064779998,51.8519496401","SA63 4UH, UK",Clarbeston Road,Pembrokeshire - Sir Benfro
+CKS,9792,"-4.26528769526,55.8148181432","G44 3BP, UK",Clarkston,East Renfrewshire
+CLV,4593,"-1.70097076859,52.2794135239","CV35 8PE, UK",Claverdon,Warwickshire
+CLG,5556,"-0.348255227471,51.3610063966","KT10 0PB, UK",Claygate,Surrey
+CLE,6274,"-0.0292779349412,53.561977678","DN35 8AX, UK",Cleethorpes,North East Lincolnshire
+CEA,9718,"-3.91116894008,55.8039731055","ML1 5RR, UK",Cleland,North Lanarkshire
+CLI,2795,"-2.31558501691,53.5216447974","M27 8LL, UK",Clifton,Greater Manchester
+CFN,3202,"-2.61167392436,51.4645250366","BS8 2PN, UK",Clifton Down,Bristol City Of
+CLH,2574,"-2.39882458418,53.8719977277","BB7 2ED, UK",Clitheroe,Lancashire
+CLK,5048,"-0.0390843805545,51.4045452726","BR3 4HJ, UK",Clock House,Greater London
+CUW,4070,"-4.73115783651,51.8404990073","SA66 7NG, UK",Clunderwen,Pembrokeshire - Sir Benfro
+CYK,9855,"-4.40492265199,55.9011452096","G81 1RT, UK",Clydebank,West Dunbartonshire
+CBC,9747,"-4.03476041052,55.8643864569","ML5 1RL, UK",Coatbridge Central,North Lanarkshire
+CBS,9752,"-4.02812515486,55.8689265772","ML5 2DF, UK",Coatbridge Sunnyside,North Lanarkshire
+COA,9762,"-4.00660410443,55.8662957588","ML6 0LZ, UK",Coatdyke,North Lanarkshire
+CSD,5557,"-0.388063058696,51.3195030706","KT11 3BW, UK",Cobham & Stoke D'abernon,Surrey
+CSL,4616,"-2.20140026653,52.6287022135","WV8 1BY, UK",Codsall,Staffordshire
+CGN,3828,"-3.19041615459,51.4455150184","CF64 2NS, UK",Cogan,The Vale Of Glamorgan - Bro Morgannwg
+COL,6861,"0.888655669473,51.9020308981","CO1 1XD, UK",Colchester,Essex
+CET,6853,"0.9040615,51.886411","CO2 7EF, UK",Colchester Town,Essex
+CEH,9882,"-1.70892870976,52.5232630962","B46 1DA, UK",Coleshill Parkway,Warwickshire
+CLM,6349,"-0.751991043818,53.1436622693","NG23 7RB, UK",Collingham,Nottinghamshire
+CLL,5457,"0.464085590412,50.8414939346","TN39 3EW, UK",Collington,East Sussex
+CNE,2562,"-2.18423003306,53.8545433028","BB8 9NX, UK",Colne,Lancashire
+CWL,4876,"-2.35678,52.0798345","WR13 6RN, UK",Colwall,Herefordshire County Of
+CWB,2451,"-3.72559101137,53.2965766981","LL29 8DF, UK",Colwyn Bay,Conwy - Conwy
 CME,3005,?,"OX8 7YG, UK",Combe,Oxfordshire
-COM,7515,?,"YO21 2HN, UK",Commondale,North Yorkshire
-CNG,1227,?,"CW12 3DE, UK",Congleton,Cheshire
-CNS,6488,?,"DN12 3DX, UK",Conisbrough,South Yorkshire
-CON,8708,?,"PA37 1PA, UK",Connel Ferry,Argyll And Bute
-CEY,8470,?,"BD20 8HY, UK",Cononley,North Yorkshire
-CNP,3624,?,"CH41 4PP, UK",Conway Park,Merseyside
-CNW,2486,?,"LL32 8LD, UK",Conwy,Conwy - Conwy
-COB,5458,?,"TN39 4TT, UK",Cooden Beach,East Sussex
-COO,3019,?,"SL6 9BP, UK",Cookham,Windsor And Maidenhead
-CBR,5336,?,"BN7 3QG, UK",Cooksbridge,East Sussex
+COM,7515,"-0.97798110783,54.4815499738","YO21 2HN, UK",Commondale,North Yorkshire
+CNG,1227,"-2.19387553813,53.1575729813","CW12 3DE, UK",Congleton,Cheshire
+CNS,6488,"-1.22568654821,53.4864854662","DN12 3DX, UK",Conisbrough,South Yorkshire
+CON,8708,"-5.38541171683,56.4528274961","PA37 1PA, UK",Connel Ferry,Argyll And Bute
+CEY,8470,"-2.05083203789,53.918361732","BD20 8HY, UK",Cononley,North Yorkshire
+CNP,3624,"-3.02270073467,53.3933346208","CH41 4PP, UK",Conway Park,Merseyside
+CNW,2486,"-3.82750165089,53.2802607549","LL32 8LD, UK",Conwy,Conwy - Conwy
+COB,5458,"0.427171117943,50.8334447261","TN39 4TT, UK",Cooden Beach,East Sussex
+COO,3019,"-0.722114413663,51.5574362713","SL6 9BP, UK",Cookham,Windsor And Maidenhead
+CBR,5336,"-0.0140837271491,50.9050343036","BN7 3QG, UK",Cooksbridge,East Sussex
 COE,3570,?,"PL14 7LL, UK",Coombe,Cornwall And Isles Of Scilly
-COP,5821,?,"EX17 5NE, UK",Copplestone,Devon
-CRB,7504,?,"NE45 5AY, UK",Corbridge,Northumberland
-COR,1847,?,"NN17 1UJ, UK",Corby,Northamptonshire
-CKH,9627,?,"G52 1QR, UK",Corkerhill Glasgow,Glasgow City
-CKL,2049,?,"CA28 8AP, UK",Corkickle,Cumbria
-CPA,8824,?,"PH33 7LS, UK",Corpach,Highland
-CRR,8825,?,"PH30 4AA, UK",Corrour,Highland
-COY,3905,?,"CF14 7BW, UK",Coryton,Cardiff - Caerdydd
-CSY,1143,?,"WV14 8XP, UK",Coseley,West Midlands
-COS,4617,?,"WV7 3EY, UK",Cosford,Shropshire
-CSA,5896,?,"PO6 3BD, UK",Cosham,Portsmouth
-CGM,8056,?,"HU16 4QU, UK",Cottingham,East Riding Of Yorkshire
-COT,8505,?,"LS11 0JT, UK",Cottingley,West Yorkshire
-CDS,5408,?,"CR5 3EA, UK",Coulsdon South,Greater London
-CDN,5382,?,"51.3219, -0.134, UK",Coulsdon Town,Greater London
-COV,1030,?,"CV1 2GT, UK",Coventry,West Midlands
-CWN,5409,?,"TN8 7DS, UK",Cowden,Kent
-COW,9185,?,"KY4 9SQ, UK",Cowdenbeath,Fife
-CRA,4639,?,"B64 5AL, UK",Cradley Heath,West Midlands
+COP,5821,"-3.75020338689,50.8127830246","EX17 5NE, UK",Copplestone,Devon
+CRB,7504,"-2.01826805562,54.9669721107","NE45 5AY, UK",Corbridge,Northumberland
+COR,1847,"-0.6880037,52.4888468","NN17 1UJ, UK",Corby,Northamptonshire
+CKH,9627,"-4.33447377175,55.8389140484","G52 1QR, UK",Corkerhill Glasgow,Glasgow City
+CKL,2049,"-3.5811901564,54.5412650261","CA28 8AP, UK",Corkickle,Cumbria
+CPA,8824,"-5.1219492,56.8427424","PH33 7LS, UK",Corpach,Highland
+CRR,8825,"-4.60158902041,56.7921628055","PH30 4AA, UK",Corrour,Highland
+COY,3905,"-3.23054744239,51.5208758026","CF14 7BW, UK",Coryton,Cardiff - Caerdydd
+CSY,1143,"-2.08433271361,52.5451124776","WV14 8XP, UK",Coseley,West Midlands
+COS,4617,"-2.30020183231,52.644944258","WV7 3EY, UK",Cosford,Shropshire
+CSA,5896,"-1.0673273629,50.8419963179","PO6 3BD, UK",Cosham,Portsmouth
+CGM,8056,"-0.404929999752,53.7798477059","HU16 4QU, UK",Cottingham,East Riding Of Yorkshire
+COT,8505,"-1.58623809767,53.7676689553","LS11 0JT, UK",Cottingley,West Yorkshire
+CDS,5408,"-0.13795785,51.31580145","CR5 3EA, UK",Coulsdon South,Greater London
+CDN,5382,"-0.1408616,51.3591837","51.3219, -0.134, UK",Coulsdon Town,Greater London
+COV,1030,"-1.51363999393,52.4009136939","CV1 2GT, UK",Coventry,West Midlands
+CWN,5409,"0.1098987,51.1556848","TN8 7DS, UK",Cowden,Kent
+COW,9185,"-3.34136622035,56.1115492919","KY4 9SQ, UK",Cowdenbeath,Fife
+CRA,4639,"-2.09327117752,52.4699230784","B64 5AL, UK",Cradley Heath,West Midlands
 CGD,9970,?,"G84 7BD, UK",Craigendoran,Argyll And Bute
 CRM,7579,?,"NE23 9EX, UK",Cramlington,Northumberland
-CRV,3634,?,"SY7 9PY, UK",Craven Arms,Shropshire
-CRW,5484,?,"RH10 1JA, UK",Crawley,West Sussex
-CRY,5100,?,"DA1 3PY, UK",Crayford,Greater London
-CDI,5754,?,"EX17 3BY, UK",Crediton,Devon
+CRV,3634,"-2.83585858921,52.4410378517","SY7 9PY, UK",Craven Arms,Shropshire
+CRW,5484,"-0.18710705,51.112301","RH10 1JA, UK",Crawley,West Sussex
+CRY,5100,"0.1732105,51.4465602","DA1 3PY, UK",Crayford,Greater London
+CDI,5754,"-3.64582548936,50.7832397022","EX17 3BY, UK",Crediton,Devon
 CES,6837,?,"CM7 8MS, UK",Cressing,Essex
-CSG,2225,?,"L19 0PE, UK",Cressington,Merseyside
-CWD,1874,?,"S80 4AZ, UK",Creswell (Derbys),Derbyshire
-CRE,1243,?,"CW2 6HR, UK",Crewe,Cheshire
-CKN,5832,?,"TA18 8AL, UK",Crewkerne,Somerset
-CWH,6007,?,"EN2 9EA, UK",Crews Hill,Greater London
-CNR,8826,?,"FK20 8QN, UK",Crianlarich,Stirling
-CCC,4312,?,"LL52 0RW, UK",Criccieth,Gwynedd - Gwynedd
-CRI,1519,?,"NW2 1HL, UK",Cricklewood,Greater London
+CSG,2225,"-2.9121244527,53.3594974569","L19 0PE, UK",Cressington,Merseyside
+CWD,1874,"-1.21529273208,53.2612562702","S80 4AZ, UK",Creswell (Derbys),Derbyshire
+CRE,1243,"-2.4328534,53.0892296","CW2 6HR, UK",Crewe,Cheshire
+CKN,5832,"-2.77912500084,50.8762862151","TA18 8AL, UK",Crewkerne,Somerset
+CWH,6007,"1.3026618,52.3972461","EN2 9EA, UK",Crews Hill,Greater London
+CNR,8826,"-4.61660426016,56.3920249417","FK20 8QN, UK",Crianlarich,Stirling
+CCC,4312,"-4.23747760851,52.918596415","LL52 0RW, UK",Criccieth,Gwynedd - Gwynedd
+CRI,1519,"-0.212064747491,51.558604391","NW2 1HL, UK",Cricklewood,Greater London
 CFF,9778,?,"G42 1AA, UK",Croftfoot,South Lanarkshire
-CFT,5078,?,"SE4 2PH, UK",Crofton Park,Greater London
-CMR,7295,?,"NR27 9EB, UK",Cromer,Norfolk
-CMF,1822,?,"DE4 5JJ, UK",Cromford,Derbyshire
-CKT,9628,?,"G52 3TX, UK",Crookston Glasgow,Glasgow City
+CFT,5078,"-0.0370629880692,51.4545497041","SE4 2PH, UK",Crofton Park,Greater London
+CMR,7295,"1.29254632919,52.929360191","NR27 9EB, UK",Cromer,Norfolk
+CMF,1822,"-1.5488328001,53.1129859125","DE4 5JJ, UK",Cromford,Derbyshire
+CKT,9628,"-4.36631650717,55.8414511697","G52 3TX, UK",Crookston Glasgow,Glasgow City
 CRG,8473,?,"LS15 8BX, UK",Cross Gates,West Yorkshire
-CFL,8554,?,"BD16 2RZ, UK",Crossflatts,West Yorkshire
-COI,9814,?,"G42 8ES, UK",Crosshill,Glasgow City
-CKY,9902,?,"NP11 7BU, UK",Crosskeys,Caerphilly - Caerffili
-CMY,9796,?,"G41 3TW, UK",Crossmyloof,Glasgow City
-CSO,2313,?,"PR26 9SE, UK",Croston,Lancashire
-CRH,7406,?,"N4 4AU, UK",Crouch Hill,Greater London
-COH,5325,?,"TN6 2JR, UK",Crowborough,East Sussex
-CWU,5233,?,"TN33 9DD, UK",Crowhurst,East Sussex
-CWE,6524,?,"DN17 4JS, UK",Crowle,North Lincolnshire
+CFL,8554,"-1.84507066727,53.8579194079","BD16 2RZ, UK",Crossflatts,West Yorkshire
+COI,9814,"-4.25619275381,55.8333468567","G42 8ES, UK",Crosshill,Glasgow City
+CKY,9902,"-3.125862,51.620739","NP11 7BU, UK",Crosskeys,Caerphilly - Caerffili
+CMY,9796,"-4.28273695227,55.8314908762","G41 3TW, UK",Crossmyloof,Glasgow City
+CSO,2313,"-2.77794900628,53.6660338572","PR26 9SE, UK",Croston,Lancashire
+CRH,7406,"-0.116299535064,51.5709003075","N4 4AU, UK",Crouch Hill,Greater London
+COH,5325,"0.18804135,51.04623795","TN6 2JR, UK",Crowborough,East Sussex
+CWU,5233,"0.501807875076,50.8878204088","TN33 9DD, UK",Crowhurst,East Sussex
+CWE,6524,"-0.816066938232,53.5883809837","DN17 4JS, UK",Crowle,North Lincolnshire
 CRN,5628,?,"RG45 0QW, UK",Crowthorne,Bracknell Forest
-CRO,9943,?,"G65 9HT, UK",Croy,North Lanarkshire
-CYP,5356,?,"SE19 2AZ, UK",Crystal Palace,Greater London
-CUD,2305,?,"CW8 2UH, UK",Cuddington,Cheshire
-CUF,6008,?,"EN6 4HY, UK",Cuffley,Hertfordshire
-CUM,3107,?,"OX14 3BT, UK",Culham,Oxfordshire
-CUA,8625,?,"IV27 4ET, UK",Culrain,Highland
-CUB,9721,?,"G67 2UH, UK",Cumbernauld,North Lanarkshire
-CUP,9121,?,"KY15 5HX, UK",Cupar,Fife
+CRO,9943,"-4.04291461443,55.9593599956","G65 9HT, UK",Croy,North Lanarkshire
+CYP,5356,"-0.0725928540627,51.4181703599","SE19 2AZ, UK",Crystal Palace,Greater London
+CUD,2305,"-2.62084892472,53.2468591479","CW8 2UH, UK",Cuddington,Cheshire
+CUF,6008,"-0.107959703648,51.7080256645","EN6 4HY, UK",Cuffley,Hertfordshire
+CUM,3107,"-1.23642726829,51.653784251","OX14 3BT, UK",Culham,Oxfordshire
+CUA,8625,"-4.40147229896,57.9284220964","IV27 4ET, UK",Culrain,Highland
+CUB,9721,"-3.97488289676,55.9459646742","G67 2UH, UK",Cumbernauld,North Lanarkshire
+CUP,9121,"-3.00911963294,56.3172662452","KY15 5HX, UK",Cupar,Fife
 CUH,9218,?,"EH14 4AA, UK",Curriehill,Edinburgh City Of
-CUX,5201,?,"ME2 1AB, UK",Cuxton,Medway
-CMH,3981,?,"CF44 0AG, UK",Cwmbach,Rhondda Cynon Taff - Rhondda Cynon Taf
-CWM,3738,?,"NP44 1QX, UK",Cwmbran,Torfaen - Tor-Faen
-CYN,4147,?,"SA20 0LY, UK",Cynghordy,Carmarthenshire - Sir Gaerfyrddin
+CUX,5201,"0.459792283678,51.3735599284","ME2 1AB, UK",Cuxton,Medway
+CMH,3981,"-3.41353446345,51.7014301348","CF44 0AG, UK",Cwmbach,Rhondda Cynon Taff - Rhondda Cynon Taf
+CWM,3738,"-3.01736953324,51.6589350996","NP44 1QX, UK",Cwmbran,Torfaen - Tor-Faen
+CYN,4147,"-3.7491007,52.049539","SA20 0LY, UK",Cynghordy,Carmarthenshire - Sir Gaerfyrddin
 DDK,7440,?,"RM9 6PT, UK",Dagenham Dock,Greater London
-DSY,2777,?,"BL5 2JQ, UK",Daisy Hill,Greater Manchester
-DAG,9135,?,"KY11 9HZ, UK",Dalgety Bay,Fife
-DAL,8711,?,"PA33 1AY, UK",Dalmally,Argyll And Bute
-DAK,9790,?,"G40 4HG, UK",Dalmarnock,Glasgow City
-DAM,9415,?,"EH30 9JU, UK",Dalmeny,Edinburgh City Of
-DMR,9992,?,"G81 3QT, UK",Dalmuir,West Dunbartonshire
-DLR,9864,?,"G82 4AD, UK",Dalreoch,West Dunbartonshire
-DLY,9483,?,"KA24 4DE, UK",Dalry,North Ayrshire
-DLS,2077,?,"CA5 7LT, UK",Dalston,Cumbria
-DLK,1429,?,"E8 2JS, UK",Dalston (Kingsland),Greater London
-DLJ,1443,?,"E8 3DE , UK",Dalston Junction,Greater London
-DLT,1957,?,"LA15 8QA, UK",Dalton,Cumbria
-DLW,8628,?,"PH19 1AD, UK",Dalwhinnie,Highland
-DNY,7915,?,"YO21 2JL, UK",Danby,North Yorkshire
-DCT,3797,?,"CF5 2RX, UK",Danescourt,Cardiff - Caerdydd
-DZY,4519,?,"B94 5BE, UK",Danzey,Warwickshire
-DAR,7877,?,"DL1 4AA, UK",Darlington,Darlington
-DAN,6729,?,"S9 4JU, UK",Darnall,South Yorkshire
-DSM,7211,?,"IP17 3PN, UK",Darsham,Suffolk
-DFD,5101,?,"DA1 1BP, UK",Dartford,Kent
-DRT,8420,?,"S75 5HX, UK",Darton,South Yorkshire
-DWN,2576,?,"BB3 0DE, UK",Darwen,Blackburn With Darwen
-DAT,5668,?,"SL3 9ED, UK",Datchet,Windsor And Maidenhead
-DVN,2770,?,"SK3 8SA, UK",Davenport,Greater Manchester
-DWL,3408,?,"EX7 9PJ, UK",Dawlish,Devon
-DWW,3409,?,"EX7 0NF, UK",Dawlish Warren,Devon
-DEA,5011,?,"CT14 6HD, UK",Deal,Kent
-DEN,5942,?,"SP5 1JF, UK",Dean,Wiltshire
+DSY,2777,"-2.51587987392,53.5409745631","BL5 2JQ, UK",Daisy Hill,Greater Manchester
+DAG,9135,"-3.35982073429,56.0420242038","KY11 9HZ, UK",Dalgety Bay,Fife
+DAL,8711,"-4.97154844002,56.4021132931","PA33 1AY, UK",Dalmally,Argyll And Bute
+DAK,9790,"-4.21792480106,55.8405408808","G40 4HG, UK",Dalmarnock,Glasgow City
+DAM,9415,"-3.3815859682,55.9862601532","EH30 9JU, UK",Dalmeny,Edinburgh City Of
+DMR,9992,"-4.42679779648,55.9119955416","G81 3QT, UK",Dalmuir,West Dunbartonshire
+DLR,9864,"-4.57895846001,55.9453306834","G82 4AD, UK",Dalreoch,West Dunbartonshire
+DLY,9483,"-4.70965589746,55.7063385858","KA24 4DE, UK",Dalry,North Ayrshire
+DLS,2077,"-2.98873906563,54.846000743","CA5 7LT, UK",Dalston,Cumbria
+DLK,1429,"-0.0759536166058,51.5481619311","E8 2JS, UK",Dalston (Kingsland),Greater London
+DLJ,1443,"-0.0751292211819,51.545970281","E8 3DE , UK",Dalston Junction,Greater London
+DLT,1957,"-3.17561711814,54.1536264769","LA15 8QA, UK",Dalton,Cumbria
+DLW,8628,"-4.24642342688,56.9337062613","PH19 1AD, UK",Dalwhinnie,Highland
+DNY,7915,"-0.910328994919,54.4653568472","YO21 2JL, UK",Danby,North Yorkshire
+DCT,3797,"-3.23445081138,51.5005220502","CF5 2RX, UK",Danescourt,Cardiff - Caerdydd
+DZY,4519,"-1.82139202667,52.3245362549","B94 5BE, UK",Danzey,Warwickshire
+DAR,7877,"-1.54646390679,54.5213894278","DL1 4AA, UK",Darlington,Darlington
+DAN,6729,"-1.41201759825,53.3851936326","S9 4JU, UK",Darnall,South Yorkshire
+DSM,7211,"1.52301523582,52.2735484297","IP17 3PN, UK",Darsham,Suffolk
+DFD,5101,"0.218490085999,51.4471181527","DA1 1BP, UK",Dartford,Kent
+DRT,8420,"-1.53159725675,53.5883595972","S75 5HX, UK",Darton,South Yorkshire
+DWN,2576,"-2.46768442735,53.6996726627","BB3 0DE, UK",Darwen,Blackburn With Darwen
+DAT,5668,"-0.579478656461,51.4831040221","SL3 9ED, UK",Datchet,Windsor And Maidenhead
+DVN,2770,"-2.15276050318,53.3903274766","SK3 8SA, UK",Davenport,Greater Manchester
+DWL,3408,"-3.46466406374,50.5806892582","EX7 9PJ, UK",Dawlish,Devon
+DWW,3409,"-3.44041910459,50.5981313516","EX7 0NF, UK",Dawlish Warren,Devon
+DEA,5011,"1.39943561298,51.2226727465","CT14 6HD, UK",Deal,Kent
+DEN,5942,"-1.63448542427,51.0420383165","SP5 1JF, UK",Dean,Wiltshire
 DGT,2963,?,"M31 1AA, UK",Deansgate,Greater Manchester
-DPD,5412,?,"RH4 7TY, UK",Deepdene,Surrey
-DGY,2480,?,"LL31 9EJ, UK",Deganwy,Conwy - Conwy
-DHN,8441,?,"HD2 1LX, UK",Deighton,West Yorkshire
+DPD,5412,"-0.3242345,51.2387855","RH4 7TY, UK",Deepdene,Surrey
+DGY,2480,"-3.83311145969,53.2949722309","LL31 9EJ, UK",Deganwy,Conwy - Conwy
+DHN,8441,"-1.75240793027,53.6690423598","HD2 1LX, UK",Deighton,West Yorkshire
 DLM,2306,?,"CW8 2JQ, UK",Delamere,Cheshire
-DBD,8432,?,"HD8 8RX, UK",Denby Dale,West Yorkshire
-DNM,3052,?,"UB9 5ES, UK",Denham,Buckinghamshire
-DGC,3060,?,"UB9 5DE, UK",Denham Golf Club,Buckinghamshire
-DMK,5421,?,"SE5 8BB, UK",Denmark Hill,Greater London
-DNT,2103,?,"LA10 5RF, UK",Dent,Cumbria
-DTN,2855,?,"M34 3NS, UK",Denton,Greater Manchester
-DEP,5145,?,"SE8 3NU, UK",Deptford,Greater London
-DBY,1823,?,"DE1 2RU, UK",Derby,Derby
-DBR,7212,?,"IP3 8DN, UK",Derby Road,Suffolk
-DPT,3579,?,"PL1 4QN, UK",Devonport,Plymouth
-DEW,8326,?,"WF13 1HF, UK",Dewsbury,West Yorkshire
-DID,3030,?,"OX11 7NR, UK",Didcot Parkway,Oxfordshire
-DIG,5753,?,"EX2 7AW, UK",Digby and Sowton,Devon
-DMH,5502,?,"BA13 4DF, UK",Dilton Marsh,Wiltshire
-DMG,3901,?,"CF40 2PJ, UK",Dinas (Mid Glamorgan),Rhondda Cynon Taff - Rhondda Cynon Taf
-DNS,3830,?,"CF64 4DH, UK",Dinas Powys,The Vale Of Glamorgan - Bro Morgannwg
-DGL,3861,?,"CF64 1JL, UK",Dingle Road,The Vale Of Glamorgan - Bro Morgannwg
-DIN,8632,?,"IV15 9PZ, UK",Dingwall,Highland
+DBD,8432,"-1.65308492647,53.5736011234","HD8 8RX, UK",Denby Dale,West Yorkshire
+DNM,3052,"-0.497337647688,51.5787813856","UB9 5ES, UK",Denham,Buckinghamshire
+DGC,3060,"-0.519231119042,51.583616099","UB9 5DE, UK",Denham Golf Club,Buckinghamshire
+DMK,5421,"-0.0887276604648,51.4688834672","SE5 8BB, UK",Denmark Hill,Greater London
+DNT,2103,"-2.3716537,54.277966","LA10 5RF, UK",Dent,Cumbria
+DTN,2855,"-2.12671818651,53.4612504577","M34 3NS, UK",Denton,Greater Manchester
+DEP,5145,"-0.0264309105936,51.4794608173","SE8 3NU, UK",Deptford,Greater London
+DBY,1823,"-1.46421346023,52.9168307395","DE1 2RU, UK",Derby,Derby
+DBR,7212,"1.1814896689,52.0490985932","IP3 8DN, UK",Derby Road,Suffolk
+DPT,3579,"-4.17076099838,50.3780970782","PL1 4QN, UK",Devonport,Plymouth
+DEW,8326,"-1.63358487827,53.691774446","WF13 1HF, UK",Dewsbury,West Yorkshire
+DID,3030,"-1.24378584843,51.6114731393","OX11 7NR, UK",Didcot Parkway,Oxfordshire
+DIG,5753,"-3.49091747092,50.7020815878","EX2 7AW, UK",Digby and Sowton,Devon
+DMH,5502,"-2.22634607597,51.2383806941","BA13 4DF, UK",Dilton Marsh,Wiltshire
+DMG,3901,"-3.43575329363,51.6174643744","CF40 2PJ, UK",Dinas (Mid Glamorgan),Rhondda Cynon Taff - Rhondda Cynon Taf
+DNS,3830,"-3.21700473803,51.4329319351","CF64 4DH, UK",Dinas Powys,The Vale Of Glamorgan - Bro Morgannwg
+DGL,3861,"-3.17929328988,51.4399445154","CF64 1JL, UK",Dingle Road,The Vale Of Glamorgan - Bro Morgannwg
+DIN,8632,"-4.4378259,57.5975397","IV15 9PZ, UK",Dingwall,Highland
 DND,7897,?,"DL2 1EP, UK",Dinsdale,Darlington
 DTG,2893,?,"SK13 9EB, UK",Dinting,Derbyshire
-DSL,2765,?,"SK12 2AE, UK",Disley,Cheshire
-DIS,7348,?,"IP22 4HN, UK",Diss,Norfolk
-DOC,3588,?,"PL2 1RX, UK",Dockyard,Plymouth
-DOD,6781,?,"S75 3JX, UK",Dodworth,South Yorkshire
-DOL,4188,?,"LD1 5TG, UK",Dolau,Powys - Powys
-DLH,5036,?,"TN35 4LY, UK",Doleham,East Sussex
-DLG,2538,?,"LL26 0YR, UK",Dolgarrog,Conwy - Conwy
-DWD,2452,?,"LL25 0TJ, UK",Dolwyddelan,Conwy - Conwy
-DON,6417,?,"DN1 1PE, UK",Doncaster,South Yorkshire
-DCH,5961,?,"DT1 1QX, UK",Dorchester South,Dorset
-DCW,5962,?,"DT1 2LB, UK",Dorchester West,Dorset
-DOR,6690,?,"S17 3LB, UK",Dore,South Yorkshire
+DSL,2765,"-2.0398252,53.3584157","SK12 2AE, UK",Disley,Cheshire
+DIS,7348,"1.1236916,52.3736054","IP22 4HN, UK",Diss,Norfolk
+DOC,3588,"-4.17708721608,50.3817114677","PL2 1RX, UK",Dockyard,Plymouth
+DOD,6781,"-1.51719223054,53.547971417","S75 3JX, UK",Dodworth,South Yorkshire
+DOL,4188,"-3.26392738737,52.2942720716","LD1 5TG, UK",Dolau,Powys - Powys
+DLH,5036,"0.615724579446,50.9186098766","TN35 4LY, UK",Doleham,East Sussex
+DLG,2538,"-3.81763434669,53.1862673902","LL26 0YR, UK",Dolgarrog,Conwy - Conwy
+DWD,2452,"-3.88463903299,53.0512968439","LL25 0TJ, UK",Dolwyddelan,Conwy - Conwy
+DON,6417,"-1.13930404533,53.5219783122","DN1 1PE, UK",Doncaster,South Yorkshire
+DCH,5961,"-2.43736750618,50.7091113364","DT1 1QX, UK",Dorchester South,Dorset
+DCW,5962,"-2.44916106141,50.71154226","DT1 2LB, UK",Dorchester West,Dorset
+DOR,6690,"-1.51550734165,53.3284416697","S17 3LB, UK",Dore,South Yorkshire
 DKG,5357,?,"RH4 1TF, UK",Dorking,Surrey
-DKT,5297,?,"RH4 5EE, UK",Dorking West,Surrey
-DMS,5413,?,"RH7 6NL, UK",Dormans,Surrey
-DDG,4525,?,"B93 8JA, UK",Dorridge,West Midlands
-DVH,2766,?,"SK17 8DJ, UK",Dove Holes,Derbyshire
-DVP,5033,?,"CT17 9SB, UK",Dover Priory,Kent
-DVC,6901,?,"CO12 3AG, UK",Dovercourt,Essex
-DVY,4436,?,"SY20 8PZ, UK",Dovey Junction,Powys - Powys
-DOW,7055,?,"PE38 9EN, UK",Downham Market,Norfolk
+DKT,5297,"-0.3398503,51.2363548","RH4 5EE, UK",Dorking West,Surrey
+DMS,5413,"-0.00416555,51.15586555","RH7 6NL, UK",Dormans,Surrey
+DDG,4525,"-1.7532654,52.3730772","B93 8JA, UK",Dorridge,West Midlands
+DVH,2766,"-1.88918823561,53.2974582951","SK17 8DJ, UK",Dove Holes,Derbyshire
+DVP,5033,"1.3053006864,51.1258822643","CT17 9SB, UK",Dover Priory,Kent
+DVC,6901,"1.28036089342,51.9385489143","CO12 3AG, UK",Dovercourt,Essex
+DVY,4436,"-3.90390441016,52.5696682349","SY20 8PZ, UK",Dovey Junction,Powys - Powys
+DOW,7055,"0.365691947767,52.6040346835","PE38 9EN, UK",Downham Market,Norfolk
 DRG,3099,?,"W13 4SW, UK",Drayton Green,Greater London
-DYP,6000,?,"N5 1NT, UK",Drayton Park,Greater London
-DRM,9317,?,"EH39 5LW, UK",Drem,East Lothian
+DYP,6000,"-0.105493429345,51.5525332287","N5 1NT, UK",Drayton Park,Greater London
+DRM,9317,"-2.77666751537,56.0107378769","EH39 5LW, UK",Drem,East Lothian
 DRF,8057,?,"YO25 7PX, UK",Driffield,East Riding Of Yorkshire
-DRI,1994,?,"CA19 1XW, UK",Drigg,Cumbria
-DTW,4878,?,"WR9 9BD, UK",Droitwich Spa,Worcestershire
+DRI,1994,"-3.44420377243,54.3784191682","CA19 1XW, UK",Drigg,Cumbria
+DTW,4878,"-2.1583922427,52.268189207","WR9 9BD, UK",Droitwich Spa,Worcestershire
 DRO,6616,?,"S18 8UH, UK",Dronfield,Derbyshire
 DMC,9994,?,"G13 4PT, UK",Drumchapel,Glasgow City
-DFR,9967,?,"PA15 4BY, UK",Drumfrochar,Inverclyde
-DRU,9757,?,"ML6 8JA, UK",Drumgelloch,North Lanarkshire
-DMY,9993,?,"G31 2LY, UK",Drumry,West Dunbartonshire
-DUD,1040,?,"B7 4ST, UK",Duddeston,West Midlands
-DDP,1212,?,"DY4 8UB, UK",Dudley Port,West Midlands
-DFI,1691,?,"DE56 4EP, UK",Duffield,Derbyshire
-DRN,8681,?,"IV40 8BD, UK",Duirinish,Highland
-DST,9906,?,"G31 1LL, UK",Duke Street,Glasgow City
-DUL,7027,?,"CB8 8UP, UK",Dullingham,Cambridgeshire
+DFR,9967,"-4.77085050192,55.9388881434","PA15 4BY, UK",Drumfrochar,Inverclyde
+DRU,9757,"-3.95034529699,55.8640100383","ML6 8JA, UK",Drumgelloch,North Lanarkshire
+DMY,9993,"-4.2206774154,55.8619171473","G31 2LY, UK",Drumry,West Dunbartonshire
+DUD,1040,"-1.87125725598,52.4886699663","B7 4ST, UK",Duddeston,West Midlands
+DDP,1212,"-2.0518408135,52.5269806305","DY4 8UB, UK",Dudley Port,West Midlands
+DFI,1691,"-1.4866936752,52.9890879931","DE56 4EP, UK",Duffield,Derbyshire
+DRN,8681,"-5.69588161713,57.3161183112","IV40 8BD, UK",Duirinish,Highland
+DST,9906,"-4.20998502993,55.8588023392","G31 1LL, UK",Duke Street,Glasgow City
+DUL,7027,"0.556936360185,52.1687479333","CB8 8UP, UK",Dullingham,Cambridgeshire
 DBC,9866,?,"G82 1PZ, UK",Dumbarton Central,West Dunbartonshire
-DBE,9868,?,"G82 2EP, UK",Dumbarton East,West Dunbartonshire
-DUM,9622,?,"G41 4HE, UK",Dumbreck,Glasgow City
-DMF,9490,?,"DG1 1NF, UK",Dumfries,Dumfries And Galloway
-DMP,5034,?,"CT11 7EW, UK",Dumpton Park,Kent
-DUN,9397,?,"EH42 1JX, UK",Dunbar,East Lothian
-DBL,8713,?,"FK15 9ET, UK",Dunblane,Stirling
-DBG,5944,?,"SO51 0LH, UK",Dunbridge,Hampshire
-DCG,8682,?,"IV52 8TZ, UK",Duncraig,Highland
-DEE,9039,?,"DD1 4BY, UK",Dundee,Dundee City
-DFL,9186,?,"KY12 0GB, UK",Dunfermline,Fife
-DFE,9187,?,"KY12 7HT, UK",Dunfermline Queen Margaret,Fife
-DKD,8763,?,"PH8 0DP, UK",Dunkeld & Birnam,Perth And Kinross
-DNL,9492,?,"KA3 4BZ, UK",Dunlop,East Ayrshire
-DNO,8642,?,"KW10 6SF, UK",Dunrobin Castle,Highland
-DOT,7744,?,"NE11 9SS, UK",Dunston,Tyne And Wear
-DNG,5102,?,"TN13 2XD, UK",Dunton Green,Kent
-DHM,7745,?,"DH1 4RB, UK",Durham,Durham
-DUR,5282,?,"BN12 6BT, UK",Durrington-On-Sea,West Sussex
-DYC,8905,?,"AB21 7EQ, UK",Dyce,Aberdeen City
+DBE,9868,"-4.54780191275,55.9425907054","G82 2EP, UK",Dumbarton East,West Dunbartonshire
+DUM,9622,"-4.29956891648,55.8415129904","G41 4HE, UK",Dumbreck,Glasgow City
+DMF,9490,"-3.60119600795,55.0739585246","DG1 1NF, UK",Dumfries,Dumfries And Galloway
+DMP,5034,"1.42561211351,51.3454319987","CT11 7EW, UK",Dumpton Park,Kent
+DUN,9397,"-2.51290547548,55.9988912017","EH42 1JX, UK",Dunbar,East Lothian
+DBL,8713,"-3.96537872484,56.1863007304","FK15 9ET, UK",Dunblane,Stirling
+DBG,5944,"-1.54775905633,51.0379312532","SO51 0LH, UK",Dunbridge,Hampshire
+DCG,8682,"-5.63355964498,57.3350086741","IV52 8TZ, UK",Duncraig,Highland
+DEE,9039,"-2.96949553187,56.4575359198","DD1 4BY, UK",Dundee,Dundee City
+DFL,9186,"-3.42315444162,56.0809814423","KY12 0GB, UK",Dunfermline,Fife
+DFE,9187,"-3.45253170891,56.0682570242","KY12 7HT, UK",Dunfermline Queen Margaret,Fife
+DKD,8763,"-3.57544987743,56.5569455141","PH8 0DP, UK",Dunkeld & Birnam,Perth And Kinross
+DNL,9492,"-4.52817406843,55.7126736988","KA3 4BZ, UK",Dunlop,East Ayrshire
+DNO,8642,"-3.94545295021,57.9817380594","KW10 6SF, UK",Dunrobin Castle,Highland
+DOT,7744,"-1.6421717,54.950556","NE11 9SS, UK",Dunston,Tyne And Wear
+DNG,5102,"0.1713004,51.2966105","TN13 2XD, UK",Dunton Green,Kent
+DHM,7745,"-1.58169279518,54.7791126962","DH1 4RB, UK",Durham,Durham
+DUR,5282,"-0.411497388169,50.8175184521","BN12 6BT, UK",Durrington-On-Sea,West Sussex
+DYC,8905,"-2.19075144962,57.2123196879","AB21 7EQ, UK",Dyce,Aberdeen City
 DYF,4455,?,"LL42 2EU, UK",Dyffryn Ardudwy,Gwynedd - Gwynedd
-EAG,7916,?,"TS16 0BT, UK",Eaglescliffe,Stockton-On-Tees
-EAL,3190,?,"W5 2NU, UK",Ealing Broadway,Greater London
-ERL,2292,?,"WA12 9AU, UK",Earlestown,Merseyside
-EAR,5694,?,"RG6 7DY, UK",Earley,Wokingham
-EAD,5584,?,"SW18 4SL, UK",Earlsfield,Greater London
-ELD,5414,?,"RH1 6HR, UK",Earlswood (Surrey),Surrey
-EWD,4520,?,"B94 5JS, UK",Earlswood (West Midlands),West Midlands
-ECR,5355,?,"CR0 1LF, UK",East Croydon,Greater London
+EAG,7916,"-1.34879723869,54.5298333226","TS16 0BT, UK",Eaglescliffe,Stockton-On-Tees
+EAL,3190,"-0.301561734402,51.5148643561","W5 2NU, UK",Ealing Broadway,Greater London
+ERL,2292,"-2.63745327418,53.4511676846","WA12 9AU, UK",Earlestown,Merseyside
+EAR,5694,"-0.917811222935,51.4406757505","RG6 7DY, UK",Earley,Wokingham
+EAD,5584,"-0.18938085,51.44428825","SW18 4SL, UK",Earlsfield,Greater London
+ELD,5414,"-0.170949563265,51.226304057","RH1 6HR, UK",Earlswood (Surrey),Surrey
+EWD,4520,"-1.86102090349,52.3672028978","B94 5JS, UK",Earlswood (West Midlands),West Midlands
+ECR,5355,"-0.092841549939,51.3751547007","CR0 1LF, UK",East Croydon,Greater London
 EDY,2949,?,"M20 0WP, UK",East Didsbury,Greater Manchester
-EDW,5358,?,"SE22 8EF, UK",East Dulwich,Greater London
-EFL,5234,?,"ME15 0JH, UK",East Farleigh,Kent
-EGF,8472,?,"LS25 2JW, UK",East Garforth,West Yorkshire
-EGR,5486,?,"RH19 1EB, UK",East Grinstead,West Sussex
-EKL,9793,?,"G74 1AR, UK",East Kilbride,South Lanarkshire
-EML,5134,?,"ME19 6AJ, UK",East Malling,Kent
-EMD,1901,?,"NG11 0EE, UK",East Midlands Parkway,Nottinghamshire
-ETL,7471,?,"RM18 8SB, UK",East Tilbury,Thurrock
-EWR,5283,?,"BN14 8ED, UK",East Worthing,West Sussex
-EBN,5448,?,"BN21 3QJ, UK",Eastbourne,East Sussex
-EBK,3795,?,"CF64 4LD, UK",Eastbrook,The Vale Of Glamorgan - Bro Morgannwg
+EDW,5358,"-0.0805960442813,51.4617764303","SE22 8EF, UK",East Dulwich,Greater London
+EFL,5234,"0.48743856806,51.2547191539","ME15 0JH, UK",East Farleigh,Kent
+EGF,8472,"-1.36771084756,53.7911455359","LS25 2JW, UK",East Garforth,West Yorkshire
+EGR,5486,"-0.0178412,51.1263975","RH19 1EB, UK",East Grinstead,West Sussex
+EKL,9793,"-4.17983012126,55.7654495325","G74 1AR, UK",East Kilbride,South Lanarkshire
+EML,5134,"0.4403874,51.2856611","ME19 6AJ, UK",East Malling,Kent
+EMD,1901,"-1.26315265949,52.862387339","NG11 0EE, UK",East Midlands Parkway,Nottinghamshire
+ETL,7471,"0.420930974457,51.4791267751","RM18 8SB, UK",East Tilbury,Thurrock
+EWR,5283,"-0.355470824259,50.8217873091","BN14 8ED, UK",East Worthing,West Sussex
+EBN,5448,"0.281036143727,50.7694161394","BN21 3QJ, UK",Eastbourne,East Sussex
+EBK,3795,"-3.20729934833,51.4380318592","CF64 4LD, UK",Eastbrook,The Vale Of Glamorgan - Bro Morgannwg
 EST,9894,?,"G34 9HN, UK",Easterhouse,Glasgow City
-ERA,2128,?,"CH62 9AL, UK",Eastham Rake,Merseyside
-ESL,5899,?,"SO50 4FL, UK",Eastleigh,Hampshire
-EGN,8114,?,"DN14 7PX, UK",Eastrington,East Riding Of Yorkshire
-EBB,5566,?,"DA10 1EB , UK",Ebbsfleet International,Kent
-EBV,9915,?,"NP23 8AP, UK",Ebbw Vale Parkway,Blaenau Gwent
-ECC,2950,?,"M30 0DN, UK",Eccles,Greater Manchester
-ECS,7370,?,"NR16 2JG, UK",Eccles Road,Norfolk
-ECL,2227,?,"L35 7JS, UK",Eccleston Park,Merseyside
-EDL,2824,?,"S33 7ZN, UK",Edale,Derbyshire
-EDN,5056,?,"BR3 3DE, UK",Eden Park,Greater London
-EBR,5473,?,"TN8 6HR, UK",Edenbridge,Kent
-EBT,5359,?,"TN8 5LP, UK",Edenbridge Town,Kent
+ERA,2128,"-2.98168246081,53.3059821614","CH62 9AL, UK",Eastham Rake,Merseyside
+ESL,5899,"-1.35018257425,50.9688862221","SO50 4FL, UK",Eastleigh,Hampshire
+EGN,8114,"-0.787675641545,53.7551704552","DN14 7PX, UK",Eastrington,East Riding Of Yorkshire
+EBB,5566,"0.320962148995,51.4429344192","DA10 1EB , UK",Ebbsfleet International,Kent
+EBV,9915,"-3.1968887783,51.7567166599","NP23 8AP, UK",Ebbw Vale Parkway,Blaenau Gwent
+ECC,2950,"-2.3340828,53.4855122","M30 0DN, UK",Eccles,Greater Manchester
+ECS,7370,"0.96973405,52.47183535","NR16 2JG, UK",Eccles Road,Norfolk
+ECL,2227,"-2.77971836171,53.4303778327","L35 7JS, UK",Eccleston Park,Merseyside
+EDL,2824,"-1.81689256627,53.3659888015","S33 7ZN, UK",Edale,Derbyshire
+EDN,5056,"-0.0276498920539,51.3907319183","BR3 3DE, UK",Eden Park,Greater London
+EBR,5473,"0.0600069,51.208338","TN8 6HR, UK",Edenbridge,Kent
+EBT,5359,"0.06727065,51.2001629","TN8 5LP, UK",Edenbridge Town,Kent
 EDG,2169,?,"L7 1AD, UK",Edge Hill,Merseyside
-EDB,9328,?,"EH1 1BB, UK",Edinburgh,Edinburgh City Of
-EDP,9395,?,"EH11 4DF, UK",Edinburgh Park,Edinburgh City Of
+EDB,9328,"-3.18943485,55.9521711","EH1 1BB, UK",Edinburgh,Edinburgh City Of
+EDP,9395,"-3.30669632961,55.9269318773","EH11 4DF, UK",Edinburgh Park,Edinburgh City Of
 EDR,6941,?,"N9 7AA, UK",Edmonton Green,Greater London
-EFF,5642,?,"KT24 5HX, UK",Effingham Junction,Surrey
-EGG,5822,?,"EX18 7JZ, UK",Eggesford,Devon
-EGH,5669,?,"TW20 9LB, UK",Egham,Surrey
-EGT,7918,?,"YO21 1UX, UK",Egton,North Yorkshire
-EPH,5246,?,"SE17 1LB, UK",Elephant & Castle,Greater London
-ELG,8977,?,"IV30 1QP, UK",Elgin,Moray
-ELP,2121,?,"CH65 4AR, UK",Ellesmere Port,Cheshire
-ELE,5049,?,"BR3 4EJ, UK",Elmers End,Greater London
-ESD,5135,?,"BR7 5EB, UK",Elmstead Woods,Greater London
-ESW,7349,?,"IP30 9HA, UK",Elmswell,Suffolk
-ELR,6667,?,"S74 8BD, UK",Elsecar,South Yorkshire
-ESM,6832,?,"CM22 6HA, UK",Elsenham,Essex
-ELS,1542,?,"WD6 3LS, UK",Elstree & Borehamwood,Hertfordshire
-ELW,5103,?,"SE9 6SL, UK",Eltham,Greater London
+EFF,5642,"-0.42002691121,51.2917921408","KT24 5HX, UK",Effingham Junction,Surrey
+EGG,5822,"-3.8773227,50.8910398","EX18 7JZ, UK",Eggesford,Devon
+EGH,5669,"-0.547046264462,51.4295898846","TW20 9LB, UK",Egham,Surrey
+EGT,7918,"-0.761094193978,54.4374522553","YO21 1UX, UK",Egton,North Yorkshire
+EPH,5246,"-0.098782,51.49344045","SE17 1LB, UK",Elephant & Castle,Greater London
+ELG,8977,"-3.30739035178,57.6432945869","IV30 1QP, UK",Elgin,Moray
+ELP,2121,"-2.89712858119,53.2815057755","CH65 4AR, UK",Ellesmere Port,Cheshire
+ELE,5049,"-0.0506875998999,51.3999394114","BR3 4EJ, UK",Elmers End,Greater London
+ESD,5135,"0.0511044777569,51.4177341184","BR7 5EB, UK",Elmstead Woods,Greater London
+ESW,7349,"0.912739624228,52.2376469101","IP30 9HA, UK",Elmswell,Suffolk
+ELR,6667,"-1.41801543887,53.5042953057","S74 8BD, UK",Elsecar,South Yorkshire
+ESM,6832,"0.226026386253,51.9203845609","CM22 6HA, UK",Elsenham,Essex
+ELS,1542,"-0.281537799866,51.6527727556","WD6 3LS, UK",Elstree & Borehamwood,Hertfordshire
+ELW,5103,"0.0518189696685,51.4542325498","SE9 6SL, UK",Eltham,Greater London
 ELO,6238,?,"NG19 9LH, UK",Elton & Orston,Nottinghamshire
-ELY,7068,?,"CB7 4BS, UK",Ely,Cambridgeshire
-EMP,7473,?,"RM11 2JP, UK",Emerson Park,Greater London
-EMS,5257,?,"PO10 7PN, UK",Emsworth,Hampshire
-ENC,6010,?,"EN2 7AA, UK",Enfield Chase,Greater London
-ENL,6815,?,"EN3 6HA, UK",Enfield Lock,Greater London
-ENF,6959,?,"EN1 1YX, UK",Enfield Town,Greater London
-ENT,2747,?,"BL7 0NG, UK",Entwistle,Blackburn With Darwen
-EPS,5360,?,"KT19 8EW, UK",Epsom,Surrey
+ELY,7068,"0.2664829,52.3906979","CB7 4BS, UK",Ely,Cambridgeshire
+EMP,7473,"0.220283915531,51.5686432974","RM11 2JP, UK",Emerson Park,Greater London
+EMS,5257,"-0.938229780707,50.8510370199","PO10 7PN, UK",Emsworth,Hampshire
+ENC,6010,"-0.0910001223804,51.6532487263","EN2 7AA, UK",Enfield Chase,Greater London
+ENL,6815,"-0.0273739778136,51.6709551799","EN3 6HA, UK",Enfield Lock,Greater London
+ENF,6959,"-0.0793953089544,51.6521332506","EN1 1YX, UK",Enfield Town,Greater London
+ENT,2747,"-2.41488918191,53.655582271","BL7 0NG, UK",Entwistle,Blackburn With Darwen
+EPS,5360,"-0.270339168973,51.3325712919","KT19 8EW, UK",Epsom,Surrey
 EPD,5361,?,"KT17 4JX, UK",Epsom Downs,Surrey
-ERD,1041,?,"B23 6UB, UK",Erdington,West Midlands
-ERI,5459,?,"TN3 9LE, UK",Eridge,East Sussex
-ERH,5104,?,"DA8 1TY, UK",Erith,Greater London
-ESH,5558,?,"KT10 8DY, UK",Esher,Surrey
-EXR,6004,?,"N1 2SU, UK",Essex Road,Greater London
-ETC,5217,?,"TN19 7PA, UK",Etchingham,East Sussex
-EUS,1444,?,"NW1 2RT, UK",Euston,Greater London
-EBA,2080,?,"PR7 6DX, UK",Euxton Balshaw Lane,Lancashire
-EVE,4740,?,"WR11 4EQ, UK",Evesham,Worcestershire
-EWE,5415,?,"KT17 1QR, UK",Ewell East,Surrey
-EWW,5586,?,"KT17 1TU, UK",Ewell West,Surrey
-EXC,5755,?,"EX4 3SB, UK",Exeter Central,Devon
-EXD,3410,?,"EX4 4NT, UK",Exeter St. David's,Devon
-EXT,3414,?,"EX4 1AJ, UK",Exeter St. Thomas,Devon
-EXG,9914,?,"G3 8LD, UK",Exhibition Centre Glasgow,Glasgow City
-EXM,5756,?,"EX8 1BZ, UK",Exmouth,Devon
-EXN,5760,?,"EX3 0PR, UK",Exton,Devon
-EYN,5065,?,"DA4 0HP, UK",Eynsford,Kent
-FRB,4416,?,"LL38 2AQ, UK",Fairbourne,Gwynedd - Gwynedd
-FRF,2780,?,"M43 6TT, UK",Fairfield,Greater Manchester
-FRL,9452,?,"KA29 0DJ, UK",Fairlie,North Ayrshire
-FRW,3873,?,"CF5 3QE, UK",Fairwater,Cardiff - Caerdydd
-FCN,5137,?,"SE9 2RN, UK",Falconwood,Greater London
-FKG,9930,?,"FK2 7EZ, UK",Falkirk Grahamston,Falkirk
-FKK,9931,?,"FK1 5QX, UK",Falkirk High,Falkirk
-FOC,8726,?,"PA33 1AN, UK",Falls Of Cruachan,Argyll And Bute
-FMR,5337,?,"BN1 9PU, UK",Falmer,Brighton And Hove
-FAL,3508,?,"TR11 4LT, UK",Falmouth Docks,Cornwall And Isles Of Scilly
-FMT,3591,?,"TR11 4AZ, UK",Falmouth Town,Cornwall And Isles Of Scilly
-FAM,6875,?,"CM3 6NP , UK",Fambridge,Essex
-FRM,5900,?,"PO16 0UT, UK",Fareham,Hampshire
-FNB,5521,?,"GU14 7NL, UK",Farnborough (Main),Hampshire
+ERD,1041,"-1.83835913923,52.527482253","B23 6UB, UK",Erdington,West Midlands
+ERI,5459,"0.201622161681,51.0894625195","TN3 9LE, UK",Eridge,East Sussex
+ERH,5104,"0.175355364434,51.4816366162","DA8 1TY, UK",Erith,Greater London
+ESH,5558,"-0.353995461189,51.3803850538","KT10 8DY, UK",Esher,Surrey
+EXR,6004,"-0.0963511086621,51.5406333222","N1 2SU, UK",Essex Road,Greater London
+ETC,5217,"0.442258006309,51.0105729873","TN19 7PA, UK",Etchingham,East Sussex
+EUS,1444,"-0.134491275079,51.5289465318","NW1 2RT, UK",Euston,Greater London
+EBA,2080,"-2.66695424883,53.671008946","PR7 6DX, UK",Euxton Balshaw Lane,Lancashire
+EVE,4740,"-1.94687593283,52.0970635171","WR11 4EQ, UK",Evesham,Worcestershire
+EWE,5415,"-0.24128755,51.3452932","KT17 1QR, UK",Ewell East,Surrey
+EWW,5586,"-0.2570896,51.3502196","KT17 1TU, UK",Ewell West,Surrey
+EXC,5755,"-3.5329901,50.7265902","EX4 3SB, UK",Exeter Central,Devon
+EXD,3410,"-3.54328942785,50.7291654296","EX4 4NT, UK",Exeter St. David's,Devon
+EXT,3414,"-3.5410818,50.7172865","EX4 1AJ, UK",Exeter St. Thomas,Devon
+EXG,9914,"-4.28212100325,55.8634889433","G3 8LD, UK",Exhibition Centre Glasgow,Glasgow City
+EXM,5756,"-3.41494268418,50.6215943609","EX8 1BZ, UK",Exmouth,Devon
+EXN,5760,"-3.4420897,50.6683782","EX3 0PR, UK",Exton,Devon
+EYN,5065,"0.204468775289,51.3627980631","DA4 0HP, UK",Eynsford,Kent
+FRB,4416,"-4.04969398971,52.6960149009","LL38 2AQ, UK",Fairbourne,Gwynedd - Gwynedd
+FRF,2780,"-2.15019399402,53.4726385919","M43 6TT, UK",Fairfield,Greater Manchester
+FRL,9452,"-4.85338530225,55.7528898373","KA29 0DJ, UK",Fairlie,North Ayrshire
+FRW,3873,"-3.2363073784,51.4945947911","CF5 3QE, UK",Fairwater,Cardiff - Caerdydd
+FCN,5137,"0.0798411791614,51.45924228","SE9 2RN, UK",Falconwood,Greater London
+FKG,9930,"-3.789220398,56.0051275773","FK2 7EZ, UK",Falkirk Grahamston,Falkirk
+FKK,9931,"-3.78794413192,55.9941648151","FK1 5QX, UK",Falkirk High,Falkirk
+FOC,8726,"-5.11616095198,56.3945162652","PA33 1AN, UK",Falls Of Cruachan,Argyll And Bute
+FMR,5337,"-0.094003361929,50.8597897836","BN1 9PU, UK",Falmer,Brighton And Hove
+FAL,3508,"-5.05592376645,50.1499346667","TR11 4LT, UK",Falmouth Docks,Cornwall And Isles Of Scilly
+FMT,3591,"-5.06483905202,50.1477024482","TR11 4AZ, UK",Falmouth Town,Cornwall And Isles Of Scilly
+FAM,6875,"0.679688373749,51.6666401018","CM3 6NP , UK",Fambridge,Essex
+FRM,5900,"-1.19216545802,50.8532786087","PO16 0UT, UK",Fareham,Hampshire
+FNB,5521,"-0.755408807673,51.2966557144","GU14 7NL, UK",Farnborough (Main),Hampshire
 FNN,5688,?,"GU14 2PL, UK",Farnborough North,Hampshire
-FNC,5643,?,"GU7 3NF, UK",Farncombe,Surrey
-FNH,5545,?,"GU9 8AD, UK",Farnham,Surrey
-FNR,5105,?,"DA4 9JB, UK",Farningham Road,Kent
-FNW,2811,?,"BL4 7QZ, UK",Farnworth,Greater Manchester
-FAR,577,?,"EC1M 6BY , UK",Farringdon,Greater London
-FLD,9245,?,"EH47 9DJ, UK",Fauldhouse,West Lothian
-FAV,5167,?,"ME13 8EB, UK",Faversham,Kent
-FGT,5493,?,"RH12 4SJ, UK",Faygate,West Sussex
-FAZ,2126,?,"L9 9EW, UK",Fazakerley,Merseyside
-FRN,8637,?,"IV20 1RS, UK",Fearn,Highland
-FEA,8544,?,"WF7 7HJ, UK",Featherstone,West Yorkshire
-FLX,7214,?,"IP11 9UD, UK",Felixstowe,Suffolk
-FEL,5559,?,"TW13 4BY, UK",Feltham,Greater London
+FNC,5643,"-0.604466998593,51.1971315177","GU7 3NF, UK",Farncombe,Surrey
+FNH,5545,"-0.7933993,51.2119911","GU9 8AD, UK",Farnham,Surrey
+FNR,5105,"0.235834203665,51.4015395231","DA4 9JB, UK",Farningham Road,Kent
+FNW,2811,"-2.3877892059,53.5499615991","BL4 7QZ, UK",Farnworth,Greater Manchester
+FAR,577,"-0.104819055472,51.5202587842","EC1M 6BY , UK",Farringdon,Greater London
+FLD,9245,"-3.71855421134,55.8232255706","EH47 9DJ, UK",Fauldhouse,West Lothian
+FAV,5167,"0.8906491,51.3116734","ME13 8EB, UK",Faversham,Kent
+FGT,5493,"-0.263175571704,51.098562834","RH12 4SJ, UK",Faygate,West Sussex
+FAZ,2126,"-2.93511384818,53.4691816388","L9 9EW, UK",Fazakerley,Merseyside
+FRN,8637,"-3.98559848767,57.7898501339","IV20 1RS, UK",Fearn,Highland
+FEA,8544,"-1.32243853955,53.6500882418","WF7 7HJ, UK",Featherstone,West Yorkshire
+FLX,7214,"1.35107879704,51.9675000598","IP11 9UD, UK",Felixstowe,Suffolk
+FEL,5559,"-0.408767557571,51.4480629068","TW13 4BY, UK",Feltham,Greater London
 FST,7490,?,"EC3 4AJ, UK",Fenchurch Street,Greater London
-FNT,5808,?,"EX14 3BT, UK",Feniton,Devon
-FEN,1377,?,"MK2 2XP, UK",Fenny Stratford,Milton Keynes
-FER,3862,?,"CF45 3DP, UK",Fernhill,Rhondda Cynon Taff - Rhondda Cynon Taf
-FRY,8061,?,"HU14 3DJ, UK",Ferriby,East Riding Of Yorkshire
-FYS,4074,?,"SA17 5TD, UK",Ferryside,Carmarthenshire - Sir Gaerfyrddin
-FFA,4066,?,"SA19 6UL, UK",Ffairfach,Carmarthenshire - Sir Gaerfyrddin
-FIL,8062,?,"YO14 9PE, UK",Filey,North Yorkshire
-FIT,3235,?,"BS34 7JW, UK",Filton Abbey Wood,South Gloucestershire
-FNY,1445,?,"NW3 6EP, UK",Finchley Road & Frognal,Greater London
-FPK,6119,?,"N4 2DH, UK",Finsbury Park,Greater London
-FIN,3012,?,"OX7 5RF, UK",Finstock,Oxfordshire
-FSB,5261,?,"PO19 3QH, UK",Fishbourne,West Sussex
+FNT,5808,"-3.28544544938,50.7866355551","EX14 3BT, UK",Feniton,Devon
+FEN,1377,"-0.7180384,51.9999897","MK2 2XP, UK",Fenny Stratford,Milton Keynes
+FER,3862,"-3.39582432276,51.6850520781","CF45 3DP, UK",Fernhill,Rhondda Cynon Taff - Rhondda Cynon Taf
+FRY,8061,"-0.507344901733,53.7175135849","HU14 3DJ, UK",Ferriby,East Riding Of Yorkshire
+FYS,4074,"-4.36764445698,51.7691467757","SA17 5TD, UK",Ferryside,Carmarthenshire - Sir Gaerfyrddin
+FFA,4066,"-3.9930697599,51.8734940661","SA19 6UL, UK",Ffairfach,Carmarthenshire - Sir Gaerfyrddin
+FIL,8062,"-0.2936379,54.209827","YO14 9PE, UK",Filey,North Yorkshire
+FIT,3235,"-2.5637948,51.5032565","BS34 7JW, UK",Filton Abbey Wood,South Gloucestershire
+FNY,1445,"-0.18345449834,51.5503505004","NW3 6EP, UK",Finchley Road & Frognal,Greater London
+FPK,6119,"-0.106442164252,51.5647046234","N4 2DH, UK",Finsbury Park,Greater London
+FIN,3012,"-1.53125913542,51.9763022508","OX7 5RF, UK",Finstock,Oxfordshire
+FSB,5261,"-0.81414524576,50.8385560832","PO19 3QH, UK",Fishbourne,West Sussex
 FSG,5284,?,"BN4 1LJ, UK",Fishersgate,West Sussex
-FGH,4076,?,"SA64 0BU, UK",Fishguard Harbour,Pembrokeshire - Sir Benfro
-FSK,6351,?,"NG25 0TR, UK",Fiskerton,Nottinghamshire
-FZW,8583,?,"WF9 5DA, UK",Fitzwilliam,West Yorkshire
-FWY,4503,?,"B15 1SF, UK",Five Ways,West Midlands
-FLE,5522,?,"GU51 3QY, UK",Fleet,Hampshire
-FLM,2026,?,"CA15 8QN, UK",Flimby,Cumbria
-FLN,2513,?,"CH6 5PG, UK",Flint,Flintshire - Sir Y Fflint
-FLT,1532,?,"MK45 1AJ, UK",Flitwick,Bedfordshire
-FLI,2935,?,"M41 6JL, UK",Flixton,Greater Manchester
-FLF,2786,?,"SK14 4BZ, UK",Flowery Field,Greater Manchester
-FKC,5035,?,"CT19 5HB, UK",Folkestone Central,Kent
-FKW,5027,?,"CT20 3PA, UK",Folkestone West,Kent
-FOD,5258,?,"BN18 0BH, UK",Ford,West Sussex
-FOG,6876,?,"E7 0NF, UK",Forest Gate,Greater London
-FOH,5362,?,"SE23 2LD, UK",Forest Hill,Greater London
-FBY,2354,?,"L37 2JF, UK",Formby,Merseyside
+FGH,4076,"-4.9861031,52.009699","SA64 0BU, UK",Fishguard Harbour,Pembrokeshire - Sir Benfro
+FSK,6351,"-0.910360662386,53.0617135752","NG25 0TR, UK",Fiskerton,Nottinghamshire
+FZW,8583,"-1.37418958758,53.6330403446","WF9 5DA, UK",Fitzwilliam,West Yorkshire
+FWY,4503,"-1.91532320143,52.471844515","B15 1SF, UK",Five Ways,West Midlands
+FLE,5522,"-0.831469103893,51.2904884626","GU51 3QY, UK",Fleet,Hampshire
+FLM,2026,"-3.52043218853,54.6894697686","CA15 8QN, UK",Flimby,Cumbria
+FLN,2513,"-3.13210958905,53.2501024938","CH6 5PG, UK",Flint,Flintshire - Sir Y Fflint
+FLT,1532,"-0.497592883792,52.0043905575","MK45 1AJ, UK",Flitwick,Bedfordshire
+FLI,2935,"-2.38394121566,53.4433168417","M41 6JL, UK",Flixton,Greater Manchester
+FLF,2786,"-2.07789365234,53.4637101856","SK14 4BZ, UK",Flowery Field,Greater Manchester
+FKC,5035,"1.1685496089,51.0828194908","CT19 5HB, UK",Folkestone Central,Kent
+FKW,5027,"1.15326897079,51.084285443","CT20 3PA, UK",Folkestone West,Kent
+FOD,5258,"-0.578152337801,50.8299297171","BN18 0BH, UK",Ford,West Sussex
+FOG,6876,"0.0249913747681,51.5495183409","E7 0NF, UK",Forest Gate,Greater London
+FOH,5362,"-0.0525504711287,51.439527861","SE23 2LD, UK",Forest Hill,Greater London
+FBY,2354,"-3.07075641282,53.5534460867","L37 2JF, UK",Formby,Merseyside
 FOR,8638,?,"IV36 0EL, UK",Forres,Moray
-FRS,8639,?,"KW13 6YT, UK",Forsinard,Highland
-FTM,9675,?,"PA16 7TS, UK",Fort Matilda,Inverclyde
-FTW,8827,?,"PH33 6TQ, UK",Fort William,Highland
-FOK,1042,?,"B74 2TD, UK",Four Oaks,West Midlands
-FOX,2046,?,"LA20 6BX, UK",Foxfield,Cumbria
+FRS,8639,"-3.89753950874,58.3570307288","KW13 6YT, UK",Forsinard,Highland
+FTM,9675,"-4.7963840358,55.9589490297","PA16 7TS, UK",Fort Matilda,Inverclyde
+FTW,8827,"-5.0876120945,56.8281779248","PH33 6TQ, UK",Fort William,Highland
+FOK,1042,"-1.82804667169,52.5805185021","B74 2TD, UK",Four Oaks,West Midlands
+FOX,2046,"-3.21484723986,54.2601669807","LA20 6BX, UK",Foxfield,Cumbria
 FXN,7029,?,"CB2 6SJ, UK",Foxton,Cambridgeshire
-FRT,5218,?,"TN3 9BJ, UK",Frant,East Sussex
-FTN,5509,?,"PO1 5AW, UK",Fratton,Portsmouth
-FRE,2355,?,"L37 7DD, UK",Freshfield,Merseyside
-FFD,3344,?,"BA2 7WQ, UK",Freshford,Bath And North East Somerset
+FRT,5218,"0.296615143856,51.10221907","TN3 9BJ, UK",Frant,East Sussex
+FTN,5509,"-1.07392300843,50.7964915583","PO1 5AW, UK",Fratton,Portsmouth
+FRE,2355,"-3.0698271993,53.5662723956","L37 7DD, UK",Freshfield,Merseyside
+FFD,3344,"-2.30136991583,51.3407044525","BA2 7WQ, UK",Freshford,Bath And North East Somerset
 FML,5683,?,"GU16 5EW, UK",Frimley,Surrey
-FRI,6854,?,"CO13 9JT, UK",Frinton,Essex
-FZH,8556,?,"BD9 4LD, UK",Frizinghall,West Yorkshire
-FRD,2284,?,"WA6 7DN, UK",Frodsham,Cheshire
-FRO,5707,?,"BA11 1RE, UK",Frome,Somerset
-FLW,5587,?,"TW2 5NY, UK",Fulwell,Greater London
+FRI,6854,"1.24367599296,51.837620696","CO13 9JT, UK",Frinton,Essex
+FZH,8556,"-1.7706026,53.8188072","BD9 4LD, UK",Frizinghall,West Yorkshire
+FRD,2284,"-2.72510895095,53.2956019294","WA6 7DN, UK",Frodsham,Cheshire
+FRO,5707,"-2.31099581686,51.2267216672","BA11 1RE, UK",Frome,Somerset
+FLW,5587,"-0.35022971152,51.4339449568","TW2 5NY, UK",Fulwell,Greater London
 FNV,2952,?,"SK12 7QA, UK",Furness Vale,Derbyshire
-FZP,3144,?,"SL6 7NY, UK",Furze Platt,Windsor And Maidenhead
-GNB,6465,?,"DN21 1XR, UK",Gainsborough Central,Lincolnshire
-GBL,6424,?,"DN21 1AH, UK",Gainsborough Lea Road,Lincolnshire
-GCH,9971,?,"G84 0EG, UK",Garelochhead,Argyll And Bute
-GRF,8474,?,"LS25 1PY, UK",Garforth,West Yorkshire
-GGV,2654,?,"BD23 3NE, UK",Gargrave,North Yorkshire
+FZP,3144,"-0.732386634582,51.5317405481","SL6 7NY, UK",Furze Platt,Windsor And Maidenhead
+GNB,6465,"-0.764894374923,53.3980873965","DN21 1XR, UK",Gainsborough Central,Lincolnshire
+GBL,6424,"-0.77279769105,53.3858087901","DN21 1AH, UK",Gainsborough Lea Road,Lincolnshire
+GCH,9971,"-4.82742253903,56.0740005447","G84 0EG, UK",Garelochhead,Argyll And Bute
+GRF,8474,"-1.38322317458,53.7964034689","LS25 1PY, UK",Garforth,West Yorkshire
+GGV,2654,"-2.10575650875,53.9809613891","BD23 3NE, UK",Gargrave,North Yorkshire
 GAR,9904,?,"G69 1AA, UK",Garrowhill,Glasgow City
-GRS,9979,?,"G14 0EY, UK",Garscadden,Glasgow City
-GSD,2104,?,"LA10 5PQ, UK",Garsdale,Cumbria
-GSN,1559,?,"WD17 1EU, UK",Garston (Hertfordshire),Hertfordshire
-GSW,2335,?,"WN4 0SA, UK",Garswood,Merseyside
+GRS,9979,"-4.36260413925,55.8866048637","G14 0EY, UK",Garscadden,Glasgow City
+GSD,2104,"-2.38841560683,54.3015485124","LA10 5PQ, UK",Garsdale,Cumbria
+GSN,1559,"-0.396580745401,51.6637719449","WD17 1EU, UK",Garston (Hertfordshire),Hertfordshire
+GSW,2335,"-2.6730588079,53.4888055337","WN4 0SA, UK",Garswood,Merseyside
 GRH,9723,?,"G69 8DF, UK",Gartcosh,North Lanarkshire
-GMG,3961,?,"CF34 9HS, UK",Garth (Mid-Glamorgan),Bridgend - Pen-Y-Bont Ar Ogwr
-GTH,4148,?,"LD4 4AF, UK",Garth (Powys),Powys - Powys
-GVE,8640,?,"IV23 2QF, UK",Garve,Highland
-GST,2397,?,"WN5 0LW, UK",Gathurst,Greater Manchester
-GTY,2953,?,"SK8 4AE, UK",Gatley,Greater Manchester
-GTW,5416,?,"RH6 0RD, UK",Gatwick Airport,West Sussex
+GMG,3961,"-3.6420825792,51.5967659754","CF34 9HS, UK",Garth (Mid-Glamorgan),Bridgend - Pen-Y-Bont Ar Ogwr
+GTH,4148,"-3.53057670915,52.1335736185","LD4 4AF, UK",Garth (Powys),Powys - Powys
+GVE,8640,"-4.68702512257,57.6135253738","IV23 2QF, UK",Garve,Highland
+GST,2397,"-2.69222995418,53.5563349634","WN5 0LW, UK",Gathurst,Greater Manchester
+GTY,2953,"-2.23267979876,53.393263545","SK8 4AE, UK",Gatley,Greater Manchester
+GTW,5416,"-0.1610188,51.1567237","RH6 0RD, UK",Gatwick Airport,West Sussex
 GGJ,8641,?,"KW12 6HH, UK",Georgemas Junction,Highland
-GER,3051,?,"SL9 8PP, UK",Gerrards Cross,Buckinghamshire
-GDP,6877,?,"RM2 6BX, UK",Gidea Park,Greater London
-GFN,9794,?,"G46 6JF, UK",Giffnock,East Renfrewshire
-GIG,2655,?,"BD24 0EA, UK",Giggleswick,North Yorkshire
-GBD,8117,?,"HU15 2SU, UK",Gilberdyke,East Riding Of Yorkshire
-GFF,4022,?,"CF81 8LT, UK",Gilfach Fargoed,Caerphilly - Caerffili
-GIL,5796,?,"SP8 4PZ, UK",Gillingham (Dorset),Dorset
-GLM,5169,?,"ME7 1XE, UK",Gillingham (Kent),Medway
-GSC,9956,?,"G23 5LF, UK",Gilshochill,Glasgow City
-GIP,5363,?,"SE19 1QL, UK",Gipsy Hill,Greater London
-GIR,9501,?,"KA26 9HF, UK",Girvan,South Ayrshire
-GLS,7921,?,"YO21 2QL, UK",Glaisdale,North Yorkshire
-GCW,2454,?,"LL28 5ED, UK",Glan Conwy,Conwy - Conwy
-GLC,9813,?,"G1 3SL, UK",Glasgow Central,Glasgow City
-GLQ,9950,?,"G1 2AF, UK",Glasgow Queen Street,Glasgow City
-GLH,8360,?,"WF10 4TA, UK",Glasshoughton,West Yorkshire
-GLZ,2301,?,"WA3 5BA, UK",Glazebrook,Warrington
-GLE,8715,?,"PH3 1JL, UK",Gleneagles,Perth And Kinross
-GLF,8828,?,"PH37 4LS, UK",Glenfinnan,Highland
-GLG,9503,?,"KA14 3AT, UK",Glengarnock,North Ayrshire
-GLT,9301,?,"KY1 4AE, UK",Glenrothes with Thornton,Fife
-GLO,2895,?,"SK13 8BS, UK",Glossop,Derbyshire
-GCR,4760,?,"GL1 1DE, UK",Gloucester,Gloucestershire
-GLY,5338,?,"BN8 6RU, UK",Glynde,East Sussex
-GOB,4457,?,"SY11 3JS, UK",Gobowen,Shropshire
-GOD,5629,?,"GU7 1EU, UK",Godalming,Surrey
-GDL,2948,?,"SK14 4DP, UK",Godley,Greater Manchester
-GDN,5474,?,"RH9 8EU, UK",Godstone,Surrey
-GOE,8284,?,"S63 7ER, UK",Goldthorpe,South Yorkshire
-GOF,9096,?,"DD7 7JG, UK",Golf Street,Angus
-GOL,8643,?,"KW10 6SZ, UK",Golspie,Highland
-GOM,5298,?,"GU5 9NX, UK",Gomshall,Surrey
-GMY,6878,?,"IG3 9UH, UK",Goodmayes,Greater London
-GOO,8025,?,"DN14 5DD, UK",Goole,East Riding Of Yorkshire
-GTR,1220,?,"CW4 8PJ, UK",Goostrey,Cheshire
-GDH,6028,?,"EN2 0QU, UK",Gordon Hill,Greater London
-GOR,3033,?,"RG8 0EP, UK",Goring & Streatley,Oxfordshire
-GBS,5272,?,"BN12 6NT, UK",Goring-By-Sea,West Sussex
-GTO,2962,?,"M11 1WN, UK",Gorton,Greater Manchester
-GPO,1409,?,"NW5 1LT, UK",Gospel Oak,Greater London
-GRK,9635,?,"PA19 1QR, UK",Gourock,Inverclyde
-GWN,4131,?,"SA4 3AJ, UK",Gowerton,Swansea - Abertawe
-GOX,6206,?,"DN19 7HS, UK",Goxhill,North Lincolnshire
-GPK,6029,?,"N21 1DB, UK",Grange Park,Greater London
-GOS,1965,?,"LA11 6EH, UK",Grange-Over-Sands,Cumbria
-GTN,3839,?,"CF11 8UY, UK",Grangetown (South Glamorgan),Cardiff - Caerdydd
-GRA,6469,?,"NG31 6BT, UK",Grantham,Lincolnshire
-GRT,5514,?,"SP11 8TA, UK",Grateley,Hampshire
-GVH,1132,?,"B23 7NH, UK",Gravelly Hill,West Midlands
-GRV,5172,?,"DA11 0HP, UK",Gravesend,Kent
-GRY,7443,?,"RM17 6NQ, UK",Grays,Thurrock
-GTA,7922,?,"TS9 6HR, UK",Great Ayton,North Yorkshire
-GRB,6855,?,"CO7 8LH, UK",Great Bentley,Essex
-GRC,7032,?,"CB10 1NY, UK",Great Chesterford,Essex
-GCT,6275,?,"DN37 9NH, UK",Great Coates,North East Lincolnshire
-GMV,4892,?,"WR14 3AL, UK",Great Malvern,Worcestershire
-GMN,1463,?,"HP16 9AZ, UK",Great Missenden,Buckinghamshire
-GYM,7328,?,"NR30 1SD, UK",Great Yarmouth,Norfolk
-GNL,2218,?,"CH41 9AN, UK",Green Lane,Merseyside
-GNR,1996,?,"LA18 5HR, UK",Green Road,Cumbria
-GBK,2325,?,"CW9 7NJ, UK",Greenbank,Cheshire
-GRL,9725,?,"G67 2XJ, UK",Greenfaulds,North Lanarkshire
-GNF,2900,?,"OL3 7JZ, UK",Greenfield,Greater Manchester
-GFD,3136,?,"UB6 8PX, UK",Greenford,Greater London
+GER,3051,"-0.5535077042,51.5887758782","SL9 8PP, UK",Gerrards Cross,Buckinghamshire
+GDP,6877,"0.207441866339,51.5817125399","RM2 6BX, UK",Gidea Park,Greater London
+GFN,9794,"-4.29417938282,55.8039825938","G46 6JF, UK",Giffnock,East Renfrewshire
+GIG,2655,"-2.3028455,54.0617706","BD24 0EA, UK",Giggleswick,North Yorkshire
+GBD,8117,"-0.735489080801,53.7509818727","HU15 2SU, UK",Gilberdyke,East Riding Of Yorkshire
+GFF,4022,"-3.2285706294,51.684465915","CF81 8LT, UK",Gilfach Fargoed,Caerphilly - Caerffili
+GIL,5796,"-2.27292540361,51.0343596788","SP8 4PZ, UK",Gillingham (Dorset),Dorset
+GLM,5169,"0.549945542289,51.3866042815","ME7 1XE, UK",Gillingham (Kent),Medway
+GSC,9956,"-4.2828168479,55.8976734515","G23 5LF, UK",Gilshochill,Glasgow City
+GIP,5363,"-0.0838543,51.4241636","SE19 1QL, UK",Gipsy Hill,Greater London
+GIR,9501,"-4.85246530903,55.246979312","KA26 9HF, UK",Girvan,South Ayrshire
+GLS,7921,"-0.795001510929,54.4390068321","YO21 2QL, UK",Glaisdale,North Yorkshire
+GCW,2454,"-3.79755073662,53.2678424199","LL28 5ED, UK",Glan Conwy,Conwy - Conwy
+GLC,9813,"-4.25867982993,55.8597064225","G1 3SL, UK",Glasgow Central,Glasgow City
+GLQ,9950,"-4.25117018238,55.8624863817","G1 2AF, UK",Glasgow Queen Street,Glasgow City
+GLH,8360,"-1.34079776744,53.7099594074","WF10 4TA, UK",Glasshoughton,West Yorkshire
+GLZ,2301,"-2.45976107175,53.4282010321","WA3 5BA, UK",Glazebrook,Warrington
+GLE,8715,"-3.73200345,56.28211045","PH3 1JL, UK",Gleneagles,Perth And Kinross
+GLF,8828,"-5.45627422321,56.8733400864","PH37 4LS, UK",Glenfinnan,Highland
+GLG,9503,"-4.67613781591,55.7388040127","KA14 3AT, UK",Glengarnock,North Ayrshire
+GLT,9301,"-3.14442106549,56.1635875627","KY1 4AE, UK",Glenrothes with Thornton,Fife
+GLO,2895,"-1.9483325502,53.4438321684","SK13 8BS, UK",Glossop,Derbyshire
+GCR,4760,"-2.2382319,51.8655261","GL1 1DE, UK",Gloucester,Gloucestershire
+GLY,5338,"0.0694188911749,50.8577791292","BN8 6RU, UK",Glynde,East Sussex
+GOB,4457,"-3.03766331699,52.893505043","SY11 3JS, UK",Gobowen,Shropshire
+GOD,5629,"-0.618844845373,51.1865009086","GU7 1EU, UK",Godalming,Surrey
+GDL,2948,"-2.06237109314,53.4579846638","SK14 4DP, UK",Godley,Greater Manchester
+GDN,5474,"-0.0514401,51.2181679","RH9 8EU, UK",Godstone,Surrey
+GOE,8284,"-1.31764167626,53.4972028954","S63 7ER, UK",Goldthorpe,South Yorkshire
+GOF,9096,"-2.71860159257,56.4977842823","DD7 7JG, UK",Golf Street,Angus
+GOL,8643,"-3.99185064906,57.9715047437","KW10 6SZ, UK",Golspie,Highland
+GOM,5298,"-0.441774909989,51.2199902697","GU5 9NX, UK",Gomshall,Surrey
+GMY,6878,"0.112055555761,51.565742046","IG3 9UH, UK",Goodmayes,Greater London
+GOO,8025,"-0.874445962742,53.7047188238","DN14 5DD, UK",Goole,East Riding Of Yorkshire
+GTR,1220,"-2.331066457,53.22651972","CW4 8PJ, UK",Goostrey,Cheshire
+GDH,6028,"-0.0943559303453,51.6638872496","EN2 0QU, UK",Gordon Hill,Greater London
+GOR,3033,"-1.1331195,51.5211885","RG8 0EP, UK",Goring & Streatley,Oxfordshire
+GBS,5272,"-0.433131449277,50.8179729073","BN12 6NT, UK",Goring-By-Sea,West Sussex
+GTO,2962,"-2.1673736526,53.4700989871","M11 1WN, UK",Gorton,Greater Manchester
+GPO,1409,"-0.151241540323,51.5554495632","NW5 1LT, UK",Gospel Oak,Greater London
+GRK,9635,"-4.81623714802,55.9622539617","PA19 1QR, UK",Gourock,Inverclyde
+GWN,4131,"-4.036666,51.6480601","SA4 3AJ, UK",Gowerton,Swansea - Abertawe
+GOX,6206,"-0.334917528059,53.6768960081","DN19 7HS, UK",Goxhill,North Lincolnshire
+GPK,6029,"-0.0983575928077,51.6439441194","N21 1DB, UK",Grange Park,Greater London
+GOS,1965,"-2.90228837174,54.1964478083","LA11 6EH, UK",Grange-Over-Sands,Cumbria
+GTN,3839,"-3.19051851353,51.4671486419","CF11 8UY, UK",Grangetown (South Glamorgan),Cardiff - Caerdydd
+GRA,6469,"-0.643402163997,52.906941387","NG31 6BT, UK",Grantham,Lincolnshire
+GRT,5514,"-1.6051584205,51.1747945273","SP11 8TA, UK",Grateley,Hampshire
+GVH,1132,"-1.85262685,52.51535345","B23 7NH, UK",Gravelly Hill,West Midlands
+GRV,5172,"0.3668484,51.4412358","DA11 0HP, UK",Gravesend,Kent
+GRY,7443,"0.321934236594,51.4762708369","RM17 6NQ, UK",Grays,Thurrock
+GTA,7922,"-1.11656990047,54.4893376831","TS9 6HR, UK",Great Ayton,North Yorkshire
+GRB,6855,"1.06507817693,51.852265005","CO7 8LH, UK",Great Bentley,Essex
+GRC,7032,"0.194632586525,52.0604628145","CB10 1NY, UK",Great Chesterford,Essex
+GCT,6275,"-0.12913377508,53.5759604265","DN37 9NH, UK",Great Coates,North East Lincolnshire
+GMV,4892,"-2.3181521,52.1093044","WR14 3AL, UK",Great Malvern,Worcestershire
+GMN,1463,"-0.708704,51.7042341","HP16 9AZ, UK",Great Missenden,Buckinghamshire
+GYM,7328,"1.72064108371,52.6120553336","NR30 1SD, UK",Great Yarmouth,Norfolk
+GNL,2218,"-3.01643459569,53.3834373321","CH41 9AN, UK",Green Lane,Merseyside
+GNR,1996,"-3.24254119214,54.2631832768","LA18 5HR, UK",Green Road,Cumbria
+GBK,2325,"-2.53438454551,53.2513911193","CW9 7NJ, UK",Greenbank,Cheshire
+GRL,9725,"-3.99488426935,55.9349938644","G67 2XJ, UK",Greenfaulds,North Lanarkshire
+GNF,2900,"-2.0142403,53.5387335","OL3 7JZ, UK",Greenfield,Greater Manchester
+GFD,3136,"-0.346524081396,51.5420793361","UB6 8PX, UK",Greenford,Greater London
 GNH,5138,?,"DA9 9NQ, UK",Greenhithe,Kent
-GKC,9681,?,"PA15 1DH, UK",Greenock Central,Inverclyde
+GKC,9681,"-4.75266008295,55.9456960625","PA15 1DH, UK",Greenock Central,Inverclyde
 GKW,9682,?,"PA15 1TE, UK",Greenock West,Inverclyde
-GNW,5146,?,"SE10 8JQ, UK",Greenwich,Greater London
-GEA,9610,?,"DG16 5HF, UK",Gretna Green,Dumfries And Galloway
+GNW,5146,"-0.012534437489,51.478110967","SE10 8JQ, UK",Greenwich,Greater London
+GEA,9610,"-3.07472071602,55.0028537044","DG16 5HF, UK",Gretna Green,Dumfries And Galloway
 GMD,6276,?,"DN31 3PB, UK",Grimsby Docks,North East Lincolnshire
-GMB,6280,?,"DN31 1LY, UK",Grimsby Town,North East Lincolnshire
-GRN,2825,?,"S32 2HY, UK",Grindleford,Derbyshire
-GMT,8155,?,"YO22 5QE, UK",Grosmont,North Yorkshire
-GRP,5139,?,"SE12 0DZ, UK",Grove Park,Greater London
-GUI,2955,?,"M34 5HF, UK",Guide Bridge,Greater Manchester
-GLD,5631,?,"GU1 4UT, UK",Guildford,Surrey
-GSY,8567,?,"LS20 8BX, UK",Guiseley,West Yorkshire
-GUN,5588,?,"W4 4AN, UK",Gunnersbury,Greater London
+GMB,6280,"-0.0867812983213,53.5635677656","DN31 1LY, UK",Grimsby Town,North East Lincolnshire
+GRN,2825,"-1.62792667392,53.3062419877","S32 2HY, UK",Grindleford,Derbyshire
+GMT,8155,"-0.72534588279,54.4357844601","YO22 5QE, UK",Grosmont,North Yorkshire
+GRP,5139,"0.0215515875679,51.4301811685","SE12 0DZ, UK",Grove Park,Greater London
+GUI,2955,"-2.11402692077,53.4745122384","M34 5HF, UK",Guide Bridge,Greater Manchester
+GLD,5631,"-0.58080405,51.2370443","GU1 4UT, UK",Guildford,Surrey
+GSY,8567,"-1.71629324,53.8764778176","LS20 8BX, UK",Guiseley,West Yorkshire
+GUN,5588,"-0.275149734113,51.4918634447","W4 4AN, UK",Gunnersbury,Greater London
 GSL,3563,?,"PL18 9DZ, UK",Gunnislake,Cornwall And Isles Of Scilly
-GNT,7299,?,"NR11 8UD, UK",Gunton,Norfolk
-GWE,4300,?,"LL11 4LD, UK",Gwersyllt,Wrexham - Wrecsam
-GYP,7930,?,"TS7 0DY, UK",Gypsy Lane,Redcar And Cleveland
-HAB,6281,?,"DN40 3AB, UK",Habrough,North East Lincolnshire
-HCB,5364,?,"SM6 7BJ, UK",Hackbridge,Greater London
-HKC,6977,?,"E8 1LL, UK",Hackney Central,Greater London
-HAC,6867,?,"E8 1LA, UK",Hackney Downs,Greater London
-HKW,6978,?,"E9 5JH, UK",Hackney Wick,Greater London
-HDM,3053,?,"HP17 8EW, UK",Haddenham & Thame Parkway,Buckinghamshire
-HAD,7300,?,"NR31 9JA, UK",Haddiscoe,Norfolk
+GNT,7299,"1.34467027974,52.8639952072","NR11 8UD, UK",Gunton,Norfolk
+GWE,4300,"-3.01729285138,53.0732660644","LL11 4LD, UK",Gwersyllt,Wrexham - Wrecsam
+GYP,7930,"-1.17879742448,54.5332653289","TS7 0DY, UK",Gypsy Lane,Redcar And Cleveland
+HAB,6281,"-0.271049211699,53.6079051134","DN40 3AB, UK",Habrough,North East Lincolnshire
+HCB,5364,"-0.153857962266,51.3780316705","SM6 7BJ, UK",Hackbridge,Greater London
+HKC,6977,"-0.0563033196428,51.5471206363","E8 1LL, UK",Hackney Central,Greater London
+HAC,6867,"-0.0610908956016,51.5486830908","E8 1LA, UK",Hackney Downs,Greater London
+HKW,6978,"-0.0295556,51.5472255","E9 5JH, UK",Hackney Wick,Greater London
+HDM,3053,"-0.932285704527,51.7731579749","HP17 8EW, UK",Haddenham & Thame Parkway,Buckinghamshire
+HAD,7300,"1.62465953042,52.5282558006","NR31 9JA, UK",Haddiscoe,Norfolk
 HDF,2896,?,"M34 1AA, UK",Hadfield,Derbyshire
-HDW,6075,?,"EN4 0EL, UK",Hadley Wood,Greater London
-HGF,2585,?,"M46 9WX, UK",Hag Fold,Greater Manchester
-HGG,1022,?,"E8 4DY , UK",Haggerston,Greater London
-HAG,4577,?,"DY9 0NX, UK",Hagley,Worcestershire
-HMY,9810,?,"G75 8SW, UK",Hairmyres,South Lanarkshire
-HAL,2845,?,"WA14 2UZ, UK",Hale,Greater Manchester
-HAS,7266,?,"IP19 8BZ, UK",Halesworth,Suffolk
-HED,2295,?,"L26 0TH, UK",Halewood,Merseyside
-HFX,8411,?,"HX1 1QE, UK",Halifax,West Yorkshire
-HLG,4521,?,"B28 8AA, UK",Hall Green,West Midlands
-HID,2572,?,"BL1 8UF, UK",Hall I' Th' Wood,Greater Manchester
-HLR,2229,?,"L23 8TU, UK",Hall Road,Merseyside
-HAI,5173,?,"ME1 1BN, UK",Halling,Medway
-HWH,7568,?,"NE49 0AH, UK",Haltwhistle,Northumberland
-HMT,5037,?,"TN26 2DU, UK",Ham Street,Kent
-HME,5947,?,"SO31 4NL, UK",Hamble,Hampshire
-HNC,9726,?,"ML3 6PB, UK",Hamilton Central,South Lanarkshire
+HDW,6075,"-0.175544609067,51.6686477916","EN4 0EL, UK",Hadley Wood,Greater London
+HGF,2585,"-2.49466709106,53.5339173174","M46 9WX, UK",Hag Fold,Greater Manchester
+HGG,1022,"-0.0759456452108,51.5385828129","E8 4DY , UK",Haggerston,Greater London
+HAG,4577,"-2.14528488769,52.4224302866","DY9 0NX, UK",Hagley,Worcestershire
+HMY,9810,"-4.22189601492,55.7553040399","G75 8SW, UK",Hairmyres,South Lanarkshire
+HAL,2845,"-2.34764013676,53.3784045662","WA14 2UZ, UK",Hale,Greater Manchester
+HAS,7266,"1.50522946219,52.3461060351","IP19 8BZ, UK",Halesworth,Suffolk
+HED,2295,"-2.82901998239,53.3674565752","L26 0TH, UK",Halewood,Merseyside
+HFX,8411,"-1.85605745792,53.7210660744","HX1 1QE, UK",Halifax,West Yorkshire
+HLG,4521,"-1.84629529954,52.4366967167","B28 8AA, UK",Hall Green,West Midlands
+HID,2572,"-2.41492519635,53.5966542954","BL1 8UF, UK",Hall I' Th' Wood,Greater Manchester
+HLR,2229,"-3.04631685119,53.4989475611","L23 8TU, UK",Hall Road,Merseyside
+HAI,5173,"0.511417884769,51.3829416865","ME1 1BN, UK",Halling,Medway
+HWH,7568,"-2.4625609333,54.9687990926","NE49 0AH, UK",Haltwhistle,Northumberland
+HMT,5037,"0.8531958044,51.0679579929","TN26 2DU, UK",Ham Street,Kent
+HME,5947,"-1.3282968,50.8712937","SO31 4NL, UK",Hamble,Hampshire
+HNC,9726,"-4.04194486992,55.7737678888","ML3 6PB, UK",Hamilton Central,South Lanarkshire
 HNW,9727,?,"ML03 0DA, UK",Hamilton West,South Lanarkshire
 HMM,8241,?,"YO5 8DG, UK",Hammerton,North Yorkshire
-HMD,5450,?,"BN22 9ND, UK",Hampden Park,East Sussex
-HDH,1413,?,"NW3 2QD, UK",Hampstead Heath,Greater London
-HMP,5560,?,"TW12 2HU, UK",Hampton,Greater London
-HMC,5561,?,"KT8 9AE, UK",Hampton Court,Surrey
-HMW,5589,?,"KT1 4DQ, UK",Hampton Wick,Greater London
-HIA,1033,?,"B92 0BJ, UK",Hampton-In-Arden,West Midlands
-HSD,1145,?,"B42 1NJ, UK",Hamstead,West Midlands
-HAM,5940,?,"BH16 5AA, UK",Hamworthy,Poole
+HMD,5450,"0.278578686994,50.7964400262","BN22 9ND, UK",Hampden Park,East Sussex
+HDH,1413,"-0.165512945357,51.5553318796","NW3 2QD, UK",Hampstead Heath,Greater London
+HMP,5560,"-0.371747154949,51.4158744058","TW12 2HU, UK",Hampton,Greater London
+HMC,5561,"-0.34274277867,51.4022939189","KT8 9AE, UK",Hampton Court,Surrey
+HMW,5589,"-0.312148414501,51.414024039","KT1 4DQ, UK",Hampton Wick,Greater London
+HIA,1033,"-1.69892742474,52.4273507812","B92 0BJ, UK",Hampton-In-Arden,West Midlands
+HSD,1145,"-1.92891175399,52.5310990647","B42 1NJ, UK",Hamstead,West Midlands
+HAM,5940,"-2.0194234,50.7252255","BH16 5AA, UK",Hamworthy,Poole
 HND,3007,?,"OX8 6TF, UK",Handborough,Oxfordshire
-HTH,2767,?,"SK9 3AB, UK",Handforth,Cheshire
-HAN,3191,?,"W7 3EB, UK",Hanwell,Greater London
-HPN,2557,?,"BB12 7LG, UK",Hapton,Lancashire
-HRL,4458,?,"LL46 2UL, UK",Harlech,Gwynedd - Gwynedd
-HDN,1521,?,"NW10 7AA, UK",Harlesden,Greater London
-HRD,7374,?,"NR16 2QP, UK",Harling Road,Norfolk
-HLN,1533,?,"LU5 6LD, UK",Harlington,Bedfordshire
-HWM,6804,?,"CM20 2EL, UK",Harlow Mill,Essex
-HWN,6827,?,"CM20 2JD, UK",Harlow Town,Essex
-HRO,6879,?,"RM3 0BL, UK",Harold Wood,Greater London
-HPD,1543,?,"AL5 4ST, UK",Harpenden,Hertfordshire
-HRM,5140,?,"ME17 1JA, UK",Harrietsham,Kent
-HGY,6012,?,"N4 1RE, UK",Harringay,Greater London
-HRY,7401,?,"N4 1DR, UK",Harringay Green Lanes,Greater London
-HRR,2027,?,"CA14 5QQ, UK",Harrington,Cumbria
-HGT,8213,?,"HG1 1TE, UK",Harrogate,North Yorkshire
+HTH,2767,"-2.2130291,53.3467247","SK9 3AB, UK",Handforth,Cheshire
+HAN,3191,"-0.338037476413,51.5121859988","W7 3EB, UK",Hanwell,Greater London
+HPN,2557,"-2.31567406381,53.7825185324","BB12 7LG, UK",Hapton,Lancashire
+HRL,4458,"-4.1095471284,52.8625412733","LL46 2UL, UK",Harlech,Gwynedd - Gwynedd
+HDN,1521,"-0.257688913634,51.5363116968","NW10 7AA, UK",Harlesden,Greater London
+HRD,7374,"0.910518116339,52.4542376464","NR16 2QP, UK",Harling Road,Norfolk
+HLN,1533,"-0.494371817559,51.9623053329","LU5 6LD, UK",Harlington,Bedfordshire
+HWM,6804,"0.13229391735,51.7903820277","CM20 2EL, UK",Harlow Mill,Essex
+HWN,6827,"0.0951595240926,51.7810412648","CM20 2JD, UK",Harlow Town,Essex
+HRO,6879,"0.232887944983,51.59433364","RM3 0BL, UK",Harold Wood,Greater London
+HPD,1543,"-0.35272508777,51.8155246812","AL5 4ST, UK",Harpenden,Hertfordshire
+HRM,5140,"0.673137193071,51.2442108239","ME17 1JA, UK",Harrietsham,Kent
+HGY,6012,"-0.10522961673,51.577538349","N4 1RE, UK",Harringay,Greater London
+HRY,7401,"-0.0979999214283,51.5771695908","N4 1DR, UK",Harringay Green Lanes,Greater London
+HRR,2027,"-3.56482282264,54.6115833888","CA14 5QQ, UK",Harrington,Cumbria
+HGT,8213,"-1.53753634466,53.9927552524","HG1 1TE, UK",Harrogate,North Yorkshire
 HRW,1397,?,"HA3 5BP, UK",Harrow & Wealdstone,Greater London
-HOH,598,?,"HA1 1BB, UK",Harrow-On-The-Hill,Greater London
-HTF,2230,?,"CW8 1QX, UK",Hartford,Cheshire
-HBY,4579,?,"DY10 4HB, UK",Hartlebury,Worcestershire
-HPL,8009,?,"TS24 7ED, UK",Hartlepool,Hartlepool
+HOH,598,"-0.336654650466,51.5792506219","HA1 1BB, UK",Harrow-On-The-Hill,Greater London
+HTF,2230,"-2.55345580618,53.2422112444","CW8 1QX, UK",Hartford,Cheshire
+HBY,4579,"-2.22050667865,52.3352714652","DY10 4HB, UK",Hartlebury,Worcestershire
+HPL,8009,"-1.20765700876,54.686759596","TS24 7ED, UK",Hartlepool,Hartlepool
 HTW,9246,?,"ML7 7DU, UK",Hartwood,North Lanarkshire
-HPQ,6902,?,"CO12 4SR, UK",Harwich International,Essex
-HWC,6905,?,"CO12 3NA, UK",Harwich Town,Essex
-HSL,5633,?,"GU27 2PE, UK",Haslemere,Surrey
-HSK,5489,?,"BN6 8JD, UK",Hassocks,West Sussex
-HGS,5219,?,"TN34 1BA, UK",Hastings,East Sussex
-HTE,1398,?,"HA5 4HU, UK",Hatch End,Greater London
-HAT,6070,?,"AL9 5AB, UK",Hatfield,Hertfordshire
+HPQ,6902,"1.2549423,51.9472187","CO12 4SR, UK",Harwich International,Essex
+HWC,6905,"1.28677132997,51.9443212272","CO12 3NA, UK",Harwich Town,Essex
+HSL,5633,"-0.716036236027,51.0896567396","GU27 2PE, UK",Haslemere,Surrey
+HSK,5489,"-0.145729,50.9247514","BN6 8JD, UK",Hassocks,West Sussex
+HGS,5219,"0.577883347141,50.8577272527","TN34 1BA, UK",Hastings,East Sussex
+HTE,1398,"-0.368726663601,51.6093816782","HA5 4HU, UK",Hatch End,Greater London
+HAT,6070,"-0.215544448587,51.7638957078","AL9 5AB, UK",Hatfield,Hertfordshire
 HFS,6528,?,"DN7 4EQ, UK",Hatfield & Stainforth,South Yorkshire
-HAP,6845,?,"CM3 2DX, UK",Hatfield Peverel,Essex
-HSG,2826,?,"S32 1DT, UK",Hathersage,Derbyshire
-HTY,2604,?,"SK14 3HG, UK",Hattersley,Greater Manchester
-HTN,4594,?,"CV35 7LE, UK",Hatton,Warwickshire
-HAV,5532,?,"PO9 1PP, UK",Havant,Hampshire
-HVN,6260,?,"PE24 4AR, UK",Havenhouse,Lincolnshire
-HVF,4079,?,"SA61 1TY, UK",Haverfordwest,Pembrokeshire - Sir Benfro
-HWD,2428,?,"CH5 1PY, UK",Hawarden,Flintshire - Sir Y Fflint
-HWB,2146,?,"CH5 1PY, UK",Hawarden Bridge,Flintshire - Sir Y Fflint
+HAP,6845,"0.592265927127,51.7798138464","CM3 2DX, UK",Hatfield Peverel,Essex
+HSG,2826,"-1.64790051978,53.3245317518","S32 1DT, UK",Hathersage,Derbyshire
+HTY,2604,"-2.04120279215,53.4490862709","SK14 3HG, UK",Hattersley,Greater Manchester
+HTN,4594,"-1.6729884099,52.295494921","CV35 7LE, UK",Hatton,Warwickshire
+HAV,5532,"-0.981396775,50.853832075","PO9 1PP, UK",Havant,Hampshire
+HVN,6260,"0.273002017658,53.1147304879","PE24 4AR, UK",Havenhouse,Lincolnshire
+HVF,4079,"-4.95955440482,51.8013509346","SA61 1TY, UK",Haverfordwest,Pembrokeshire - Sir Benfro
+HWD,2428,"-3.0327108886,53.2146706218","CH5 1PY, UK",Hawarden,Flintshire - Sir Y Fflint
+HWB,2146,"-3.0327108886,53.2146706218","CH5 1PY, UK",Hawarden Bridge,Flintshire - Sir Y Fflint
 HKH,9634,?,"PA2 7BB, UK",Hawkhead,Renfrewshire
-HDB,7569,?,"NE47 6LL, UK",Haydon Bridge,Northumberland
-HYR,5289,?,"SW19 8SL, UK",Haydons Road,Greater London
-HYS,5050,?,"BR2 7EN, UK",Hayes (Kent),Greater London
-HAY,3186,?,"UB3 4BX, UK",Hayes & Harlington,Greater London
-HYL,3513,?,"TR27 4NG, UK",Hayle,Cornwall And Isles Of Scilly
+HDB,7569,"-2.24621009024,54.9746685706","NE47 6LL, UK",Haydon Bridge,Northumberland
+HYR,5289,"-0.189156164789,51.425542001","SW19 8SL, UK",Haydons Road,Greater London
+HYS,5050,"0.0107006916504,51.3763388894","BR2 7EN, UK",Hayes (Kent),Greater London
+HAY,3186,"-0.420298231112,51.50340438","UB3 4BX, UK",Hayes & Harlington,Greater London
+HYL,3513,"-5.41914488084,50.1852845812","TR27 4NG, UK",Hayle,Cornwall And Isles Of Scilly
 HYM,9419,?,"EH12 5EY, UK",Haymarket,Edinburgh City Of
-HHE,5490,?,"RH16 1DJ, UK",Haywards Heath,West Sussex
-HAZ,2768,?,"SK7 4EX, UK",Hazel Grove,Greater Manchester
-HCN,5220,?,"TN27 9SD, UK",Headcorn,Kent
-HDY,8498,?,"LS5 3LD, UK",Headingley,West Yorkshire
-HDL,1434,?,"HA2 6NB, UK",Headstone Lane,Greater London
-HDG,2860,?,"SK8 3DY, UK",Heald Green,Greater Manchester
+HHE,5490,"-0.104692125396,51.005111336","RH16 1DJ, UK",Haywards Heath,West Sussex
+HAZ,2768,"-2.12221690355,53.3781921191","SK7 4EX, UK",Hazel Grove,Greater Manchester
+HCN,5220,"0.627645530956,51.1660768061","TN27 9SD, UK",Headcorn,Kent
+HDY,8498,"-1.59418795205,53.8178973315","LS5 3LD, UK",Headingley,West Yorkshire
+HDL,1434,"-0.35960807386,51.6032929856","HA2 6NB, UK",Headstone Lane,Greater London
+HDG,2860,"-2.2241401,53.3716468667","SK8 3DY, UK",Heald Green,Greater Manchester
 HLI,6283,?,"DN37 7RY, UK",Healing,North East Lincolnshire
-HHL,3845,?,"CF23 5QT, UK",Heath High Level,Cardiff - Caerdydd
-HLL,3908,?,"CF14 3RT, UK",Heath Low Level,Cardiff - Caerdydd
-HTC,2861,?,"SK4 4NX, UK",Heaton Chapel,Greater Manchester
-HBD,8524,?,"HX7 6JE, UK",Hebden Bridge,West Yorkshire
-HEC,6220,?,"NG34 9UJ, UK",Heckington,Lincolnshire
-HDE,5893,?,"SO30 2RZ, UK",Hedge End,Hampshire
-HNF,1148,?,"WS12 1AZ, UK",Hednesford,Staffordshire
-HEI,7887,?,"DL5 6PX, UK",Heighington,Durham
-HLC,9981,?,"G84 7QF, UK",Helensburgh Central,Argyll And Bute
-HLU,9982,?,"G84 9LG, UK",Helensburgh Upper,Argyll And Bute
-HLD,2656,?,"BD23 4HN, UK",Hellifield,North Yorkshire
-HMS,8647,?,"KW8 6HH, UK",Helmsdale,Highland
-HSB,2149,?,"WA6 0AE, UK",Helsby,Cheshire
-HML,1391,?,"HP3 9BQ, UK",Hemel Hempstead,Hertfordshire
-HEN,1522,?,"NW4 4PN, UK",Hendon,Greater London
-HNG,4028,?,"CF82 7LT, UK",Hengoed,Caerphilly - Caerffili
+HHL,3845,"-3.17847434764,51.5126075043","CF23 5QT, UK",Heath High Level,Cardiff - Caerdydd
+HLL,3908,"-3.13698084215,51.47526065","CF14 3RT, UK",Heath Low Level,Cardiff - Caerdydd
+HTC,2861,"-2.18182655937,53.4242292363","SK4 4NX, UK",Heaton Chapel,Greater Manchester
+HBD,8524,"-2.00871031087,53.7377152185","HX7 6JE, UK",Hebden Bridge,West Yorkshire
+HEC,6220,"-0.292341339734,52.9764217266","NG34 9UJ, UK",Heckington,Lincolnshire
+HDE,5893,"-1.2945099,50.93230075","SO30 2RZ, UK",Hedge End,Hampshire
+HNF,1148,"-2.0019759,52.7099433","WS12 1AZ, UK",Hednesford,Staffordshire
+HEI,7887,"-1.6030453799,54.606676056","DL5 6PX, UK",Heighington,Durham
+HLC,9981,"-4.7321701,56.004048","G84 7QF, UK",Helensburgh Central,Argyll And Bute
+HLU,9982,"-4.73555367231,56.0117475275","G84 9LG, UK",Helensburgh Upper,Argyll And Bute
+HLD,2656,"-2.22793711071,54.0109813085","BD23 4HN, UK",Hellifield,North Yorkshire
+HMS,8647,"-3.66426778843,58.1169572465","KW8 6HH, UK",Helmsdale,Highland
+HSB,2149,"-2.77001667225,53.2748885333","WA6 0AE, UK",Helsby,Cheshire
+HML,1391,"-0.489201369529,51.7421426009","HP3 9BQ, UK",Hemel Hempstead,Hertfordshire
+HEN,1522,"-0.237393810864,51.5807041049","NW4 4PN, UK",Hendon,Greater London
+HNG,4028,"-3.2256515,51.6469505","CF82 7LT, UK",Hengoed,Caerphilly - Caerffili
 HNL,4524,?,"B95 5JH, UK",Henley-In-Arden,Warwickshire
-HOT,3146,?,"RG9 1AY, UK",Henley-On-Thames,Oxfordshire
-HEL,8129,?,"DN14 0QN, UK",Hensall,North Yorkshire
-HFD,3607,?,"HR1 1BB, UK",Hereford,Herefordshire County Of
-HNB,5174,?,"CT6 8PJ, UK",Herne Bay,Kent
-HNH,5066,?,"SE24 0JW, UK",Herne Hill,Greater London
-HER,5590,?,"KT12 4SQ, UK",Hersham,Surrey
-HFE,6818,?,"SG14 1SB, UK",Hertford East,Hertfordshire
-HFN,6085,?,"SG14 1NB, UK",Hertford North,Hertfordshire
-HES,8067,?,"HU13 0EL, UK",Hessle,East Riding Of Yorkshire
-HSW,2138,?,"CH60 1XQ, UK",Heswall,Merseyside
-HEV,5417,?,"TN8 7ER, UK",Hever,Kent
-HEW,7766,?,"NE10 0NE, UK",Heworth,Tyne And Wear
-HEX,7506,?,"NE46 1EU, UK",Hexham,Northumberland
+HOT,3146,"-0.902000921675,51.5341429154","RG9 1AY, UK",Henley-On-Thames,Oxfordshire
+HEL,8129,"-1.11552173232,53.69910994","DN14 0QN, UK",Hensall,North Yorkshire
+HFD,3607,"-2.7103324061,52.0615929547","HR1 1BB, UK",Hereford,Herefordshire County Of
+HNB,5174,"1.11785181668,51.3645413605","CT6 8PJ, UK",Herne Bay,Kent
+HNH,5066,"-0.10254851838,51.4539913818","SE24 0JW, UK",Herne Hill,Greater London
+HER,5590,"-0.390312910759,51.3761506417","KT12 4SQ, UK",Hersham,Surrey
+HFE,6818,"-0.0728784691997,51.7991494012","SG14 1SB, UK",Hertford East,Hertfordshire
+HFN,6085,"-0.0918796757686,51.7987579705","SG14 1NB, UK",Hertford North,Hertfordshire
+HES,8067,"-0.444442332042,53.7175073627","HU13 0EL, UK",Hessle,East Riding Of Yorkshire
+HSW,2138,"-3.07408659246,53.3294385207","CH60 1XQ, UK",Heswall,Merseyside
+HEV,5417,"0.09489805,51.1813329","TN8 7ER, UK",Hever,Kent
+HEW,7766,"-1.55768065829,54.9521244376","NE10 0NE, UK",Heworth,Tyne And Wear
+HEX,7506,"-2.09491978316,54.9734430126","NE46 1EU, UK",Hexham,Northumberland
 HYD,3194,?,"OX6 8UL, UK",Heyford,Oxfordshire
-HHB,2691,?,"LA3 2XE, UK",Heysham Harbour,Lancashire
-HIB,5235,?,"TN2 3XE, UK",High Brooms,Kent
-HST,9909,?,"G1 1PZ, UK",High Street,Glasgow City
-HWY,3054,?,"HP13 6NN, UK",High Wycombe,Buckinghamshire
-HGM,5202,?,"ME3 7JQ, UK",Higham,Kent
-HIP,6919,?,"E4 9LA, UK",Highams Park,Greater London
-HIG,3314,?,"TA9 3BT, UK",Highbridge & Burnham,Somerset
-HHY,6009,?,"N5 1RA, UK",Highbury & Islington,Greater London
-HTO,2356,?,"L38 3RX, UK",Hightown,Merseyside
-HLB,5236,?,"TN11 8LX, UK",Hildenborough,Kent
-HLF,9983,?,"G61 3PG, UK",Hillfoot,East Dunbartonshire
-HLE,9676,?,"G52 2LL, UK",Hillington East,Glasgow City
-HLW,9630,?,"G52 4NQ, UK",Hillington West,Glasgow City
+HHB,2691,"-2.91377556065,54.0333398811","LA3 2XE, UK",Heysham Harbour,Lancashire
+HIB,5235,"0.277375166667,51.1494","TN2 3XE, UK",High Brooms,Kent
+HST,9909,"-4.24060497951,55.859129223","G1 1PZ, UK",High Street,Glasgow City
+HWY,3054,"-0.74595925976,51.6297718664","HP13 6NN, UK",High Wycombe,Buckinghamshire
+HGM,5202,"0.466362470038,51.4265281188","ME3 7JQ, UK",Higham,Kent
+HIP,6919,"-6.79188523512e-05,51.6090514419","E4 9LA, UK",Highams Park,Greater London
+HIG,3314,"-2.97413305716,51.2189889919","TA9 3BT, UK",Highbridge & Burnham,Somerset
+HHY,6009,"-0.104212606336,51.5460989648","N5 1RA, UK",Highbury & Islington,Greater London
+HTO,2356,"-3.05694604075,53.5250385097","L38 3RX, UK",Hightown,Merseyside
+HLB,5236,"0.227240910075,51.2137804768","TN11 8LX, UK",Hildenborough,Kent
+HLF,9983,"-4.31837831306,55.9223715967","G61 3PG, UK",Hillfoot,East Dunbartonshire
+HLE,9676,"-4.3528774557,55.8537794982","G52 2LL, UK",Hillington East,Glasgow City
+HLW,9630,"-4.37453462559,55.8567696746","G52 4NQ, UK",Hillington West,Glasgow City
 HIL,2231,?,"PR8 4QR, UK",Hillside,Merseyside
 HLS,5539,?,"PO3 5PT, UK",Hilsea,Portsmouth
-HYW,5591,?,"KT10 0SR, UK",Hinchley Wood,Surrey
-HNK,1870,?,"LE10 1UE, UK",Hinckley,Leicestershire
-HIN,2398,?,"WN2 2QJ, UK",Hindley,Greater Manchester
+HYW,5591,"-0.33905475,51.374481075","KT10 0SR, UK",Hinchley Wood,Surrey
+HNK,1870,"-1.3711055,52.5351729","LE10 1UE, UK",Hinckley,Leicestershire
+HIN,2398,"-2.57555739637,53.5418707109","WN2 2QJ, UK",Hindley,Greater Manchester
 HNA,5880,?,"BH23 6JS, UK",Hinton Admiral,Hampshire
-HIT,6086,?,"SG4 9UL, UK",Hitchin,Hertfordshire
-HGR,5107,?,"SE13 5NF, UK",Hither Green,Greater London
-HOC,6880,?,"SS5 4BG, UK",Hockley,Essex
-HBN,5141,?,"ME17 1TX, UK",Hollingbourne,Kent
-HCH,1221,?,"CW4 8AA, UK",Holmes Chapel,Cheshire
-HLM,5308,?,"RH5 4RB, UK",Holmwood,Surrey
+HIT,6086,"-0.263409853375,51.9532355205","SG4 9UL, UK",Hitchin,Hertfordshire
+HGR,5107,"0.00054144995061,51.4520973888","SE13 5NF, UK",Hither Green,Greater London
+HOC,6880,"0.659104913161,51.6033534673","SS5 4BG, UK",Hockley,Essex
+HBN,5141,"0.630430401527,51.2621953722","ME17 1TX, UK",Hollingbourne,Kent
+HCH,1221,"-2.34985498556,53.1992069062","CW4 8AA, UK",Holmes Chapel,Cheshire
+HLM,5308,"-0.321695875205,51.1815941881","RH5 4RB, UK",Holmwood,Surrey
 HOL,5941,?,"BH16 6JT, UK",Holton Heath,Dorset
 HHD,2437,?,"LL65 2BT, UK",Holyhead,Isle Of Anglesey - Sir Ynys Mon
 HLY,9738,?,"ML1 4HD, UK",Holytown,North Lanarkshire
@@ -1906,7 +1906,7 @@ ROS,9190,?,"KY11 2JF, UK",Rosyth,Fife
 RMC,6676,?,"S60 1QH, UK",Rotherham Central,South Yorkshire
 ROE,1039,?,"SE16 4LF , UK",Rotherhithe,Greater London
 RNR,7297,?,"NR27 9LN, UK",Roughton Road,Norfolk
-RLN,5658,?,"PO9 6BP, UK",Rowland's Castle,Hampshire
+RLN,5658,"-0.95916380243,50.8927630411","PO9 6BP, UK",Rowland's Castle,Hampshire
 ROW,4606,?,"B65 0LJ, UK",Rowley Regis,West Midlands
 RYB,8835,?,"PH31 4AH, UK",Roy Bridge,Highland
 RYN,6829,?,"CM19 5EH, UK",Roydon,Essex
