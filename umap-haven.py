@@ -47,13 +47,13 @@ def postcodeToGeo_lon_lat(postcode):
 # https://www.haven.com/parks/
 
 csv_w = csv.writer(open("umap-haven.csv", 'w'))
-csv_w.writerow(["name", "postcode", "lon", "lat"])
+csv_w.writerow(["name", "postcode", "lon", "lat", "color"])
 for anchor in soup.find_all("a"):
     href = anchor["href"].replace("/parks/", "https://www.haven.com/parks/")
     title = anchor["title"]
     if not ("touring-camping" in href):
         postcode = FindPostcode(href)
         lon, lat = postcodeToGeo_lon_lat(postcode)
-        csv_w.writerow([title.encode("ascii", "ignore"), postcode, lon, lat])
+        csv_w.writerow([title.encode("ascii", "ignore"), postcode, lon, lat, "Red"])
         
 urlcache.close()
